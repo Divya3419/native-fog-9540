@@ -1,7 +1,7 @@
 
 import './App.css';
 
-import MainRoutes from './component/MainRoutes';
+import MainRoutes from './Pages/MainRoutes';
 
 
 function App() {

@@ -1,10 +1,10 @@
 import React from 'react'
 import { Routes, Route } from 'react-router-dom'
-import Abel from '../Pages/Abel'
-import BabyFoot from '../Pages/BabyFoot'
-import Brands from '../Pages/Brands'
-import Caudalie from '../Pages/Caudalie'
-import SlidingText from './SlidingText'
+import Abel from './Abel'
+import BabyFoot from './BabyFoot'
+import Brands from './Brands'
+import Caudalie from './Caudalie'
+import SlidingText from '../component/SlidingText'
 
 
 const MainRoutes = () => {
