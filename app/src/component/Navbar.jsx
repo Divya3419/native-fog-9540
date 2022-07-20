@@ -1,3 +1,4 @@
+
 import { SearchIcon } from '@chakra-ui/icons'
 import { Box, Img } from '@chakra-ui/react'
 import React from 'react'
@@ -51,6 +52,7 @@ const Navbar = () => {
     <Box border="2px solid black" backgroundColor="black" color="white" fontSize="12px">
         <marquee>FREE GIFT WITH PURCHES. BROWSE NOW</marquee>
         </Box>
+
     </>
   )
 }
