@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import './App.css
+import './App.css'
 import Navbar from './component/Navbar';
 import MainRoute from './Pages/MainRoute';
 
