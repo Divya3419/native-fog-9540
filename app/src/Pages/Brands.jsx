@@ -11,7 +11,7 @@ const Brands = () => {
     }
   return (
     <>
-  <Navbar/>
+  
     <div>
 
 {/* <div className='brandnav'>FREE OVERNIGHT SHIPPING WITHOUT MINIMUM PURCHASE</div> */}
