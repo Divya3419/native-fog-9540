@@ -1,10 +1,11 @@
 import React from 'react'
-import Navbar from '../component/Navbar'
+
+import SlidingText from '../component/SlidingText'
 
 const Abel = () => {
   return (
     <>
-    <Navbar/>
+    <SlidingText/>
     {/* <Home/> */}
     <div>
       <div className='start'>

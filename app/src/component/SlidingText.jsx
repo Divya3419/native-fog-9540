@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from 'react'
 
 
-const Navbar = () => {
+const SlidingText = () => {
     const [ words, setWords ] = useState(['FREE OVERNIGHT SHIPPING WITHOUT MINIMUM PURCHASE', 'FREE SAMPLE WITH ALL ORDERS', 'FREE GIFTS WITH PURCHASE'])
 
     const wrapperRef = useRef()
@@ -80,4 +80,4 @@ const Navbar = () => {
   )
 }
 
-export default Navbar
+export default SlidingText
