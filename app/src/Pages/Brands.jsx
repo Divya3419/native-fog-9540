@@ -1,15 +1,15 @@
 import React from 'react'
-import { Link, useNavigate } from 'react-router-dom'
+import { Link} from 'react-router-dom'
 import SlidingText from '../component/SlidingText'
-import Navbar from '../component/SlidingText'
+
 import "./Brands.css"
 const Brands = () => {
 
-    const nav= useNavigate()
+    // const nav= useNavigate()
 
-    const handleClick=()=>{
-        nav("/abel")
-    }
+    // const handleClick=()=>{
+    //     nav("/abel")
+    // }
   return (
     <>
   <SlidingText/>

@@ -1,6 +1,6 @@
-import logo from './logo.svg';
+
 import './App.css';
-import Brands from './Pages/Brands';
+
 import MainRoutes from './component/MainRoutes';
 
 

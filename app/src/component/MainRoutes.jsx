@@ -1,4 +1,4 @@
-import React, { startTransition } from 'react'
+import React from 'react'
 import { Routes, Route } from 'react-router-dom'
 import Abel from '../Pages/Abel'
 import BabyFoot from '../Pages/BabyFoot'
