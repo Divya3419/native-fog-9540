@@ -1,19 +1,17 @@
 import logo from './logo.svg';
-import './App.css';
-import Brands from './Pages/Brands';
-import MainRoutes from './component/MainRoutes';
+import './App.css
+import Navbar from './component/Navbar';
+import MainRoute from './Pages/MainRoute';
 
+import Brands from './Pages/Brands';
 
 function App() {
   return (
     <div className="App">
 
-<MainRoutes/>
-      
+      <MainRoute/>
+          </div>
 
-      
-
-    </div>
   );
 }
 
