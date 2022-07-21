@@ -19,6 +19,7 @@ const MainRoute = () => {
     <Navbar/>
     <Routes>
 
+
       
 
         <Route path='/' element={<Home/>} />
