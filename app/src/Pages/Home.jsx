@@ -309,7 +309,6 @@ const Home = () => {
             fontWeight="550"
             color={"#293D5E"}
             letterSpacing={'0.5px'}
-            paddingBottom="6px"
             cursor={"pointer"}
             textDecoration="underline"
              textUnderlineOffset={'10px'}
