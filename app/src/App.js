@@ -1,19 +1,18 @@
 
-import './App.css';
 
-import MainRoutes from './Pages/MainRoutes';
+
+import './App.css'
+import MainRoute from './Pages/MainRoute';
+
 
 
 function App() {
   return (
     <div className="App">
 
-<MainRoutes/>
-      
+      <MainRoute/>
+          </div>
 
-      
-
-    </div>
   );
 }
 

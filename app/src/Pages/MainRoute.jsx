@@ -1,25 +1,29 @@
 import React from 'react'
-import { Routes, Route } from 'react-router-dom'
+
+
+import { Route, Routes } from 'react-router-dom'
+import Navbar from '../component/Navbar'
 import Abel from './Abel'
 import BabyFoot from './BabyFoot'
 import Brands from './Brands'
 import Caudalie from './Caudalie'
-import SlidingText from '../component/SlidingText'
+import Location from './Location'
 
-
-const MainRoutes = () => {
+const MainRoute = () => {
   return (
-    <div>
-        <Routes>
+    <>
+    <Navbar/>
+    <Routes>
+        
+        <Route path="/location" element={<Location/>}/>
         <Route path="/" element={<Brands/>}/>
             <Route path="/abel" element={<Abel/>}/>
             <Route path="/babyfoot" element={<BabyFoot/>}/>
             <Route path="/caudalie" element={<Caudalie/>}/>
-            <Route path="/slidingtext" element={<SlidingText/>}/>
-        </Routes>
-            
-    </div>
+    </Routes>
+    </>
   )
 }
 
-export default MainRoutes
+export default MainRoute
+
