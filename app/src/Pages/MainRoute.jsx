@@ -7,6 +7,10 @@ import Brands from './Brands'
 import Caudalie from './Caudalie'
 import Home from './Home'
 import Location from './Location'
+import NewProducts from './NewProducts'
+import "../App.css";
+
+
 
 
 const MainRoute = () => {
@@ -14,12 +18,17 @@ const MainRoute = () => {
     <>
     <Navbar/>
     <Routes>
-        <Route path='/' element={<Home/>} />
-        <Route path="/location" element={<Location/>}/>
-        <Route path="/brands" element={<Brands/>}/>
-            <Route path="/abel" element={<Abel/>}/>
-            <Route path="/babyfoot" element={<BabyFoot/>}/>
-            <Route path="/caudalie" element={<Caudalie/>}/>
+    <Route path="/location" element={<Location/>}/>
+    <Route path="/abel" element={<Abel/>}/>
+    <Route path="/babyfoot" element={<BabyFoot/>}/>
+
+    <Route path="/caudalie" element={<Caudalie/>}/>
+          
+    <Route path="/brands" element={<Brands/>}/>
+            
+    <Route path='/' element={<Home/>} />
+  
+    <Route path="/NewProducts" element={<NewProducts/>}/>
             
     </Routes>
     </>
