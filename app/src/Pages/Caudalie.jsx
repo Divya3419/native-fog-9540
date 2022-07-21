@@ -1,8 +1,58 @@
-import React from 'react'
+
+import React, { useEffect } from 'react'
+import { useDispatch, useSelector } from 'react-redux';
+import { useNavigate } from 'react-router-dom';
+import Navbar from '../component/Navbar';
+import { fetchDataC } from '../Redux/action';
 
 const Caudalie = () => {
+  const nav=useNavigate()
+  const dispatch = useDispatch();
+  useEffect(() => {
+    dispatch(fetchDataC("pencil"));
+  }, []);
+
+  const ProductData = useSelector((store) => {
+    return store.data.products;
+  });
+
+  const handleClick=(id)=>{
+    // nav(`/product/${id}`)
+    // console.log(id)
+  }
+
+  console.log("ProductData:", ProductData);
   return (
-    <div>Caudalie</div>
+    <>
+ 
+     <div className='all-product'>
+    {ProductData.map((e) => {
+        const { title,name,image,image_link,brand, price, description, category,  id, rating } = e;
+        function convert(a, b) {
+          const x = +a;
+          const y = +b;
+          return ((x - y) / x) * 100;
+        }
+        return (
+     
+          <div  className="prt-div" key={id} onClick={()=>{handleClick(id)}}>
+
+            <img src={image_link}></img>
+            <div className="view">
+              <div className="view-icon" onClick={ ()=>{ nav(`/product/${id}`)}}></div>
+              {/* < FavoriteBorderOutlinedIcon className="love-icon-1" onClick={ ()=>{ Addtowishlist( id) }}/> */}
+            </div>
+            <div className="prt-name">{name}</div>
+            <div className="prt-type">{brand}</div>
+            <div className="prt-type">{price}</div>
+       
+            <div className="prt-finalPrice">{` $ ${price}`}</div>
+          </div>
+        );
+      })}
+    </div>
+
+    </>
   )
 }
 
