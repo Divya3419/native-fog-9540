@@ -4,7 +4,7 @@ import Navbar from '../component/Navbar'
 const Abel = () => {
   return (
     <>
-    <Navbar/>
+
     {/* <Home/> */}
     <div>
       <div className='start'>

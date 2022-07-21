@@ -1,81 +1,58 @@
-import React, { useEffect, useRef, useState } from 'react'
 
-
+import { SearchIcon } from '@chakra-ui/icons'
+import { Box, Img } from '@chakra-ui/react'
+import React from 'react'
+import {Link as RouteLink} from "react-router-dom"
 const Navbar = () => {
-    const [ words, setWords ] = useState(['FREE OVERNIGHT SHIPPING WITHOUT MINIMUM PURCHASE', 'FREE SAMPLE WITH ALL ORDERS', 'FREE GIFTS WITH PURCHASE'])
-
-    const wrapperRef = useRef()
-  
-    const handleAnim = () => {
-  
-      setTimeout(() => {
-        const copyWords = [ ...words ];
-        const firstElem = copyWords.splice(1)
-        wrapperRef.current.style.transition = 'none';
-        wrapperRef.current.style.top = '0px'
-        setWords([ ...firstElem.concat(copyWords) ])
-      },2000);
-  
-      wrapperRef.current.style.transition = '0.5s';
-      wrapperRef.current.style.top = '-70px'
-    }
-    useEffect(() => {
-      setTimeout(() => {
-        handleAnim()
-      }, 3000);
-    })
   return (
     <>
-    <div className="test-container">
+    <Box  height="40px"  display="grid" gridTemplateColumns="25% 50% 25%" marginTop="20px">
 
-    <div className='text-container-word'>
-      <div ref={wrapperRef} className='text-container-word-wrapper'>
-        <span className='text-word'>{words[0]}</span>
-        <span className='text-word'>{words[1]}</span>
-      </div>
-    </div>
-  </div>
-  <style jsx>
-        {`
-          .test-container {
-           
-            width: 100%;
-            display: flex;
-          }
-       
-          .text-container-word {
-            position: relative;
-            width: 100%;
-            height: 50px;
-            background-color: #12284C;
-            color:#D7EBF2;
-            display: inline-block;
-            overflow: hidden;
-           
-          }
-          .text-container-word-wrapper {
-            height: auto;
-            position: relative;
-            top: 0px;
-          }
-          .test-container h1 {
-            position: relative;
-            display: inline;
-            padding: 10px;
-          }
-          .text-word {
-            height: 70px;
-            font-size: 22px;
-            font-family: 20px "Montserrat Regular", sans-serif
-            font-weight: bold;
-            display: block;
-            transition: 0.5s;
-            line-height: 70px;
-          }
-       
+<Box fontSize="12px" color="blue.400" >
+    <RouteLink  to ="/location"><Box display="flex" paddingLeft="40px"><Img width="6%" src="https://cdn-icons-png.flaticon.com/512/67/67347.png"/>
+        STORE & SPA LOCATOR</Box>
+        </RouteLink>
+</Box>
+<Box ></Box>
 
-        `}
-      </style>
+<Box fontSize="12px"  display="grid" gridTemplateColumns="repeat(4,1fr)">
+<Box display="flex" gap="10px"><Img width="30%" height="50%" src="https://icon-library.com/images/wishlist-icon/wishlist-icon-0.jpg"/>
+        WISHLIST</Box>
+ <Box><SearchIcon w={5} h={5} /> SEARCH</Box>   
+
+ <Box display="flex" gap="10px"><Img width="30%" height="50%" src="https://cdn-icons-png.flaticon.com/512/1946/1946429.png"/>
+        ACCOUNT</Box>
+        <Box display="flex" gap="10px"><Img width="30%" height="50%" src="https://image.shutterstock.com/image-vector/shopping-bag-icon-260nw-678890278.jpg"/>
+    BAG</Box>
+</Box>
+ </Box >
+
+    <Box height="40px"  display="grid" gridTemplateColumns="repeat(3,1fr)" >
+    <Box ></Box>
+    <Box >
+    <Img width="40%" margin="auto"  cursor="pointer" src="https://cdn.shopify.com/s/files/1/0283/0185/2747/files/bluemercury-logo_1216x.png?v=1648743182"/>
+    </Box>
+    <Box ></Box>
+        </Box>
+        
+
+<Box height="40px" display="grid" gridTemplateColumns="15% 70% 15%" >
+<Box ></Box>
+<Box display="grid" fontSize="12px" gridTemplateColumns="repeat(7,1fr)">
+<Box >SHOP</Box>
+<Box>NEW!</Box>
+<Box>BRAND</Box>
+<Box>EXPLORE</Box>
+<Box>EVENT</Box>
+<Box>BLUEREWARDS</Box>
+<Box>BEAUTY ALFRESCO</Box>
+</Box>
+<Box></Box>
+    </Box>
+    <Box border="2px solid black" backgroundColor="black" color="white" fontSize="12px">
+        <marquee>FREE GIFT WITH PURCHES. BROWSE NOW</marquee>
+        </Box>
+
     </>
   )
 }
