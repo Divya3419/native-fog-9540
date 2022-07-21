@@ -1,26 +1,27 @@
 import { Box, Input } from '@chakra-ui/react'
 import React from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import {faFacebook, faInstagram, faLinkedinIn, faTwitter} from "@fortawesome/free-brands-svg-icons"
+import {faFacebook, faInstagram,faPinterest,faTwitter, faYoutube} from "@fortawesome/free-brands-svg-icons"
 
 const Footer = () => {
   return (
     <Box borderTop="1px solid grey" textAlign="left" marginBottom="60px" color="grey" gap="50px" fontSize="14px" display="grid" gridTemplateColumns="repeat(5,1fr)">
 <Box  marginTop="20px" marginLeft="40px">
 Get Expert Beauty Insight & Offer
-<Input placeholder="EMAIL ADDRESS"/>
+<Input fontSize="10px" border="none" borderBottom="1px solid black" placeholder="EMAIL ADDRESS"/>
 By continuing, you agree to Bluemercury's 
 <br />
 <a href="https://bluemercury.com/pages/privacy-policy#privacyHowCollect" target="_blank">Privacy Practices.</a>
 
-<Box border="2px solid black">
+<Box fontSize="23px" color="black" display="grid" gridTemplateColumns="repeat(5,1fr)">
 
-<a href=""></a>
-<a href=""><FontAwesomeIcon icon={faFacebook}/></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
+<a href="https://twitter.com/bluemercury"><FontAwesomeIcon icon={faTwitter}/></a>
+<a href="https://www.pinterest.com/bluemercury/"><FontAwesomeIcon icon={faPinterest}/></a>
+<a href="https://www.facebook.com/bluemercury/"><FontAwesomeIcon icon={faFacebook}/></a>
+<a href="https://www.instagram.com/bluemercury/"><FontAwesomeIcon icon={faInstagram}/></a>
+<a href="https://www.youtube.com/channel/UCrgUXfV7IIFllEQMbzd9J3A"><FontAwesomeIcon icon={faYoutube}/></a>
 </Box>
+
 Copyright 2022 bluemercury. All Rights Reserved.
 
 </Box>
