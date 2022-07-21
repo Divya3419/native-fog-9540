@@ -237,6 +237,89 @@ const Home = () => {
           </Stack>
         </Box>
       </Box>
+
+      {/* Last */}
+
+      <Flex justifyContent={"center"} gap="1rem" marginTop={"8rem"} >
+        <Box width="30%" height={"auto"}>
+          <Image
+            src="https://cdn.shopify.com/s/files/1/0283/0185/2747/files/samples-content_block_705x705.jpg?v=1604551537"
+            width={"100%"}
+          />
+          <Text fontSize={"16px"} color={"#293D5E"} fontWeight="550">
+            FREE GIFTS WITH PURCHASE
+          </Text>
+          <Text fontSize={"16px"} color={"#727F94"}>
+          Stock up on all your favorite brands, then try something new on us
+          </Text>
+          <Text
+             fontSize="16px"
+             fontWeight="550"
+             color={"#293D5E"}
+             textDecoration="underline"
+             textUnderlineOffset={'10px'}
+             letterSpacing={'0.5px'}
+             paddingBottom="6px"
+             cursor={"pointer"}
+             
+          >
+            BROWSE NOW
+          </Text>
+        </Box>
+        <Box width="30%" height={"auto"}>
+          <Image
+            src="https://cdn.shopify.com/s/files/1/0283/0185/2747/files/consultation_promo_nav_1_705x705.jpg?v=1657733426"
+            width={"100%"}
+          />
+          <Text fontSize={"16px"} color={"#293D5E"} fontWeight="550" >
+          $20 OFF $100 WITH AN IN-STORE CONSULTATION!
+          </Text>
+          <Text fontSize={"16px"} color={"#727F94"}>
+          Our Beauty Experts can show you quick makeup application tricks and how to revamp your skincare regimen.
+          </Text>
+          <Box
+             fontSize="16px"
+             fontWeight="550"
+             color={"#293D5E"}
+             textDecoration="underline"
+             textUnderlineOffset={'10px'}
+             letterSpacing={'0.5px'}
+             paddingBottom="6px"
+             cursor={"pointer"}
+             width="auto"
+             
+          >
+            BOOK NOW
+          </Box>
+        </Box>
+
+        <Box width="30%" height={"auto"}>
+          <Image
+            src="https://cdn.shopify.com/s/files/1/0283/0185/2747/files/spa_menu_photo_705x705.jpg?v=1628018315"
+            width={"100%"}
+          />
+          <Text fontSize={"16px"} color={"#293D5E"} fontWeight="550">
+          BLUEMERCURY SPA
+          </Text>
+          <Text fontSize={"16px"} color={"#727F94"} >
+          Our luxurious spa services are customizable to your individual needs
+          </Text>
+          <Text
+            fontSize="16px"
+            fontWeight="550"
+            color={"#293D5E"}
+            letterSpacing={'0.5px'}
+            paddingBottom="6px"
+            cursor={"pointer"}
+            textDecoration="underline"
+             textUnderlineOffset={'10px'}
+          >
+            BROWSE THE MENU
+          </Text>
+        </Box>
+      </Flex>
+
+
     </>
   );
 };
