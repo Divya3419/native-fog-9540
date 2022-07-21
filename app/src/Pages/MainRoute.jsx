@@ -8,6 +8,7 @@ import BabyFoot from './BabyFoot'
 import Brands from './Brands'
 import Caudalie from './Caudalie'
 import Location from './Location'
+import newProducts from './newProducts/newProducts'
 
 const MainRoute = () => {
   return (
@@ -20,6 +21,8 @@ const MainRoute = () => {
             <Route path="/abel" element={<Abel/>}/>
             <Route path="/babyfoot" element={<BabyFoot/>}/>
             <Route path="/caudalie" element={<Caudalie/>}/>
+            <Route path="/newProducts" element={<newProducts/>}/>
+
     </Routes>
     </>
   )

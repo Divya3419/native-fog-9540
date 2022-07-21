@@ -12,7 +12,10 @@ const Brands = () => {
     // }
   return (
     <>
-  <SlidingText/>
+
+  <SlidingText/
+  
+
     <div>
 
 {/* <div className='brandnav'>FREE OVERNIGHT SHIPPING WITHOUT MINIMUM PURCHASE</div> */}

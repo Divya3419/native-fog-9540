@@ -4,8 +4,9 @@ import SlidingText from '../component/SlidingText'
 
 const Abel = () => {
   return (
-    <>
+   
     <SlidingText/>
+
     {/* <Home/> */}
     <div>
       <div className='start'>
