@@ -1,6 +1,6 @@
 import './App.css';
-import MainRoute from './Pages/MainRoute';
 
+import MainRoute from "./Pages/MainRoute"
 
 function App() {
   return (
