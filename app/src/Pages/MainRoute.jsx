@@ -20,11 +20,6 @@ const MainRoute = () => {
     <Routes>
 
         
-        <Route path="/location" element={<Location/>}/>
-        <Route path="/" element={<Brands/>}/>
-            <Route path="/abel" element={<Abel/>}/>
-            <Route path="/babyfoot" element={<BabyFoot/>}/>
-            <Route path="/caudalie" element={<Caudalie/>}/>
       
 
         <Route path='/' element={<Home/>} />
