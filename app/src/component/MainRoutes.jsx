@@ -15,8 +15,8 @@ const MainRoutes = () => {
             <Route path="/babyfoot" element={<BabyFoot/>}/>
             <Route path="/caudalie" element={<Caudalie/>}/>
             <Route path="/nav" element={<Navbar/>}/>
-        </Routes>
             
+        </Routes>
     </div>
   )
 }
