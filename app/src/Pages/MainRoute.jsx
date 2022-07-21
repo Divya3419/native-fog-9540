@@ -8,6 +8,7 @@ import Caudalie from './Caudalie'
 import Home from './Home'
 import Location from './Location'
 
+
 const MainRoute = () => {
   return (
     <>
