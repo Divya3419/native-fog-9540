@@ -5,6 +5,7 @@ import Abel from './Abel'
 import BabyFoot from './BabyFoot'
 import Brands from './Brands'
 import Caudalie from './Caudalie'
+import Home from './Home'
 import Location from './Location'
 
 
@@ -13,9 +14,9 @@ const MainRoute = () => {
     <>
     <Navbar/>
     <Routes>
-        
+        <Route path='/' element={<Home/>} />
         <Route path="/location" element={<Location/>}/>
-        <Route path="/" element={<Brands/>}/>
+        <Route path="/brands" element={<Brands/>}/>
             <Route path="/abel" element={<Abel/>}/>
             <Route path="/babyfoot" element={<BabyFoot/>}/>
             <Route path="/caudalie" element={<Caudalie/>}/>
