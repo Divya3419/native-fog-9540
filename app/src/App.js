@@ -1,18 +1,12 @@
-import logo from './logo.svg';
-import './App.css'
-import Navbar from './component/Navbar';
-import MainRoute from './Pages/MainRoute';
-
+import './App.css';
+import MainRoutes from './component/MainRoutes';
 import Brands from './Pages/Brands';
 
 function App() {
   return (
     <div className="App">
-
-      <MainRoute/>
-          </div>
-
+    <MainRoutes/>      
+    </div>
   );
 }
-
 export default App;
