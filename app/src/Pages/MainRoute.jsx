@@ -33,7 +33,6 @@ const MainRoute = () => {
             <Route path="/abel" element={<Abel/>}/>
             <Route path="/babyfoot" element={<BabyFoot/>}/>
             <Route path="/caudalie" element={<Caudalie/>}/>
-        
     </Routes>
     <Footer/>
     </>
