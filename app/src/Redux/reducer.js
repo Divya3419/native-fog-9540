@@ -1,4 +1,4 @@
-import { FETCH_DATA_REQUEST, FETCH_DATA_SUCCESS, FETCH_DATA_FAILURE, } from "./actionType";
+import { FETCH_MYDATA_REQUEST, FETCH_MYDATA_SUCCESS, FETCH_MYDATA_FAILURE, } from "./actionTypes";
 
 
 const initState = {
@@ -15,14 +15,14 @@ const initState = {
     const {type,payload}=action;
     switch(type)
     {
-        case FETCH_DATA_REQUEST:
+        case FETCH_MYDATA_REQUEST:
          return {
             ...state,
             loading:true,
             error:" "
         }
 
-        case FETCH_DATA_SUCCESS:
+        case FETCH_MYDATA_SUCCESS:
         return {
             ...state,
             products: payload,
@@ -30,7 +30,7 @@ const initState = {
             error:" "
         }
 
-        case FETCH_DATA_FAILURE:
+        case FETCH_MYDATA_FAILURE:
             return {
                 ... state,
                 loading:false,
