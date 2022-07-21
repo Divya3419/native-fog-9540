@@ -60,12 +60,11 @@ const Navbar = () => {
       <Box height="40px" display="grid" gridTemplateColumns="repeat(3,1fr)">
         <Box></Box>
         <Box>
-          <Img
+          <a href=""><Img
             width="40%"
             margin="auto"
-            cursor="pointer"
             src="https://cdn.shopify.com/s/files/1/0283/0185/2747/files/bluemercury-logo_1216x.png?v=1648743182"
-          />
+          /></a>
         </Box>
         <Box></Box>
       </Box>
