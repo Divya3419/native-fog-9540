@@ -1,5 +1,6 @@
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
+import Footer from '../component/Footer'
 import Navbar from '../component/Navbar'
 import Abel from './Abel'
 import BabyFoot from './BabyFoot'
@@ -22,6 +23,7 @@ const MainRoute = () => {
             <Route path="/caudalie" element={<Caudalie/>}/>
             
     </Routes>
+    <Footer/>
     </>
   )
 }
