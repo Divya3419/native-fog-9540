@@ -3,7 +3,7 @@ import axios from 'axios';
 import CardMedia from "./CardMedia"
 
 
-function New(){
+function newProducts(){
 
     const[cosmetics, setCosmetics] = useState(null);
 
@@ -28,4 +28,4 @@ function New(){
          );
 }
 
-export default New;
+export default newProducts;
