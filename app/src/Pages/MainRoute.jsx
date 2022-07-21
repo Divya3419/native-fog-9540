@@ -8,7 +8,7 @@ import Caudalie from './Caudalie'
 import Home from './Home'
 import Location from './Location'
 import NewProducts from './NewProducts'
-import "../App.css";
+
 
 
 
