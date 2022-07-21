@@ -1,11 +1,11 @@
 import './App.css';
-import MainRoutes from './component/MainRoutes';
+import MainRoute from "./Pages/MainRoute"
 import Brands from './Pages/Brands';
 
 function App() {
   return (
     <div className="App">
-    <MainRoutes/>      
+    <MainRoute/>      
     </div>
   );
 }
