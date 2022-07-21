@@ -1,14 +1,11 @@
 import { SearchIcon } from "@chakra-ui/icons";
 import { Box, Img } from "@chakra-ui/react";
 import React from "react";
-//import {useSelector} from 'react-redux'
+
 import { Link as RouteLink } from "react-router-dom";
-import CartCounter from "./CartCounter";
+
 const Navbar = () => {
-  // const nevigate=useNavigate();
-  // const { cartData } = useSelector((state) => {
-  //   return state;
-  // });
+ 
   return (
     <>
       <Box
@@ -51,18 +48,16 @@ const Navbar = () => {
             />
             ACCOUNT
           </Box>
-          <RouteLink to='/cart'>
+         
           <Box display="flex" gap="10px" position="relative" padding="0 0.5rem 0 0">
             <Img
               width="30%"
               height="50%"
               src="https://image.shutterstock.com/image-vector/shopping-bag-icon-260nw-678890278.jpg"
             />
-           
-            <CartCounter/>
             BAG
           </Box>
-          </RouteLink>
+        
         </Box>
       </Box>
 
@@ -98,7 +93,7 @@ const Navbar = () => {
         color="white"
         fontSize="12px"
       >
-        {/* <marquee>FREE GIFT WITH PURCHES. BROWSE NOW</marquee> */}
+        <marquee>FREE GIFT WITH PURCHES. BROWSE NOW</marquee>
       </Box>
     </>
   );
@@ -109,34 +104,3 @@ export default Navbar;
 
 
 
-{/* <div className="cart_icon">
-              <div
-                className="cart_svg"
-                onClick={() => {
-                  nevigate("/Cart");
-                }}
-              >
-                <ul className="Cart_Counter_PopUp">
-                  <li>
-                    <span className="CartCounterPopUp__summary___1Ff-x">
-                      Order Summary
-                    </span>
-                    <span className="CartCounterPopUp__count___3cYl6">
-                      {cartData.length} Item
-                    </span>
-                  </li>
-                  <li>
-                    <RouteLink
-                      to="/Cart"
-                      data-auto-proceed-cart="true"
-                      data-attribute="cart-counter-popup"
-                    >
-                      <span className="CartCounterPopUp__proceed___vJFRh">
-                        PROCEED TO CART
-                      </span>
-                    </RouteLink>
-                  </li>
-                </ul>
-              </div>
-              <div className="count">{cartData.length}</div>
-            </div> */}

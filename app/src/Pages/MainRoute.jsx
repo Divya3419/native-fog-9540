@@ -1,5 +1,6 @@
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
+import Cart from '../component/Cart'
 import Navbar from '../component/Navbar'
 import Abel from './Abel'
 import BabyFoot from './BabyFoot'
@@ -20,6 +21,7 @@ const MainRoute = () => {
             <Route path="/abel" element={<Abel/>}/>
             <Route path="/babyfoot" element={<BabyFoot/>}/>
             <Route path="/caudalie" element={<Caudalie/>}/>
+         
             
     </Routes>
     </>
