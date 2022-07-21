@@ -1,8 +1,8 @@
-import { FETCH_DATA_REQUEST, FETCH_DATA_SUCCESS, FETCH_DATA_FAILURE} from "./action.type";
+import { FETCH_MYDATA_REQUEST, FETCH_MYDATA_SUCCESS, FETCH_MYDATA_FAILURE} from "./actionTypes";
 import axios from "axios"
 const fetchDataRequest= (payload) => {
     return {
-        type: FETCH_DATA_REQUEST,
+        type: FETCH_MYDATA_REQUEST,
         payload
     }
 }
@@ -10,14 +10,14 @@ const fetchDataRequest= (payload) => {
 const fetchDataSuccess=(payload) => {
    console.log(payload)
     return {
-        type: FETCH_DATA_SUCCESS,
+        type: FETCH_MYDATA_SUCCESS,
         payload
     }
 }
 
 const fetchDataFailure=(payload) => {
     return {
-        type: FETCH_DATA_FAILURE,
+        type: FETCH_MYDATA_FAILURE,
         payload
 
     }
