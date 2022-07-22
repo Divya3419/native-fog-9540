@@ -1,5 +1,9 @@
-import { FETCH_DATA_REQUEST, FETCH_DATA_SUCCESS, FETCH_DATA_FAILURE} from "./action.type";
+//rasheed's
+
+import { FETCH_DATA_REQUEST, FETCH_DATA_SUCCESS, FETCH_DATA_FAILURE, FETCH_MYDATA_REQUEST, FETCH_MYDATA_SUCCESS, FETCH_MYDATA_FAILURE} from "./action.type";
 import axios from "axios"
+
+
 const fetchDataRequest= (payload) => {
     return {
         type: FETCH_DATA_REQUEST,
@@ -35,7 +39,8 @@ const fetchData=(payload)=> {
     }}
 
 
-    export {fetchData}
+    
+//baby data
     const fetchDatab=(Baby)=> {
         return (dispatch) => {
             dispatch (fetchDataRequest(Baby))
@@ -48,7 +53,7 @@ const fetchData=(payload)=> {
         .catch (err => dispatch(fetchDataFailure(err.data)))
     }}
 
-
+// pencildata
 
     const fetchDataC=(pencil)=>{
         return(dispatch)=>{
@@ -63,4 +68,48 @@ const fetchData=(payload)=> {
 
         }
     }
-    export { fetchDatab,fetchDataC}
+   
+
+
+
+    //abhishek's
+
+
+export const fetchmyDataRequest= (payload) => {
+    return {
+        type: FETCH_MYDATA_REQUEST,
+        payload
+    }
+}
+
+export const fetchmyDataSuccess=(payload) => {
+   console.log(payload)
+    return {
+        type: FETCH_MYDATA_SUCCESS,
+        payload
+    }
+}
+
+export const fetchmyDataFailure=(payload) => {
+    return {
+        type: FETCH_MYDATA_FAILURE,
+        payload
+
+    }
+}
+
+export const fetchmyData=(payload)=> {
+    return (dispatch) => {
+        dispatch (fetchDataRequest(payload))
+    
+   
+    axios.get("http://localhost:8080/products")
+
+    .then(res=> dispatch(fetchDataSuccess(res.data)))
+    .catch (err => dispatch(fetchDataFailure(err.data)))
+    }}
+
+
+    
+
+    export {fetchData, fetchDatab,fetchDataC}
