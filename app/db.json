@@ -5223,11 +5223,18 @@
       "dDec1":"Aloe Vera Extract moisturizes and nourishes baby’s delicate scalp skin.",
       "dDec2":"It is Tear-free, gentle yet efficient, with a 5.6 pH level – best suited for baby skin.",
       "dDec3":"It is enriched with the goodness of Coconut-based cleansers and Jojoba Oil. They help nourish the skin and increase its moisture content."
+  
+  }  ],
 
    }
 ],
 
+
+
+
+
 "products":
+
 [
 {
     "id": 1048,
@@ -8052,7 +8059,7 @@
     "website_link": "https://www.nyxcosmetics.com",
     "description": "Your lashes will reach new heights with our Fly With Me Mascara. Lashes appear more dramatic making average lashes look super-long and ultra dark. Pros adore the intense yet lightweight coverage and how the unique volumizing wand boosts even the wimpiest of the eyelashes.",
     "rating": null,
-    "category": null,
+    "category": "pencil",
     "product_type": "mascara",
     "tag_list": [],
     "created_at": "2017-12-24T02:33:07.960Z",
@@ -8073,7 +8080,7 @@
     "website_link": "https://www.nyxcosmetics.com",
     "description": "Get ready for aerodynamic lashes! The brush boasts a four-way pinwheel design that lifts lashes up and coats them in a conditioning formula enriched with Pro Vitamin B5 D-Panthenol and Green Tea Extract. Take it for a spin and enjoy!",
     "rating": null,
-    "category": null,
+    "category": "pencil",
     "product_type": "mascara",
     "tag_list": [],
     "created_at": "2017-12-24T02:33:07.488Z",
@@ -8094,7 +8101,7 @@
     "website_link": "https://www.nyxcosmetics.com",
     "description": "With just two swipes our lash top coat transforms your favorite mascara from being conventional to waterproof! Our formula helps prevent clumping and leaves lashes looking gorgeous.",
     "rating": null,
-    "category": null,
+    "category": "pencil",
     "product_type": "mascara",
     "tag_list": [],
     "created_at": "2017-12-24T02:33:06.827Z",
@@ -8115,7 +8122,7 @@
     "website_link": "https://www.nyxcosmetics.com",
     "description": "Give your lashes a boost with our Big \u0026 Loud Lash Primer. It works hand in hand with your favorite NYX Professional Makeup mascara to enhance the length and volume of lashes.",
     "rating": null,
-    "category": null,
+    "category": "pencil",
     "product_type": "mascara",
     "tag_list": [],
     "created_at": "2017-12-24T02:33:06.023Z",
@@ -8136,7 +8143,7 @@
     "website_link": "https://www.nyxcosmetics.com",
     "description": "",
     "rating": null,
-    "category": null,
+    "category": "pencil",
     "product_type": "mascara",
     "tag_list": [],
     "created_at": "2017-12-24T02:33:05.545Z",
@@ -8157,7 +8164,7 @@
     "website_link": "https://www.nyxcosmetics.com",
     "description": "Hello, dollface! For irresistibly fluttery eyelashes, try this mascara on for size. Doll Eye Mascara uses a unique blend of natural oil and nylon fibers to extend lashes to almost faux proportions. Choose from our Doll Eye Mascara in Long Lash, Volume or Waterproof.",
     "rating": null,
-    "category": null,
+    "category": "pencil",
     "product_type": "mascara",
     "tag_list": [],
     "created_at": "2017-12-24T02:33:04.665Z",
@@ -8183,7 +8190,7 @@
     "website_link": "https://www.nyxcosmetics.com",
     "description": "Our ultra-skinny mascara brush is perfect for coating hard to reach lashes from root to tipâ€”even along the bottom lash line! Finally the smallest, thinnest lashes can get extra special attention too. The water resistant formula and micro brush work together to create the appearance of long beautifully defined lashes.",
     "rating": null,
-    "category": null,
+    "category": "pencil",
     "product_type": "mascara",
     "tag_list": [],
     "created_at": "2017-12-24T02:33:02.793Z",
@@ -8204,7 +8211,7 @@
     "website_link": "https://www.nyxcosmetics.com",
     "description": "Take our word for it: if you want your lashes to look darker, fuller and lethally gorgeous all day long, then our new Worth the Hype Volumizing \u0026 Lengthening Mascara is your jam. A breeze to apply and comfortable to wear, this buildable formula actually does what it promises, making it “worth the hype” in every which way. It also features a brush that tapers at the tip, so you can brush, build, and lengthen even the littlest baby lashes at the inner corners of your eyes.",
     "rating": null,
-    "category": null,
+    "category": "pencil",
     "product_type": "mascara",
     "tag_list": [],
     "created_at": "2017-12-24T02:33:02.251Z",
@@ -8225,7 +8232,7 @@
     "website_link": "https://www.nyxcosmetics.com",
     "description": "Every powder room should have our luxurious Boudoir Mascara Collection available in 7 elite formulas. Whether you want to darken, amp up the volume, or lengthen your lashes - we have a mascara that meets all your needs.",
     "rating": null,
-    "category": null,
+    "category": "pencil",
     "product_type": "mascara",
     "tag_list": [],
     "created_at": "2017-12-24T02:33:00.623Z",
@@ -8275,7 +8282,7 @@
     "website_link": "https://www.nyxcosmetics.com",
     "description": "Think beyond the ordinary with these fun and vibrant new mascara options from NYX Professional Makeup. Packed full of pigments and delivering on the promise of intense color payoff, everyone will notice your fabulous eye lash color. Go for it - we dare you to try all eight shades!",
     "rating": null,
-    "category": null,
+    "category": "pencil",
     "product_type": "mascara",
     "tag_list": [],
     "created_at": "2017-12-24T02:32:59.193Z",
@@ -8329,7 +8336,7 @@
     "website_link": "https://www.nyxcosmetics.com",
     "description": "Everyone will notice your gorgeous lashes with our Super Luscious Mascara Collection. Featuring seven different brushes, each fragrance-free mascara has something unique to offer. (Plus, they’re formulated with keratins, vitamins and naturally-derived waxes to nourish lashes!) There’s a Super Luscious Mascara for your essential lash looks.",
     "rating": null,
-    "category": null,
+    "category": "pencil",
     "product_type": "mascara",
     "tag_list": [],
     "created_at": "2017-12-24T02:32:57.547Z",
@@ -8375,7 +8382,7 @@
     "website_link": "https://www.nyxcosmetics.com",
     "description": "Sculpt fill in and enhance your natural eyebrows with our felt-tip Eyebrow Marker. The color resists smearing and smudging and wears all day long.",
     "rating": null,
-    "category": null,
+    "category": "pencil",
     "product_type": "eyebrow",
     "tag_list": [],
     "created_at": "2017-12-24T02:32:56.532Z",
@@ -8405,7 +8412,7 @@
     "website_link": "https://www.nyxcosmetics.com",
     "description": "Our all-in-one eyebrow kit has everything you need to keep your brows looking on point. The kit includes 4 universally flattering shades for all brow tones a slanted eyebrow brush an eyebrow comb and 3 different stencils to help you get the perfect shape for your face. Now you can fill define and shape your brows like never before!",
     "rating": null,
-    "category": null,
+    "category": "pencil",
     "product_type": "eyebrow",
     "tag_list": [],
     "created_at": "2017-12-24T02:32:56.029Z",
@@ -8426,7 +8433,7 @@
     "website_link": "https://www.nyxcosmetics.com",
     "description": "Play up your natural assets with this dual-sided pencil that delivers sensual eyebrows in just a few minutes. Use the universally flattering brow pencil to draw and fill in your arches and the highlighting end to lift and brighten. Like the LBD of pencils the effect is captivating and undeniably sexy.",
     "rating": null,
-    "category": null,
+    "category": "pencil",
     "product_type": "eyebrow",
     "tag_list": [],
     "created_at": "2017-12-24T02:32:55.489Z",
@@ -8447,7 +8454,7 @@
     "website_link": "https://www.nyxcosmetics.com",
     "description": "",
     "rating": null,
-    "category": null,
+    "category": "pencil",
     "product_type": "eyebrow",
     "tag_list": [],
     "created_at": "2017-12-24T02:32:54.098Z",
@@ -10233,9 +10240,11 @@
     "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/947/original/data?1514082701",
     "product_colors": []
 
+
+
+
+
+
 }
 ]
-
 }
-
-
