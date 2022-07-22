@@ -24,7 +24,7 @@ const BabyFoot = () => {
   console.log("ProductData:", ProductData);
   return (
     <>
-    <Navbar/>
+    
      <div className='all-product'>
     {ProductData.map((e) => {
         const { title,name,image,image_link,brand, price, description, category,  id, rating } = e;
