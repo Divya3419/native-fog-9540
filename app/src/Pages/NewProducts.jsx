@@ -3,7 +3,7 @@ import { useDispatch } from 'react-redux';
 import { useSelector } from 'react-redux';
 import { useNavigate } from 'react-router-dom';
 import { useEffect } from 'react';
-import { fetchData } from '../Redux/actionabhishek';
+import { fetchData } from '../Redux/action.js';
 
 import {Box} from "@chakra-ui/react"
 
