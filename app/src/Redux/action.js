@@ -12,7 +12,7 @@ const fetchDataRequest= (payload) => {
 }
 
 const fetchDataSuccess=(payload) => {
-   console.log(payload)
+ //  console.log(payload)
     return {
         type: FETCH_DATA_SUCCESS,
         payload
@@ -100,13 +100,13 @@ export const fetchmyDataFailure=(payload) => {
 
 export const fetchmyData=(payload)=> {
     return (dispatch) => {
-        dispatch (fetchDataRequest(payload))
+        dispatch (fetchmyDataRequest(payload))
     
    
     axios.get("http://localhost:8080/products")
 
-    .then(res=> dispatch(fetchDataSuccess(res.data)))
-    .catch (err => dispatch(fetchDataFailure(err.data)))
+    .then(res=> dispatch(fetchmyDataSuccess(res.data)))
+    .catch (err => dispatch(fetchmyDataFailure(err.data)))
     }}
 
 
