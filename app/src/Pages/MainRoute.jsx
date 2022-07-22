@@ -10,6 +10,7 @@ import Caudalie from './Caudalie'
 import Home from './Home'
 import Location from './Location'
 import NewProducts from './NewProducts'
+import ProductDetail from './ProductDetail'
 
 
 
@@ -33,7 +34,10 @@ const MainRoute = () => {
     <Route path="/caudalie" element={<Caudalie/>}/>
     <Route path="/brands" element={<Brands/>}/>
   
-    <Route path="/NewProducts" element={<NewProducts/>}/>
+
+    <Route path="/newproducts" element={<NewProducts/>}/>
+    <Route path="/productdetail/:id" element={<ProductDetail/>}/>
+
     <Route path="/Cart" element={<Cart/>}/>
 
     </Routes>
