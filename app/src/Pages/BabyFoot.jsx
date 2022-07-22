@@ -1,7 +1,7 @@
 
 import React, { useEffect } from 'react'
 import { useDispatch, useSelector } from 'react-redux';
-import { useNavigate } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import Navbar from '../component/Navbar';
 import { fetchDatab } from '../Redux/action';
 
@@ -24,6 +24,21 @@ const BabyFoot = () => {
   console.log("ProductData:", ProductData);
   return (
     <>
+          <div><Link style={{ textDecoration: "none" }} to="/">Home</Link></div>
+     <div className='abelmain'>
+      <div className='start'>
+<img  style={{height:"121px", width:"140"}} src="https://cdn.shopify.com/s/files/1/0283/0185/2747/files/2017_Global_Logo_PNG_File.png?v=1641423712"/>
+    <div>
+    <p style={{ color: "#12248C " }}>Abel Odor exists to create the world’s best 100% natural perfume without compromising<br/> on ethics or aesthetics. Abel’s fragrances are created by master perfumer Isaac Sinclair,<br/> using the latest in natural science.<br/> Abel directs 1% of its total revenue to environmental causes,<br/> specifically supporting the community from which it’s ingredients<br/> are sourced. Their sustainability mind-set goes all the way from their ingredients<br/> to their packaging and supply chain.</p>
+    </div>
+     
+       </div>
+        <div> 
+<img  style={{height:"100%", width:"500px"}}src="https://cdn.shopify.com/s/files/1/0283/0185/2747/files/Baby_Foot_Brand_Banner.jpg?v=1630358266"/>
+      </div>
+
+
+    </div>
     
      <div className='all-product'>
     {ProductData.map((e) => {

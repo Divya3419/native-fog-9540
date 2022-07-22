@@ -1,5 +1,6 @@
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
+import Cart from '../component/Cart'
 import Footer from '../component/Footer'
 import Navbar from '../component/Navbar'
 import Abel from './Abel'
@@ -33,8 +34,11 @@ const MainRoute = () => {
     <Route path="/caudalie" element={<Caudalie/>}/>
     <Route path="/brands" element={<Brands/>}/>
   
+
     <Route path="/newproducts" element={<NewProducts/>}/>
     <Route path="/productdetail/:id" element={<ProductDetail/>}/>
+
+    <Route path="/Cart" element={<Cart/>}/>
 
     </Routes>
     <Footer/>

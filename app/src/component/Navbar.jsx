@@ -47,12 +47,14 @@ const Navbar = () => {
             ACCOUNT
           </Box>
           <Box display="flex" gap="10px">
+
             <Img
               width="30%"
               height="50%"
               src="https://image.shutterstock.com/image-vector/shopping-bag-icon-260nw-678890278.jpg"
             />
-            BAG
+           <RouteLink to="/Cart"> BAG</RouteLink>
+           
           </Box>
         </Box>
       </Box>
