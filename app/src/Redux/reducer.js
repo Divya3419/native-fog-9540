@@ -1,62 +1,53 @@
-// import * as types from "./actionType";
 
-// const initialState = {
-//     product:[],
-//     error:"",
-//     loading:false,
-//     cart:[]
+import { FETCH_DATA_REQUEST, FETCH_DATA_SUCCESS, FETCH_DATA_FAILURE, FETCH_MYDATA_REQUEST, } from "./action.type";
 
-// }
 
-// export const reducer = (state=initialState,action)=>{
 
-//    const {type,payload}=action;
+const initState = {
+    prod : [],
+    error : " ",
+    loading:false
 
-//    switch(type){
-//     case types.ADD_PRODUCT_CART_REQUEST:
-//         return{
-//             ...state,
-//              error:"",
-//              loading:true,
-//         }
-//     case types.ADD_PRODUCT_CART_SUCCESS:
-//         return{
-//             ...state,
-//             error:"",
-//             cart:[...state.cart,payload],
-//             loading:false,
-//         }  
-//     case types.ADD_PRODUCT_CART_FAILURE:
-//          return{
-//              ...state,
-//             error:"",
-//             loading:false,
-//             }  
+}
 
 
 
 
-//     case types.FETCH_CART_REQUEST:
-//         return{
-//             ...state,
-//              error:"",
-//              loading:true,
-//         }
-//     case types.FETCH_CART_SUCCESS:
-//         return{
-//             ...state,
-//             error:"",
-//             cart:[...payload],
-//             loading:false,
-//         }  
-//     case types.FETCH_CART_SUCCESS:
-//          return{
-//              ...state,
-//             error:"",
-//             loading:false,
-//             }                
-//         default:
-//             return state;
+ export const reducer =(state = initState ,action) => {
+    const {type,payload}=action;
+    switch(type)
+    {
+        //case FETCH_MYDATA_REQUEST:
+        case FETCH_DATA_REQUEST:
+         return {
+            ...state,
+            loading:true,
+            error:" "
+        }
+
+        //case FETCH_MYDATA_SUCCESS:
+         case FETCH_DATA_SUCCESS:
+        return {
+            ...state,
+            prod: payload,
+            loading:true,
+            error:" "
+        }
+
+        //case FETCH_MYDATA_FAILURE:
+
+        case FETCH_DATA_FAILURE:
+            return {
+                ... state,
+                loading:false,
+                error:payload
+            }
+
+            default:
+                return state
+    }
+
+}
+
+
     
-//    }
-// }
