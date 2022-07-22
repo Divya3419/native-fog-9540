@@ -35,7 +35,7 @@ if(id){
 
 
   const handleBag=(id)=>{
-    navigate(`/bag/${id}`)
+    navigate(`/Cart/${id}`)
     console.log(id)
   }
   return (
