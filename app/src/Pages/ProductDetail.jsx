@@ -3,9 +3,11 @@ import React, { useState } from 'react'
 import { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { useNavigate, useParams } from 'react-router-dom'
+import BestSellers from '../component/BestSellers';
 import { fetchData } from '../Redux/action';
 
 const ProductDetail = () => {
+  const[count,setCount]=useState(0)
   const {id}=useParams()
   //console.log(id)
 const navigate=useNavigate()
@@ -45,8 +47,13 @@ if(id){
       <h3>{currProduct.name}</h3>
       <h3>{currProduct.price}</h3>
       <Button onClick={()=>handleBag(id)} width="70%"color="white" bg="blue.700">ADD TO BAG</Button>
-      </Box>
-      
+
+<Button onClick={ ()=>setCount(count+1)}>+</Button>
+{count}
+<Button onClick={ ()=>setCount(count-1)}>-</Button>
+</Box>
+
+    
           </Box>
   )
 }
