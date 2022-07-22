@@ -2,7 +2,7 @@ import { FETCH_DATA_REQUEST, FETCH_DATA_SUCCESS, FETCH_DATA_FAILURE, } from "./a
 
 
 const initState = {
-    products : [],
+    prod : [],
     error : " ",
     loading:false
 
@@ -25,7 +25,7 @@ const initState = {
         case FETCH_DATA_SUCCESS:
         return {
             ...state,
-            products: payload,
+            prod: payload,
             loading:true,
             error:" "
         }

@@ -28,7 +28,7 @@ const fetchData=(payload)=> {
         dispatch (fetchDataRequest(payload))
     
    
-    axios.get("http://localhost:8080/products")
+    axios.get("http://localhost:8080/prod")
 
     .then(res=> dispatch(fetchDataSuccess(res.data)))
     .catch (err => dispatch(fetchDataFailure(err.data)))
@@ -41,7 +41,7 @@ const fetchData=(payload)=> {
             dispatch (fetchDataRequest(Baby))
         
         
-        axios.get("http://localhost:8080/products",
+        axios.get("http://localhost:8080/prod",
        {params:{category:Baby}
         })
         .then(res=> dispatch(fetchDataSuccess(res.data)))
@@ -54,7 +54,7 @@ const fetchData=(payload)=> {
         return(dispatch)=>{
             dispatch(fetchDataRequest(pencil))
 
-            axios.get("http://localhost:8080/products",
+            axios.get("http://localhost:8080/prod",
             {params:{category:pencil}}
             )
             .then(res=>dispatch(fetchDataSuccess(res.data)))

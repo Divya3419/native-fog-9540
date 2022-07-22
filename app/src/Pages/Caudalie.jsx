@@ -13,7 +13,7 @@ const Caudalie = () => {
   }, []);
 
   const ProductData = useSelector((store) => {
-    return store.data.products;
+    return store.data.prod;
   });
 
   const handleClick=(id)=>{
