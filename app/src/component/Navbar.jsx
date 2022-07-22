@@ -53,7 +53,7 @@ const Navbar = () => {
               height="50%"
               src="https://image.shutterstock.com/image-vector/shopping-bag-icon-260nw-678890278.jpg"
             />
-           <RouteLink to="/Cart"> BAG</RouteLink>
+           <RouteLink to="/Cart/:id"> BAG</RouteLink>
            
           </Box>
         </Box>
