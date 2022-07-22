@@ -19,13 +19,21 @@ const MainRoute = () => {
     <>
     <Navbar/>
     <Routes>
+
+
+      
+
+        <Route path='/' element={<Home/>} />
+       
+        
     <Route path="/location" element={<Location/>}/>
     <Route path="/abel" element={<Abel/>}/>
     <Route path="/babyfoot" element={<BabyFoot/>}/>
     <Route path="/caudalie" element={<Caudalie/>}/>
     <Route path="/brands" element={<Brands/>}/>
-    <Route path='/' element={<Home/>} />
+  
     <Route path="/NewProducts" element={<NewProducts/>}/>
+
     </Routes>
     <Footer/>
     </>
