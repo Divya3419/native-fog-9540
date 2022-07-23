@@ -1,7 +1,7 @@
 import { SearchIcon } from "@chakra-ui/icons";
 import { Box, Img } from "@chakra-ui/react";
 import React from "react";
-import { Link as RouteLink } from "react-router-dom";
+import { Link, Link as RouteLink } from "react-router-dom";
 const Navbar = () => {
 
   return (
@@ -44,7 +44,7 @@ const Navbar = () => {
               height="50%"
               src="https://cdn-icons-png.flaticon.com/512/1946/1946429.png"
             />
-            ACCOUNT
+           <Link to="/login">ACCOUNT</Link>
           </Box>
           <Box display="flex" gap="10px">
 
