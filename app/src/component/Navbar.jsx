@@ -47,12 +47,14 @@ const Navbar = () => {
             ACCOUNT
           </Box>
           <Box display="flex" gap="10px">
+
             <Img
               width="30%"
               height="50%"
               src="https://image.shutterstock.com/image-vector/shopping-bag-icon-260nw-678890278.jpg"
             />
-            BAG
+           <RouteLink to="/Cart/:id"> BAG</RouteLink>
+           
           </Box>
         </Box>
       </Box>
@@ -73,8 +75,8 @@ const Navbar = () => {
         <Box></Box>
         <Box display="grid" fontSize="12px" gridTemplateColumns="repeat(7,1fr)">
           <Box>SHOP</Box>
-          <Box>NEW!</Box>
-          <Box>BRAND</Box>
+          <Box><RouteLink to="/newproducts">NEW!</RouteLink></Box>
+          <Box><RouteLink to="/brands">BRAND</RouteLink></Box>
           <Box>EXPLORE</Box>
           <Box>EVENT</Box>
           <Box>BLUEREWARDS</Box>

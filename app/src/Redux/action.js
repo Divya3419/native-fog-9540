@@ -12,7 +12,7 @@ const fetchDataRequest= (payload) => {
 }
 
 const fetchDataSuccess=(payload) => {
-   console.log(payload)
+ //  console.log(payload)
     return {
         type: FETCH_DATA_SUCCESS,
         payload
@@ -32,7 +32,7 @@ const fetchData=(payload)=> {
         dispatch (fetchDataRequest(payload))
     
    
-    axios.get("http://localhost:8080/prod")
+    axios.get("http://localhost:8081/prod")
 
     .then(res=> dispatch(fetchDataSuccess(res.data)))
     .catch (err => dispatch(fetchDataFailure(err.data)))
@@ -46,7 +46,7 @@ const fetchData=(payload)=> {
             dispatch (fetchDataRequest(Baby))
         
         
-        axios.get("http://localhost:8080/prod",
+        axios.get("http://localhost:8081/prod",
        {params:{category:Baby}
         })
         .then(res=> dispatch(fetchDataSuccess(res.data)))
@@ -59,7 +59,7 @@ const fetchData=(payload)=> {
         return(dispatch)=>{
             dispatch(fetchDataRequest(pencil))
 
-            axios.get("http://localhost:8080/prod",
+            axios.get("http://localhost:8081/prod",
             {params:{category:pencil}}
             )
             .then(res=>dispatch(fetchDataSuccess(res.data)))
@@ -100,13 +100,13 @@ export const fetchmyDataFailure=(payload) => {
 
 export const fetchmyData=(payload)=> {
     return (dispatch) => {
-        dispatch (fetchDataRequest(payload))
+        dispatch (fetchmyDataRequest(payload))
     
    
-    axios.get("http://localhost:8080/products")
+    axios.get("http://localhost:8081/products")
 
-    .then(res=> dispatch(fetchDataSuccess(res.data)))
-    .catch (err => dispatch(fetchDataFailure(err.data)))
+    .then(res=> dispatch(fetchmyDataSuccess(res.data)))
+    .catch (err => dispatch(fetchmyDataFailure(err.data)))
     }}
 
 
