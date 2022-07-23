@@ -118,10 +118,12 @@ export const Cart_div = styled.div`
   /* ready to ship */
   
   #ready_shift {
-    height: 50px;
-    width: 100%;
+    height: auto;
+    width: 90%;
     display: flex;
     border-bottom: 2px solid #dcdcdc;
+     row-gap:"-200px" ;
+    //justify-content: space-evenly;
   }
   
   .readytoshift {
@@ -328,5 +330,11 @@ export const Cart_div = styled.div`
   .paypal-logo {
       width: 90px;
       margin: auto;
+  }
+
+  #oops{
+    display: inline-block;
+   margin-top: "20px";
+   padding-top:20px;
   }
   `;

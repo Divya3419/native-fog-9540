@@ -1,11 +1,45 @@
-import { Box, Heading, Image, Link, Stack, Text } from '@chakra-ui/react'
-import React from 'react'
+import { Box, Button, Heading, Img, Link, Stack, Text, useStatStyles } from '@chakra-ui/react'
+import React, { useEffect, useState } from 'react'
 import BestSellers from './BestSellers'
 import { Cart_div } from './Cart_style'
-import { Link as RouteLink } from "react-router-dom";
+import { Link as RouteLink, useNavigate, useParams } from "react-router-dom";
+import { useDispatch, useSelector } from 'react-redux';
+import { fetchData } from '../Redux/action';
 
 
 const Cart = () => {
+    const[count,setCount]=useState(0)
+    const {id}=useParams()
+
+    const navigate=useNavigate()
+    const bagData = useSelector((store)=>{
+        return store.data.prod
+    })
+    console.log(bagData)
+
+    const dispatch=useDispatch()
+
+    const[currProduct,setcurrProduct]=useState({})
+
+    useEffect(()=>{
+        dispatch(fetchData())
+    },[])
+
+    useEffect(()=>{
+        if(id){
+            const bag=bagData.find((elem)=>elem.id===(id))
+            bag && setcurrProduct(bag)
+        }
+    },[bagData,id])
+
+    console.log(currProduct)
+
+    const handleAddress=(id)=>{
+        navigate(`/AddressDetails/${id}`)
+
+        console.log(id)
+    }
+
   return (
    <Cart_div>
     <div className="cart" >
@@ -28,13 +62,52 @@ const Cart = () => {
           </div>
       </div>
       <div className="clear"></div>
-      <div id="ready_shift">
+      <div id="ready_shift" >
           <div className="readytoshift">Ready to Ship</div>
           <div className="price">Price</div>
           <div className="quantity">Quantity</div>
           <div className="total">Total</div>
       </div> 
-      <div id="cart_Bag"></div>
+
+
+      {/* ********************************************************** */}
+      {Cart.id === 0 ? (
+          
+            <div  >
+            <div id="oops" >
+              <img margin="auto"
+                src="https://www.1mg.com/images/online_consultation/empty-cart-icon.svg"
+                alt="empty cart"
+                height="40%" 
+              />
+                <b>Oops!</b>
+              </div>
+              <div id="text">Looks like there is no item in your Bag yet.</div>
+              <b> <Link href="/">ADD PRODUCT</Link></b>
+            </div>
+          
+        ) : (
+
+      <div id="cart_Bag">
+        <Box width="80%" margin="auto" key={currProduct.id} display="flex" justifyContent="space-evenly" marginTop="30px">
+      <Box width="200px" height="auto" marginLeft="-150px" marginTop="-20px" >
+      <Img src={currProduct.image_link}/>
+      <h3>{currProduct.name}</h3>
+      </Box>
+      
+      <h3>{"$"+currProduct.price}</h3>
+      <Box>
+      <Button onClick={ ()=>setCount(count+1)}>+</Button>
+      {count}
+       <Button onClick={ ()=>setCount(count-1)}>-</Button>
+       </Box>
+      
+       <h3>{"$"+currProduct.price}</h3>
+       </Box>
+   
+      </div>
+
+    )}
       <br/><br/>
       <div>
           <p id="Offerings">Additional Offerings</p>
@@ -71,7 +144,7 @@ const Cart = () => {
       
 
       <button type="submit" id="checkout">
-      <RouteLink to="/AddressDetails"><Link onClick="checkLogin()" style={{color: "white"}}>Checkout</Link>
+      <RouteLink to="/AddressDetails"><Link onClick={()=>handleAddress(id)} style={{color: "white"}}>Checkout</Link>
           </RouteLink>
       </button>
       <div className="clear"></div>
@@ -79,37 +152,15 @@ const Cart = () => {
           <img className="paypal-logo" src="https://australianliquorsuppliers.com.au/wp-content/uploads/2020/08/Paypal-Logo-1.png"/>
       </button>
       <div className="clear" style={{padding: "25px"}}></div>  
-
+     
       <Box>
         <BestSellers />
       </Box>
-
+   
    </Cart_div>
   )
 }
 
-// function cartItem(){
-//     return(
-//         <Box border={"1px solid red"} rounded="lg" width={"fit-content"} margin="auto">
-//             <Stack direction={{base:'colum',md:"row"}} justifyContent="center" alignItems={"center"}>
-//             <Box height={"300px"} width="300px" border={"1px solid green"}>
-//                 <Image
-
-//                 rounded={"lg"}
-//                 height={230}
-//                 width={282}
-//                 objectFit={"contain"}
-//                 src={"image"}
-//                 />
-//             </Box>
-//             <Box height={"300px"} width="300px" border={"1px solid green"}>
-//                 <Heading as="h4" size="lg">Product info</Heading>
-//                 <Text>lorem text hear detail about product map method</Text>
-//             </Box>
-//             </Stack>
-//         </Box>
-//     )
-// }
 
 export default Cart
 
