@@ -5,7 +5,7 @@ const Cart = () => {
   return (
    <Box>
     <Heading as="h2" size="xl" textAlign="center">
-        YOOUR BAG
+        YOUR BAG
     </Heading>
 
    </Box>
