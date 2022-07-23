@@ -3,13 +3,8 @@ import { useDispatch } from 'react-redux';
 import { useSelector } from 'react-redux';
 import { useNavigate } from 'react-router-dom';
 import { useEffect } from 'react';
-
 import {  addCityReducer, fetchmyData } from '../Redux/action.js';
 import {Box, Button,Img} from "@chakra-ui/react"
-
-
-
-
 import {Link as RouteLink} from "react-router-dom"
 
 
@@ -58,34 +53,19 @@ const NewProducts = () => {
       </Box>
    
     
-   
-
-    <Box display = "flex" width="90%" margin="auto" >
+   <Box width="90%" margin="auto" >
     <Box className='all-product' gap="15px" display = "grid" gridTemplateColumns="repeat(3,1fr)">
 
      {ProductData2.map((e) => {
         const { title,name,image,image_link,brand, price, description, category,  id, rating } = e;
-
-
-         
-    
         return (
 
-           
-          
-         
-          
           <Box className="prt-Box" key={id} >
          
-         
-          {/* sorting algorithm inside sort-Box */}
-         
-     
-          <Box className="prt-Box" key={id} >
                  <RouteLink to={`/productdetail/${id}`}>
             <Img width="100%" h="60%" src={image_link}/>
             <Box className="view">
-              <Box className="view-icon" ></Box>
+
               {/* < FavoriteBorderOutlinedIcon className="love-icon-1" onClick={ ()=>{ Addtowishlist( id) }}/> */}
             </Box>
             <Box className="prt-name">{name}</Box>
@@ -100,8 +80,11 @@ const NewProducts = () => {
         );
         
       })
+    
      
     }
+
+    </Box>
     </Box>
   
     </>
