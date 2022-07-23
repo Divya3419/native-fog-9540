@@ -5,7 +5,7 @@ import { FETCH_DATA_REQUEST, FETCH_DATA_SUCCESS, FETCH_DATA_FAILURE, FETCH_MYDAT
 
 const initState = {
     prod : [],
-    product:[],
+     product:[],
     error : false,
     loading:false
 

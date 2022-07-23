@@ -51,8 +51,8 @@ const MainRoute = () => {
     
     <Route path="/Success" element={<Success/>}/>
    <Route path="/newproducts" element={<NewProducts />} />
-        <Route path="/productdetail/:id" element={<ProductDetail />} />
-    <Route path="/Cart" element={<Cart/>}/>
+    <Route path="/productdetail/:id" element={<ProductDetail />} />
+    <Route path="/Cart/:id" element={<Cart/>}/>
     <Route path="/AddressDetails" element={<AddressDetails/>}/>
     <Route path="/PaymentPage" element={<PaymentPage/>}/>
    

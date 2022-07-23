@@ -3,7 +3,7 @@ import { useDispatch } from 'react-redux';
 import { useSelector } from 'react-redux';
 import { useNavigate } from 'react-router-dom';
 import { useEffect } from 'react';
-import { fetchData } from '../Redux/action.js';
+import {  fetchmyData } from '../Redux/action.js';
 
 import {Box} from "@chakra-ui/react"
 
@@ -13,7 +13,7 @@ const NewProducts = () => {
   const dispatch = useDispatch();
 
   useEffect(() => {
-    dispatch(fetchData());
+    dispatch(fetchmyData());
   }, []);
 
   const ProductData2 = useSelector((store) => {
