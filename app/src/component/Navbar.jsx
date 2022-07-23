@@ -39,12 +39,13 @@ const Navbar = () => {
           </Box>
 
           <Box display="flex" gap="10px">
-            <Img
+                     <Img
               width="30%"
               height="50%"
               src="https://cdn-icons-png.flaticon.com/512/1946/1946429.png"
             />
-            ACCOUNT
+          <RouteLink to="/login"> ACCOUNT</RouteLink>
+
           </Box>
           <Box display="flex" gap="10px">
 
