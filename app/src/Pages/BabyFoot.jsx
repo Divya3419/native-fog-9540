@@ -4,7 +4,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { Link, useNavigate } from 'react-router-dom';
 import Navbar from '../component/Navbar';
 import { fetchDatab } from '../Redux/action';
-
+import {Link as RouteLink} from "react-router-dom"
 const BabyFoot = () => {
   const nav=useNavigate()
   const dispatch = useDispatch();
@@ -47,7 +47,7 @@ const BabyFoot = () => {
         return (
      
           <div  className="prt-div" key={id} onClick={()=>{handleClick(id)}}>
-
+<RouteLink to={`/productdetail/${id}`}>
             <img src={image_link}></img>
             <div className="view">
               <div className="view-icon" onClick={ ()=>{ nav(`/product/${id}`)}}></div>
@@ -58,6 +58,7 @@ const BabyFoot = () => {
             <div className="prt-type">{price}</div>
        
             <div className="prt-finalPrice">{` $ ${price}`}</div>
+            </RouteLink>
           </div>
         );
       })}

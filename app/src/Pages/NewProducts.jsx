@@ -3,15 +3,14 @@ import { useDispatch } from 'react-redux';
 import { useSelector } from 'react-redux';
 import { useNavigate } from 'react-router-dom';
 import { useEffect } from 'react';
+
 import {  addCityReducer, fetchmyData } from '../Redux/action.js';
-import {Box, Button} from "@chakra-ui/react"
-//sorting algorithm import
+import {Box, Button,Img} from "@chakra-ui/react"
 
 
 
 
-
-
+import {Link as RouteLink} from "react-router-dom"
 
 
 const NewProducts = () => {
@@ -45,6 +44,7 @@ const NewProducts = () => {
 
 
     return (
+
       <>
      
       <Box className="sort-Box">
@@ -58,7 +58,11 @@ const NewProducts = () => {
       </Box>
    
     
-    <Box className='all-product'  display = "grid" gridTemplateColumns="repeat(5,1fr)">
+   
+
+    <Box display = "flex" width="90%" margin="auto" >
+    <Box className='all-product' gap="15px" display = "grid" gridTemplateColumns="repeat(3,1fr)">
+
      {ProductData2.map((e) => {
         const { title,name,image,image_link,brand, price, description, category,  id, rating } = e;
 
@@ -66,6 +70,7 @@ const NewProducts = () => {
          
     
         return (
+
            
           
          
@@ -74,19 +79,19 @@ const NewProducts = () => {
          
          
           {/* sorting algorithm inside sort-Box */}
-           
-       
-
-
-            <img src={image_link}/>
+         
+     
+          <Box className="prt-Box" key={id} >
+                 <RouteLink to={`/productdetail/${id}`}>
+            <Img width="100%" h="60%" src={image_link}/>
             <Box className="view">
-              <Box className="view-icon" onClick={ ()=>{ nav(`/product/${id}`)}}></Box>
+              <Box className="view-icon" ></Box>
               {/* < FavoriteBorderOutlinedIcon className="love-icon-1" onClick={ ()=>{ Addtowishlist( id) }}/> */}
             </Box>
             <Box className="prt-name">{name}</Box>
             <Box className="prt-type">{brand}</Box>
             <Box className="prt-type">{price}</Box>
-       
+            </RouteLink>
             
           </Box>
           
