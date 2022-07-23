@@ -1,7 +1,7 @@
 import { SearchIcon } from "@chakra-ui/icons";
 import { Box, Img } from "@chakra-ui/react";
 import React from "react";
-import { Link as RouteLink } from "react-router-dom";
+import { Link, Link as RouteLink } from "react-router-dom";
 const Navbar = () => {
 
   return (
@@ -39,6 +39,7 @@ const Navbar = () => {
           </Box>
 
           <Box display="flex" gap="10px">
+
                      <Img
               width="30%"
               height="50%"
@@ -46,6 +47,8 @@ const Navbar = () => {
             />
           <RouteLink to="/login"> ACCOUNT</RouteLink>
 
+            
+            
           </Box>
           <Box display="flex" gap="10px">
 

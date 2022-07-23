@@ -35,7 +35,7 @@ const initState = {
 
         case FETCH_DATA_FAILURE:
             return {
-                ... state,
+                ...state,
                 loading:false,
                 error:true
             }
@@ -60,7 +60,7 @@ const initState = {
        
                case FETCH_MYDATA_FAILURE:
                    return {
-                       ... state,
+                       ...state,
                        loading:false,
                        error:true
                    }
