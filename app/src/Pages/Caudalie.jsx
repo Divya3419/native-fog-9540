@@ -60,7 +60,6 @@ const Caudalie = () => {
             <div className="prt-name">{name}</div>
             <div className="prt-type">{brand}</div>
             <div className="prt-type">{price}</div>
-       
             <div className="prt-finalPrice">{` $ ${price}`}</div>
           </div>
         );

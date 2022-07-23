@@ -35,11 +35,15 @@ const initState = {
 
         case FETCH_DATA_FAILURE:
             return {
-                ... state,
+                ...state,
                 loading:false,
                 error:true
             }
-            //abhishek
+        
+        
+        
+        
+            //abhishek newproducts
             case FETCH_MYDATA_REQUEST:
                 return {
                    ...state,
@@ -60,7 +64,7 @@ const initState = {
        
                case FETCH_MYDATA_FAILURE:
                    return {
-                       ... state,
+                       ...state,
                        loading:false,
                        error:true
                    }

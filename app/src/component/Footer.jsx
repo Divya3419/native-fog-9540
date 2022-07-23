@@ -2,6 +2,7 @@ import { Box, Input } from '@chakra-ui/react'
 import React from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {faFacebook, faInstagram,faPinterest,faTwitter, faYoutube} from "@fortawesome/free-brands-svg-icons"
+import { Link } from 'react-router-dom'
 
 const Footer = () => {
   return (
@@ -47,7 +48,7 @@ Copyright 2022 bluemercury. All Rights Reserved.
 <Box  marginTop="20px" >
     <h3>MY ACCOUNT</h3>
     {/* addd account pages */}
-    <a href="https://bluemercury.com/account">My Account</a>
+    <Link to="/login">My Account</Link>
     <br />
     <a href="https://bluemercury.com/pages/bluerewards">Blue Rewards</a>
     <br />

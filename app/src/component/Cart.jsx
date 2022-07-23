@@ -41,6 +41,12 @@ const Cart = () => {
     }
 
   return (
+
+//    <Box>
+    // <Heading as="h2" size="xl" textAlign="center">
+    //     YOUR BAG
+    // </Heading>
+
    <Cart_div>
     <div className="cart" >
       
@@ -143,6 +149,7 @@ const Cart = () => {
       <h3 className="tax">Shipping, Taxes, Beauty Cards, and additional discounts applied at checkout</h3>
       
 
+
       <button type="submit" id="checkout">
       <RouteLink to="/AddressDetails"><Link onClick={()=>handleAddress(id)} style={{color: "white"}}>Checkout</Link>
           </RouteLink>
@@ -160,6 +167,7 @@ const Cart = () => {
    </Cart_div>
   )
 }
+
 
 
 export default Cart
