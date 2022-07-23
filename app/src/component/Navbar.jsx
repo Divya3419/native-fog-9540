@@ -79,7 +79,7 @@ const Navbar = () => {
           <Box><RouteLink to="/newproducts">NEW!</RouteLink></Box>
           <Box><RouteLink to="/brands">BRAND</RouteLink></Box>
           <Box>EXPLORE</Box>
-          <Box>EVENT</Box>
+          <a href="https://bluemercury.com/pages/masterclass">EVENT</a>
           <Box>BLUEREWARDS</Box>
           <Box>BEAUTY ALFRESCO</Box>
         </Box>
