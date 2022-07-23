@@ -3,9 +3,23 @@ import { useDispatch, useSelector } from 'react-redux';
 import { useNavigate } from 'react-router-dom';
 import Navbar from '../component/Navbar'
 import "./Abel.css";
+import { Select } from '@chakra-ui/react'; 
 import { Link } from 'react-router-dom';
 import {  fetchData  } from "../Redux/action";
+//abhishek sorting algorithm
+import { sortProducts } from "../Redux/action";
+import { sorting,original } from '../Redux/action';
+import { useState } from 'react';
+import { HIGH_TO_LOW, LOW_TO_HIGH } from "../Redux/action.type";
+
+
+
+
 const Abel = () => {
+
+
+
+
 
   const nav=useNavigate()
   const dispatch = useDispatch();
@@ -21,11 +35,41 @@ const Abel = () => {
     // nav(`/product/${id}`)
     // console.log(id)
   }
+  /////////////////////////////
+  //abhishek sorting algorithm 
 
+  const handleSort = (e) => {
+
+    if(e.target.value=="desc"){
+      const type=HIGH_TO_LOW;
+      sortProducts(dispatch,type)
+    }
+    else{
+      const type=LOW_TO_HIGH;
+      sortProducts(dispatch,type)
+    }
+   
+    // dispatch sort products on change
+  };
+/////////////////////////////
   console.log("ProductData:", ProductData);
   return (
     <>
     {/* <Navbar/> */}
+    
+    {/* abhishek sorting algorithm */}
+    
+    
+    <Select data-testid="product-sort-order" onChange={handleSort}>
+        <option>Sort by--</option>
+        <option value="asc">Low to High</option>
+        <option value="desc">High to Low</option>
+      </Select>     
+
+    {/* please sort bhai ho jaao */}
+    
+
+
    <div><Link style={{textDecoration:"none"}} to="/">Home</Link></div>
     <div className='abelmain'>
       <div className='start'>
@@ -49,9 +93,12 @@ const Abel = () => {
         const { title,name,image,image_link,brand, price, description, category,  id, rating } = e;
     
         return (
-     
+          <>
+                    
           <div  className="prt-div" key={id} onClick={()=>{handleClick(id)}}>
-
+         {/*abhishek sorting algorithm*/}
+          <div>{e.price}</div>
+         
             <img src={image_link}></img>
             <div className="view">
               <div className="view-icon" onClick={ ()=>{ nav(`/product/${id}`)}}></div>
@@ -63,6 +110,8 @@ const Abel = () => {
        
             
           </div>
+
+          </>
         );
       })}
     </div>

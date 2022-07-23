@@ -1,5 +1,9 @@
+//rasheed
+import { FETCH_DATA_REQUEST, FETCH_DATA_SUCCESS, FETCH_DATA_FAILURE, FETCH_MYDATA_REQUEST,HIGH_TO_LOW,LOW_TO_HIGH } from "./action.type";
 
-import { FETCH_DATA_REQUEST, FETCH_DATA_SUCCESS, FETCH_DATA_FAILURE, FETCH_MYDATA_REQUEST, } from "./action.type";
+// abhishek sorting algorithm
+import { SORTING,ORIGINAL } from "./action";
+
 
 
 
@@ -17,6 +21,28 @@ const initState = {
     const {type,payload}=action;
     switch(type)
     {
+
+        //sorting algorithm
+
+        case HIGH_TO_LOW:
+      const  sortdata= state.data.sort((a,b)=>{
+        return a.price-b.price;
+      })
+        return{
+          ...state,
+          data:sortdata,
+        }
+        case LOW_TO_HIGH:
+      const  LOWdata= state.data.sort((a,b)=>{
+        return a.price-b.price;
+      })
+        return{
+          ...state,
+          data:LOWdata,
+        }
+
+
+
         //case FETCH_MYDATA_REQUEST:
         case FETCH_DATA_REQUEST:
          return {
@@ -50,4 +76,12 @@ const initState = {
 }
 
 
-    
+
+// abhishek sorting algorithm
+
+
+//////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+ ///////////////////////////////////////////////////////////////////////////////////////   

@@ -1,6 +1,13 @@
 //rasheed's
 
-import { FETCH_DATA_REQUEST, FETCH_DATA_SUCCESS, FETCH_DATA_FAILURE, FETCH_MYDATA_REQUEST, FETCH_MYDATA_SUCCESS, FETCH_MYDATA_FAILURE} from "./action.type";
+import { FETCH_DATA_REQUEST, 
+    FETCH_DATA_SUCCESS, 
+    FETCH_DATA_FAILURE,
+     FETCH_MYDATA_REQUEST, 
+     FETCH_MYDATA_SUCCESS, 
+     FETCH_MYDATA_FAILURE, 
+     SORTING,
+    ORIGINAL} from "./action.type";
 import axios from "axios"
 
 
@@ -72,7 +79,7 @@ const fetchData=(payload)=> {
 
 
 
-    //abhishek's
+    //abhishek DATA
 
 
 export const fetchmyDataRequest= (payload) => {
@@ -109,7 +116,37 @@ export const fetchmyData=(payload)=> {
     .catch (err => dispatch(fetchDataFailure(err.data)))
     }}
 
+// abhishek data closed
+/////////////////////////////////////////////////////
+//abhishek sorting algorithm
+
+export const sorting = (data) => {
+    return {
+        type: SORTING,
+        payload: data
+    } 
+}
+
+export const original = (data) => {
+    return {
+        type: ORIGINAL,
+        payload: data
+    } 
+}
+
+const sortProducts = (dispatch,type) => {
+
+    dispatch({
+        type:type,
+    })
+
+
+};
+///////////////////////////////////////////////////
+
 
     
+// abhishek sorting algorithm
+//only SORTING and ORIGINAL
+    export {fetchData, fetchDatab,fetchDataC,SORTING,ORIGINAL,sortProducts}
 
-    export {fetchData, fetchDatab,fetchDataC}
