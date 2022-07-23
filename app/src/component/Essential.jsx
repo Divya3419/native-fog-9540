@@ -7,7 +7,7 @@ import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
 import "swiper/css/scrollbar";
-
+import {Link as RouteLink} from "react-router-dom"
 SwiperCore.use([Navigation, Pagination, Scrollbar]);
 
 const data = [
@@ -100,12 +100,14 @@ const Essential = () => {
       >
         {data.map((el) => (
           <SwiperSlide key={el.id} style={{ width: "200px" }}>
-            <Stack textAlign={"center"}>
+<RouteLink to={`/productdetail/${el.id}`}>
+<Stack textAlign={"center"}>
               <Image src={el.image} textAlign="center" />
               <Text fontWeight={"bold"}>{el.head}</Text>
               <Text color={"#8B96A7"}>{el.name}</Text>
               <Text color={"#8B96A7"}>${el.price}</Text>
             </Stack>
+            </RouteLink>
           </SwiperSlide>
         ))}
       </Swiper>

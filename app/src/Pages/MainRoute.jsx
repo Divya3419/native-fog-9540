@@ -1,3 +1,4 @@
+
 import React from 'react'
 import { Route, Routes, useLocation } from 'react-router-dom'
 import AddressDetails from '../component/AddressDetails'
@@ -13,7 +14,9 @@ import Caudalie from './Caudalie'
 import Home from './Home'
 import Location from './Location'
 import NewProducts from './NewProducts'
-
+import Login from "./Login";
+import Register from "./Register";
+import ProductDetail from "./ProductDetail";
 
 
 
@@ -22,6 +25,7 @@ const MainRoute = () => {
   const location = useLocation() 
   return (
     <>
+
 
 
     { 
@@ -38,13 +42,16 @@ const MainRoute = () => {
        
         
     <Route path="/location" element={<Location/>}/>
+     <Route path="/login" element={<Login />} />
+        <Route path="/register" element={<Register />} />
     <Route path="/abel" element={<Abel/>}/>
     <Route path="/babyfoot" element={<BabyFoot/>}/>
     <Route path="/caudalie" element={<Caudalie/>}/>
     <Route path="/brands" element={<Brands/>}/>
     
     <Route path="/Success" element={<Success/>}/>
-    <Route path="/NewProducts" element={<NewProducts/>}/>
+   <Route path="/newproducts" element={<NewProducts />} />
+        <Route path="/productdetail/:id" element={<ProductDetail />} />
     <Route path="/Cart" element={<Cart/>}/>
     <Route path="/AddressDetails" element={<AddressDetails/>}/>
     <Route path="/PaymentPage" element={<PaymentPage/>}/>
@@ -67,4 +74,9 @@ const MainRoute = () => {
     </>
   )
 }
-export default MainRoute
+
+
+     
+
+export default MainRoute;
+
