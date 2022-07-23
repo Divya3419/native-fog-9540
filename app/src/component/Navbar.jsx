@@ -45,10 +45,12 @@ const Navbar = () => {
               height="50%"
               src="https://cdn-icons-png.flaticon.com/512/1946/1946429.png"
             />
+
           <RouteLink to="/login"> ACCOUNT</RouteLink>
 
             
             
+
           </Box>
           <Box display="flex" gap="10px">
 
