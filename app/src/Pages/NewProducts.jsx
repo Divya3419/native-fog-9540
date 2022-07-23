@@ -3,7 +3,7 @@ import { useDispatch } from 'react-redux';
 import { useSelector } from 'react-redux';
 import { useNavigate } from 'react-router-dom';
 import { useEffect } from 'react';
-import { fetchData } from '../Redux/action.js';
+import {  fetchmyData } from '../Redux/action.js';
 
 import {Box} from "@chakra-ui/react"
 
@@ -11,19 +11,20 @@ const NewProducts = () => {
 
     const nav=useNavigate()
   const dispatch = useDispatch();
+
   useEffect(() => {
-    dispatch(fetchData());
+    dispatch(fetchmyData());
   }, []);
 
-  const ProductData = useSelector((store) => {
-    return store.data.products;
+  const ProductData2 = useSelector((store) => {
+    return store.data.product;
   });
 
 
     return (
     <Box border="2px solid black" display = "flex" >
     <Box className='all-product' border="2px solid black" display = "grid" gridTemplateColumns="repeat(3,1fr)">
-     {ProductData.map((e) => {
+     {ProductData2.map((e) => {
         const { title,name,image,image_link,brand, price, description, category,  id, rating } = e;
     
         return (
@@ -47,5 +48,10 @@ const NewProducts = () => {
     </Box>
   )
 }
+
+
+
+
+
 
 export default NewProducts

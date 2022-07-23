@@ -5,10 +5,14 @@ import Navbar from '../component/Navbar'
 import "./Abel.css";
 import { Link } from 'react-router-dom';
 import {  fetchData  } from "../Redux/action";
+import { Stack } from '@chakra-ui/react';
+import {Link as RouteLink} from "react-router-dom"
+
 const Abel = () => {
 
   const nav=useNavigate()
   const dispatch = useDispatch();
+
   useEffect(() => {
     dispatch(fetchData());
   }, []);
@@ -17,15 +21,13 @@ const Abel = () => {
     return store.data.prod;
   });
 
-  const handleClick=(id)=>{
-    // nav(`/product/${id}`)
-    // console.log(id)
-  }
+
 
   console.log("ProductData:", ProductData);
+
   return (
     <>
-    {/* <Navbar/> */}
+
    <div><Link style={{textDecoration:"none"}} to="/">Home</Link></div>
     <div className='abelmain'>
       <div className='start'>
@@ -50,8 +52,9 @@ const Abel = () => {
     
         return (
      
-          <div  className="prt-div" key={id} onClick={()=>{handleClick(id)}}>
-
+          <div  className="prt-div" key={id}>
+<RouteLink to={`/productdetail/${id}`}>
+              <Stack>
             <img src={image_link}></img>
             <div className="view">
               <div className="view-icon" onClick={ ()=>{ nav(`/product/${id}`)}}></div>
@@ -60,8 +63,8 @@ const Abel = () => {
             <div className="prt-name">{name}</div>
             <div className="prt-type">{brand}</div>
             <div className="prt-type">{price}</div>
-       
-            
+            </Stack>
+            </RouteLink> 
           </div>
         );
       })}
