@@ -1,210 +1,230 @@
+
 {
-  "prod": [
-    {
-      "id": "B1",
-      "name": "Milky Soft Face Cream With Murumuru Butter for Babies, 60 ml",
-      "image_link": "https://honasa-mamaearth-production.imgix.net/_/m/_milky_soft_face_cream_.jpg?auto=compress&fit=scale&w=400&h=400",
-      "pShortDec": "Moisturizes | Soothes | Heals Chapped Skin",
-      "rating": 4.9,
-      "category": "BabyFoot",
-      "price": "199",
-      "sellerTag": "BEST SELLER",
-      "categor": "Lotion",
-      "description": "Hi! I am Mamaearth Gentle Cleansing Shampoo. I understand that shampooing is not an easy task and involves effort in real cleaning. I also understand that little ones are quite uncomfortable in getting a head bath and the shampoo has to be quick and efficient. That’s why I am here! Let your baby enjoy my thick, soft and instant foam while I gently cleanse hair and scalp. My 100% toxin-free formula gives your baby soft and nourished hair. I take special care not to irritate those sensitive eyes and be gentle on skin. I am also free from harmful chemicals like SLS, Parabens, Sulfates, and other such chemicals, ensuring a safe and happy bath time. Also, I come with MadeSafe Certificatio",
-      "pImg1": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/015.jpg",
-      "pImg2": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/016.jpg",
-      "pImg3": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/017.jpg",
-      "pImg4": "",
-      "dImg1": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/015.jpg",
-      "dImg2": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/016.jpg",
-      "dImg3": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/017.jpg",
-      "dtitle1": "Natural Cleansers",
-      "dtitle2": "Tear-Free Formula",
-      "dtitle3": "Nourishes The Body",
-      "dDec1": "Aloe Vera Extract moisturizes and nourishes baby’s delicate scalp skin.",
-      "dDec2": "It is Tear-free, gentle yet efficient, with a 5.6 pH level – best suited for baby skin.",
-      "dDec3": "It is enriched with the goodness of Coconut-based cleansers and Jojoba Oil. They help nourish the skin and increase its moisture content."
-    },
-    {
-      "id": "B2",
-      "name": "Moisturizing Bathing Bar Soap For Babies, pack of 2*75g",
-      "image_link": "https://honasa-mamaearth-production.imgix.net/f/d/fds_9573-props_qwhqvlzshodrynok.jpg?auto=compress&fit=scale&w=400&h=400",
-      "pShortDec": "Retains Moisture | Cleanses Gently | pH Balanced",
-      "rating": 4.8,
-      "category": "BabyFoot",
-      "price": "349",
-      "sellerTag": "BEST SELLER",
-      "categor": "Bath",
-      "description": "Hi! I am Mamaearth Gentle Cleansing Shampoo. I understand that shampooing is not an easy task and involves effort in real cleaning. I also understand that little ones are quite uncomfortable in getting a head bath and the shampoo has to be quick and efficient. That’s why I am here! Let your baby enjoy my thick, soft and instant foam while I gently cleanse hair and scalp. My 100% toxin-free formula gives your baby soft and nourished hair. I take special care not to irritate those sensitive eyes and be gentle on skin. I am also free from harmful chemicals like SLS, Parabens, Sulfates, and other such chemicals, ensuring a safe and happy bath time. Also, I come with MadeSafe Certificatio",
-      "pImg1": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/015.jpg",
-      "pImg2": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/016.jpg",
-      "pImg3": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/017.jpg",
-      "pImg4": "",
-      "dImg1": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/015.jpg",
-      "dImg2": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/016.jpg",
-      "dImg3": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/017.jpg",
-      "dtitle1": "Natural Cleansers",
-      "dtitle2": "Tear-Free Formula",
-      "dtitle3": "Nourishes The Body",
-      "dDec1": "Aloe Vera Extract moisturizes and nourishes baby’s delicate scalp skin.",
-      "dDec2": "It is Tear-free, gentle yet efficient, with a 5.6 pH level – best suited for baby skin.",
-      "dDec3": "It is enriched with the goodness of Coconut-based cleansers and Jojoba Oil. They help nourish the skin and increase its moisture content."
-    },
-    {
-      "id": "B3",
-      "name": "Deeply Nourishing Body Wash for babies, 400ml",
-      "image_link": "https://honasa-mamaearth-production.imgix.net/b/o/body-wash_probs_ui8gwmtjnj2sahbz.jpg?auto=compress&fit=scale&w=400&h=400",
-      "pShortDec": "Natural Cleansers | Tear-Free Formula",
-      "rating": 4.8,
-      "category": "BabyFoot",
-      "price": "399",
-      "sellerTag": "BEST SELLER",
-      "categor": "Bath",
-      "description": "Hi! I am Mamaearth Gentle Cleansing Shampoo. I understand that shampooing is not an easy task and involves effort in real cleaning. I also understand that little ones are quite uncomfortable in getting a head bath and the shampoo has to be quick and efficient. That’s why I am here! Let your baby enjoy my thick, soft and instant foam while I gently cleanse hair and scalp. My 100% toxin-free formula gives your baby soft and nourished hair. I take special care not to irritate those sensitive eyes and be gentle on skin. I am also free from harmful chemicals like SLS, Parabens, Sulfates, and other such chemicals, ensuring a safe and happy bath time. Also, I come with MadeSafe Certificatio",
-      "pImg1": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/015.jpg",
-      "pImg2": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/016.jpg",
-      "pImg3": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/017.jpg",
-      "pImg4": "",
-      "dImg1": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/015.jpg",
-      "dImg2": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/016.jpg",
-      "dImg3": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/017.jpg",
-      "dtitle1": "Natural Cleansers",
-      "dtitle2": "Tear-Free Formula",
-      "dtitle3": "Nourishes The Body",
-      "dDec1": "Aloe Vera Extract moisturizes and nourishes baby’s delicate scalp skin.",
-      "dDec2": "It is Tear-free, gentle yet efficient, with a 5.6 pH level – best suited for baby skin.",
-      "dDec3": "It is enriched with the goodness of Coconut-based cleansers and Jojoba Oil. They help nourish the skin and increase its moisture content."
-    },
-    {
-      "id": "B4",
-      "name": "Milky Soft Shampoo with Oats, Milk and Calendula for Babies - 400 ml",
-      "image_link": "https://honasa-mamaearth-production.imgix.net/m/i/milky-soft-shampoo-1_1.jpg?auto=compress&fit=scale&w=400&h=400",
-      "pShortDec": "Gently Cleanses Hair | Balances Scalp pH",
-      "rating": 4.8,
-      "category": "BabyFoot",
-      "price": "399",
-      "sellerTag": "MUST TRY",
-      "categor": "shampoo",
-      "description": "Hi! I am Mamaearth Gentle Cleansing Shampoo. I understand that shampooing is not an easy task and involves effort in real cleaning. I also understand that little ones are quite uncomfortable in getting a head bath and the shampoo has to be quick and efficient. That’s why I am here! Let your baby enjoy my thick, soft and instant foam while I gently cleanse hair and scalp. My 100% toxin-free formula gives your baby soft and nourished hair. I take special care not to irritate those sensitive eyes and be gentle on skin. I am also free from harmful chemicals like SLS, Parabens, Sulfates, and other such chemicals, ensuring a safe and happy bath time. Also, I come with MadeSafe Certificatio",
-      "pImg1": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/015.jpg",
-      "pImg2": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/016.jpg",
-      "pImg3": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/017.jpg",
-      "pImg4": "",
-      "dImg1": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/015.jpg",
-      "dImg2": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/016.jpg",
-      "dImg3": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/017.jpg",
-      "dtitle1": "Natural Cleansers",
-      "dtitle2": "Tear-Free Formula",
-      "dtitle3": "Nourishes The Body",
-      "dDec1": "Aloe Vera Extract moisturizes and nourishes baby’s delicate scalp skin.",
-      "dDec2": "It is Tear-free, gentle yet efficient, with a 5.6 pH level – best suited for baby skin.",
-      "dDec3": "It is enriched with the goodness of Coconut-based cleansers and Jojoba Oil. They help nourish the skin and increase its moisture content."
-    },
-    {
-      "id": "B5",
-      "name": "Nourishing Hair Oil for Babies with Almond and Avocado Oil - 200 ml",
-      "image_link": "https://honasa-mamaearth-production.imgix.net/b/a/baby_hair_oil_200_ml_1200x1200__yh1i6qtlgyc253s5.jpg?auto=compress&fit=scale&w=400&h=400",
-      "pShortDec": "Treats Dry Scalp | Stimulates New Hair Growth",
-      "rating": 5.0,
-      "category": "BabyFoot",
-      "price": "399",
-      "sellerTag": "BEST SELLER",
-      "categor": "oil",
-      "description": "Hi! I am Mamaearth Gentle Cleansing Shampoo. I understand that shampooing is not an easy task and involves effort in real cleaning. I also understand that little ones are quite uncomfortable in getting a head bath and the shampoo has to be quick and efficient. That’s why I am here! Let your baby enjoy my thick, soft and instant foam while I gently cleanse hair and scalp. My 100% toxin-free formula gives your baby soft and nourished hair. I take special care not to irritate those sensitive eyes and be gentle on skin. I am also free from harmful chemicals like SLS, Parabens, Sulfates, and other such chemicals, ensuring a safe and happy bath time. Also, I come with MadeSafe Certificatio",
-      "pImg1": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/015.jpg",
-      "pImg2": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/016.jpg",
-      "pImg3": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/017.jpg",
-      "pImg4": "",
-      "dImg1": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/015.jpg",
-      "dImg2": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/016.jpg",
-      "dImg3": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/017.jpg",
-      "dtitle1": "Natural Cleansers",
-      "dtitle2": "Tear-Free Formula",
-      "dtitle3": "Nourishes The Body",
-      "dDec1": "Aloe Vera Extract moisturizes and nourishes baby’s delicate scalp skin.",
-      "dDec2": "It is Tear-free, gentle yet efficient, with a 5.6 pH level – best suited for baby skin.",
-      "dDec3": "It is enriched with the goodness of Coconut-based cleansers and Jojoba Oil. They help nourish the skin and increase its moisture content."
-    },
-    {
-      "id": "B6",
-      "name": "Milky Soft Body Lotion for Babies with Oats, Milk and Calendula - 400ml",
-      "image_link": "https://honasa-mamaearth-production.imgix.net/_/m/_milky-soft-body-lotion__1.jpg?auto=compress&fit=scale&w=400&h=400",
-      "pShortDec": "Deeply Nourishes Skin | 24-Hour Moisturization",
-      "rating": 4.8,
-      "category": "BabyFoot",
-      "price": "399",
-      "sellerTag": "BEST SELLER",
-      "categor": "Lotion",
-      "description": "Hi! I am Mamaearth Gentle Cleansing Shampoo. I understand that shampooing is not an easy task and involves effort in real cleaning. I also understand that little ones are quite uncomfortable in getting a head bath and the shampoo has to be quick and efficient. That’s why I am here! Let your baby enjoy my thick, soft and instant foam while I gently cleanse hair and scalp. My 100% toxin-free formula gives your baby soft and nourished hair. I take special care not to irritate those sensitive eyes and be gentle on skin. I am also free from harmful chemicals like SLS, Parabens, Sulfates, and other such chemicals, ensuring a safe and happy bath time. Also, I come with MadeSafe Certificatio",
-      "pImg1": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/015.jpg",
-      "pImg2": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/016.jpg",
-      "pImg3": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/017.jpg",
-      "pImg4": "",
-      "dImg1": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/015.jpg",
-      "dImg2": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/016.jpg",
-      "dImg3": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/017.jpg",
-      "dtitle1": "Natural Cleansers",
-      "dtitle2": "Tear-Free Formula",
-      "dtitle3": "Nourishes The Body",
-      "dDec1": "Aloe Vera Extract moisturizes and nourishes baby’s delicate scalp skin.",
-      "dDec2": "It is Tear-free, gentle yet efficient, with a 5.6 pH level – best suited for baby skin.",
-      "dDec3": "It is enriched with the goodness of Coconut-based cleansers and Jojoba Oil. They help nourish the skin and increase its moisture content."
-    },
-    {
-      "id": "B7",
-      "name": "Original Orange Body Lotion For Kids With Orange & Shea Butter - 400 ml (Pack of 2)",
-      "image_link": "https://honasa-mamaearth-production.imgix.net/o/r/original-orange-body-lotion.jpg?auto=compress&fit=scale&w=400&h=400",
-      "pShortDec": "Gently Nourishes Skin | Makes Skin Soft & Supple",
-      "rating": 5.0,
-      "category": "BabyFoot",
-      "price": "798",
-      "sellerTag": "BEST SELLER",
-      "categor": "Lotion",
-      "descripion": "Hi! I am Mamaearth Gentle Cleansing Shampoo. I understand that shampooing is not an easy task and involves effort in real cleaning. I also understand that little ones are quite uncomfortable in getting a head bath and the shampoo has to be quick and efficient. That’s why I am here! Let your baby enjoy my thick, soft and instant foam while I gently cleanse hair and scalp. My 100% toxin-free formula gives your baby soft and nourished hair. I take special care not to irritate those sensitive eyes and be gentle on skin. I am also free from harmful chemicals like SLS, Parabens, Sulfates, and other such chemicals, ensuring a safe and happy bath time. Also, I come with MadeSafe Certificatio",
-      "pImg1": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/015.jpg",
-      "pImg2": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/016.jpg",
-      "pImg3": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/017.jpg",
-      "pImg4": "",
-      "dImg1": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/015.jpg",
-      "dImg2": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/016.jpg",
-      "dImg3": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/017.jpg",
-      "dtitle1": "Natural Cleansers",
-      "dtitle2": "Tear-Free Formula",
-      "dtitle3": "Nourishes The Body",
-      "dDec1": "Aloe Vera Extract moisturizes and nourishes baby’s delicate scalp skin.",
-      "dDec2": "It is Tear-free, gentle yet efficient, with a 5.6 pH level – best suited for baby skin.",
-      "dDec3": "It is enriched with the goodness of Coconut-based cleansers and Jojoba Oil. They help nourish the skin and increase its moisture content."
-    },
-
-    {
-      "id": "B8",
-      "name": "Major Mango Body Wash For Kids with Mango & Oat Protein - 300 ml (Pack of 2)",
-      "image_link": "https://honasa-mamaearth-production.imgix.net/m/a/mango-body-wash.jpg?auto=compress&fit=scale&w=400&h=400",
-      "pShortDec": "Gently Cleanses | Sulfate-Free | Keeps Skin Soft",
-      "rating": 5.0,
-      "category": "BabyFoot",
-      "price": "798",
-      "sellerTag": "BEST SELLER",
-      "categor": "Bath",
-      "descripion": "Hi! I am Mamaearth Gentle Cleansing Shampoo. I understand that shampooing is not an easy task and involves effort in real cleaning. I also understand that little ones are quite uncomfortable in getting a head bath and the shampoo has to be quick and efficient. That’s why I am here! Let your baby enjoy my thick, soft and instant foam while I gently cleanse hair and scalp. My 100% toxin-free formula gives your baby soft and nourished hair. I take special care not to irritate those sensitive eyes and be gentle on skin. I am also free from harmful chemicals like SLS, Parabens, Sulfates, and other such chemicals, ensuring a safe and happy bath time. Also, I come with MadeSafe Certificatio",
-      "pImg1": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/015.jpg",
-      "pImg2": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/016.jpg",
-      "pImg3": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/017.jpg",
-      "pImg4": "",
-      "dImg1": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/015.jpg",
-      "dImg2": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/016.jpg",
-      "dImg3": "https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/017.jpg",
-      "dtitle1": "Natural Cleansers",
-      "dtitle2": "Tear-Free Formula",
-      "dtitle3": "Nourishes The Body",
-      "dDec1": "Aloe Vera Extract moisturizes and nourishes baby’s delicate scalp skin.",
-      "dDec2": "It is Tear-free, gentle yet efficient, with a 5.6 pH level – best suited for baby skin.",
-      "dDec3": "It is enriched with the goodness of Coconut-based cleansers and Jojoba Oil. They help nourish the skin and increase its moisture content."
-    }
-  ],
-
-  "products": [
-    {
+    "prod":[
+  
+      {
+        "id":"B1",
+        "name":"Milky Soft Face Cream With Murumuru Butter for Babies, 60 ml",
+        "image_link":"https://honasa-mamaearth-production.imgix.net/_/m/_milky_soft_face_cream_.jpg?auto=compress&fit=scale&w=400&h=400",
+        "pShortDec":"Moisturizes | Soothes | Heals Chapped Skin",
+        "rating":4.9,
+        "category":"BabyFoot",
+        "price":"199",
+        "sellerTag":"BEST SELLER",
+        "categor":"Lotion",
+        "description":"Hi! I am Mamaearth Gentle Cleansing Shampoo. I understand that shampooing is not an easy task and involves effort in real cleaning. I also understand that little ones are quite uncomfortable in getting a head bath and the shampoo has to be quick and efficient. That’s why I am here! Let your baby enjoy my thick, soft and instant foam while I gently cleanse hair and scalp. My 100% toxin-free formula gives your baby soft and nourished hair. I take special care not to irritate those sensitive eyes and be gentle on skin. I am also free from harmful chemicals like SLS, Parabens, Sulfates, and other such chemicals, ensuring a safe and happy bath time. Also, I come with MadeSafe Certificatio",
+        "pImg1":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/015.jpg",
+        "pImg2":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/016.jpg",
+        "pImg3":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/017.jpg",
+        "pImg4":"",
+        "dImg1":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/015.jpg",
+        "dImg2":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/016.jpg",
+        "dImg3":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/017.jpg",
+        "dtitle1":"Natural Cleansers",
+        "dtitle2":"Tear-Free Formula",
+        "dtitle3":"Nourishes The Body",
+        "dDec1":"Aloe Vera Extract moisturizes and nourishes baby’s delicate scalp skin.",
+        "dDec2":"It is Tear-free, gentle yet efficient, with a 5.6 pH level – best suited for baby skin.",
+        "dDec3":"It is enriched with the goodness of Coconut-based cleansers and Jojoba Oil. They help nourish the skin and increase its moisture content."
+  
+  
+     },
+     {
+        "id":"B2",
+        "name":"Moisturizing Bathing Bar Soap For Babies, pack of 2*75g",
+        "image_link":"https://honasa-mamaearth-production.imgix.net/f/d/fds_9573-props_qwhqvlzshodrynok.jpg?auto=compress&fit=scale&w=400&h=400",
+        "pShortDec":"Retains Moisture | Cleanses Gently | pH Balanced",
+        "rating":4.8,
+        "category":"BabyFoot",
+        "price":"349",
+        "sellerTag":"BEST SELLER",
+        "categor":"Bath",
+        "description":"Hi! I am Mamaearth Gentle Cleansing Shampoo. I understand that shampooing is not an easy task and involves effort in real cleaning. I also understand that little ones are quite uncomfortable in getting a head bath and the shampoo has to be quick and efficient. That’s why I am here! Let your baby enjoy my thick, soft and instant foam while I gently cleanse hair and scalp. My 100% toxin-free formula gives your baby soft and nourished hair. I take special care not to irritate those sensitive eyes and be gentle on skin. I am also free from harmful chemicals like SLS, Parabens, Sulfates, and other such chemicals, ensuring a safe and happy bath time. Also, I come with MadeSafe Certificatio",
+        "pImg1":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/015.jpg",
+        "pImg2":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/016.jpg",
+        "pImg3":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/017.jpg",
+        "pImg4":"",
+        "dImg1":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/015.jpg",
+        "dImg2":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/016.jpg",
+        "dImg3":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/017.jpg",
+        "dtitle1":"Natural Cleansers",
+        "dtitle2":"Tear-Free Formula",
+        "dtitle3":"Nourishes The Body",
+        "dDec1":"Aloe Vera Extract moisturizes and nourishes baby’s delicate scalp skin.",
+        "dDec2":"It is Tear-free, gentle yet efficient, with a 5.6 pH level – best suited for baby skin.",
+        "dDec3":"It is enriched with the goodness of Coconut-based cleansers and Jojoba Oil. They help nourish the skin and increase its moisture content."
+  
+  
+     },
+     {
+        "id":"B3",
+        "name":"Deeply Nourishing Body Wash for babies, 400ml",
+        "image_link":"https://honasa-mamaearth-production.imgix.net/b/o/body-wash_probs_ui8gwmtjnj2sahbz.jpg?auto=compress&fit=scale&w=400&h=400",
+        "pShortDec":"Natural Cleansers | Tear-Free Formula",
+        "rating":4.8,
+        "category":"BabyFoot",
+        "price":"399",
+        "sellerTag":"BEST SELLER",
+        "categor":"Bath",
+        "description":"Hi! I am Mamaearth Gentle Cleansing Shampoo. I understand that shampooing is not an easy task and involves effort in real cleaning. I also understand that little ones are quite uncomfortable in getting a head bath and the shampoo has to be quick and efficient. That’s why I am here! Let your baby enjoy my thick, soft and instant foam while I gently cleanse hair and scalp. My 100% toxin-free formula gives your baby soft and nourished hair. I take special care not to irritate those sensitive eyes and be gentle on skin. I am also free from harmful chemicals like SLS, Parabens, Sulfates, and other such chemicals, ensuring a safe and happy bath time. Also, I come with MadeSafe Certificatio",
+        "pImg1":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/015.jpg",
+        "pImg2":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/016.jpg",
+        "pImg3":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/017.jpg",
+        "pImg4":"",
+        "dImg1":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/015.jpg",
+        "dImg2":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/016.jpg",
+        "dImg3":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/017.jpg",
+        "dtitle1":"Natural Cleansers",
+        "dtitle2":"Tear-Free Formula",
+        "dtitle3":"Nourishes The Body",
+        "dDec1":"Aloe Vera Extract moisturizes and nourishes baby’s delicate scalp skin.",
+        "dDec2":"It is Tear-free, gentle yet efficient, with a 5.6 pH level – best suited for baby skin.",
+        "dDec3":"It is enriched with the goodness of Coconut-based cleansers and Jojoba Oil. They help nourish the skin and increase its moisture content."
+  
+  
+     },
+     {
+        "id":"B4",
+        "name":"Milky Soft Shampoo with Oats, Milk and Calendula for Babies - 400 ml",
+        "image_link":"https://honasa-mamaearth-production.imgix.net/m/i/milky-soft-shampoo-1_1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "pShortDec":"Gently Cleanses Hair | Balances Scalp pH",
+        "rating":4.8,
+        "category":"BabyFoot",
+        "price":"399",
+        "sellerTag":"MUST TRY",
+        "categor":"shampoo",
+        "description":"Hi! I am Mamaearth Gentle Cleansing Shampoo. I understand that shampooing is not an easy task and involves effort in real cleaning. I also understand that little ones are quite uncomfortable in getting a head bath and the shampoo has to be quick and efficient. That’s why I am here! Let your baby enjoy my thick, soft and instant foam while I gently cleanse hair and scalp. My 100% toxin-free formula gives your baby soft and nourished hair. I take special care not to irritate those sensitive eyes and be gentle on skin. I am also free from harmful chemicals like SLS, Parabens, Sulfates, and other such chemicals, ensuring a safe and happy bath time. Also, I come with MadeSafe Certificatio",
+        "pImg1":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/015.jpg",
+        "pImg2":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/016.jpg",
+        "pImg3":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/017.jpg",
+        "pImg4":"",
+        "dImg1":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/015.jpg",
+        "dImg2":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/016.jpg",
+        "dImg3":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/017.jpg",
+        "dtitle1":"Natural Cleansers",
+        "dtitle2":"Tear-Free Formula",
+        "dtitle3":"Nourishes The Body",
+        "dDec1":"Aloe Vera Extract moisturizes and nourishes baby’s delicate scalp skin.",
+        "dDec2":"It is Tear-free, gentle yet efficient, with a 5.6 pH level – best suited for baby skin.",
+        "dDec3":"It is enriched with the goodness of Coconut-based cleansers and Jojoba Oil. They help nourish the skin and increase its moisture content."
+  
+  
+     },
+     {
+        "id":"B5",
+        "name":"Nourishing Hair Oil for Babies with Almond and Avocado Oil - 200 ml",
+        "image_link":"https://honasa-mamaearth-production.imgix.net/b/a/baby_hair_oil_200_ml_1200x1200__yh1i6qtlgyc253s5.jpg?auto=compress&fit=scale&w=400&h=400",
+        "pShortDec":"Treats Dry Scalp | Stimulates New Hair Growth",
+        "rating":5.0,
+        "category":"BabyFoot",
+        "price":"399",
+        "sellerTag":"BEST SELLER",
+        "categor":"oil",
+        "description":"Hi! I am Mamaearth Gentle Cleansing Shampoo. I understand that shampooing is not an easy task and involves effort in real cleaning. I also understand that little ones are quite uncomfortable in getting a head bath and the shampoo has to be quick and efficient. That’s why I am here! Let your baby enjoy my thick, soft and instant foam while I gently cleanse hair and scalp. My 100% toxin-free formula gives your baby soft and nourished hair. I take special care not to irritate those sensitive eyes and be gentle on skin. I am also free from harmful chemicals like SLS, Parabens, Sulfates, and other such chemicals, ensuring a safe and happy bath time. Also, I come with MadeSafe Certificatio",
+        "pImg1":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/015.jpg",
+        "pImg2":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/016.jpg",
+        "pImg3":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/017.jpg",
+        "pImg4":"",
+        "dImg1":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/015.jpg",
+        "dImg2":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/016.jpg",
+        "dImg3":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/017.jpg",
+        "dtitle1":"Natural Cleansers",
+        "dtitle2":"Tear-Free Formula",
+        "dtitle3":"Nourishes The Body",
+        "dDec1":"Aloe Vera Extract moisturizes and nourishes baby’s delicate scalp skin.",
+        "dDec2":"It is Tear-free, gentle yet efficient, with a 5.6 pH level – best suited for baby skin.",
+        "dDec3":"It is enriched with the goodness of Coconut-based cleansers and Jojoba Oil. They help nourish the skin and increase its moisture content."
+  
+  
+     },
+     {
+        "id":"B6",
+        "name":"Milky Soft Body Lotion for Babies with Oats, Milk and Calendula - 400ml",
+        "image_link":"https://honasa-mamaearth-production.imgix.net/_/m/_milky-soft-body-lotion__1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "pShortDec":"Deeply Nourishes Skin | 24-Hour Moisturization",
+        "rating":4.8,
+        "category":"BabyFoot",
+        "price":"399",
+        "sellerTag":"BEST SELLER",
+        "categor":"Lotion",
+        "description":"Hi! I am Mamaearth Gentle Cleansing Shampoo. I understand that shampooing is not an easy task and involves effort in real cleaning. I also understand that little ones are quite uncomfortable in getting a head bath and the shampoo has to be quick and efficient. That’s why I am here! Let your baby enjoy my thick, soft and instant foam while I gently cleanse hair and scalp. My 100% toxin-free formula gives your baby soft and nourished hair. I take special care not to irritate those sensitive eyes and be gentle on skin. I am also free from harmful chemicals like SLS, Parabens, Sulfates, and other such chemicals, ensuring a safe and happy bath time. Also, I come with MadeSafe Certificatio",
+        "pImg1":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/015.jpg",
+        "pImg2":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/016.jpg",
+        "pImg3":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/017.jpg",
+        "pImg4":"",
+        "dImg1":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/015.jpg",
+        "dImg2":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/016.jpg",
+        "dImg3":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/017.jpg",
+        "dtitle1":"Natural Cleansers",
+        "dtitle2":"Tear-Free Formula",
+        "dtitle3":"Nourishes The Body",
+        "dDec1":"Aloe Vera Extract moisturizes and nourishes baby’s delicate scalp skin.",
+        "dDec2":"It is Tear-free, gentle yet efficient, with a 5.6 pH level – best suited for baby skin.",
+        "dDec3":"It is enriched with the goodness of Coconut-based cleansers and Jojoba Oil. They help nourish the skin and increase its moisture content."
+  
+     },
+     {
+        "id":"B7",
+        "name":"Original Orange Body Lotion For Kids With Orange & Shea Butter - 400 ml (Pack of 2)",
+        "image_link":"https://honasa-mamaearth-production.imgix.net/o/r/original-orange-body-lotion.jpg?auto=compress&fit=scale&w=400&h=400",
+        "pShortDec":"Gently Nourishes Skin | Makes Skin Soft & Supple",
+        "rating":5.0,
+        "category":"BabyFoot",    
+            "price":"798",
+        "sellerTag":"BEST SELLER",
+        "categor":"Lotion",
+        "descripion":"Hi! I am Mamaearth Gentle Cleansing Shampoo. I understand that shampooing is not an easy task and involves effort in real cleaning. I also understand that little ones are quite uncomfortable in getting a head bath and the shampoo has to be quick and efficient. That’s why I am here! Let your baby enjoy my thick, soft and instant foam while I gently cleanse hair and scalp. My 100% toxin-free formula gives your baby soft and nourished hair. I take special care not to irritate those sensitive eyes and be gentle on skin. I am also free from harmful chemicals like SLS, Parabens, Sulfates, and other such chemicals, ensuring a safe and happy bath time. Also, I come with MadeSafe Certificatio",
+        "pImg1":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/015.jpg",
+        "pImg2":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/016.jpg",
+        "pImg3":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/017.jpg",
+        "pImg4":"",
+        "dImg1":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/015.jpg",
+        "dImg2":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/016.jpg",
+        "dImg3":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/017.jpg",
+        "dtitle1":"Natural Cleansers",
+        "dtitle2":"Tear-Free Formula",
+        "dtitle3":"Nourishes The Body",
+        "dDec1":"Aloe Vera Extract moisturizes and nourishes baby’s delicate scalp skin.",
+        "dDec2":"It is Tear-free, gentle yet efficient, with a 5.6 pH level – best suited for baby skin.",
+        "dDec3":"It is enriched with the goodness of Coconut-based cleansers and Jojoba Oil. They help nourish the skin and increase its moisture content."
+  
+  
+     },
+  
+     {
+        "id":"B8",
+        "name":"Major Mango Body Wash For Kids with Mango & Oat Protein - 300 ml (Pack of 2)",
+        "image_link":"https://honasa-mamaearth-production.imgix.net/m/a/mango-body-wash.jpg?auto=compress&fit=scale&w=400&h=400",
+        "pShortDec":"Gently Cleanses | Sulfate-Free | Keeps Skin Soft",
+        "rating":5.0,
+        "category":"BabyFoot",    
+            "price":"798",
+        "sellerTag":"BEST SELLER",
+        "categor":"Bath",
+        "descripion":"Hi! I am Mamaearth Gentle Cleansing Shampoo. I understand that shampooing is not an easy task and involves effort in real cleaning. I also understand that little ones are quite uncomfortable in getting a head bath and the shampoo has to be quick and efficient. That’s why I am here! Let your baby enjoy my thick, soft and instant foam while I gently cleanse hair and scalp. My 100% toxin-free formula gives your baby soft and nourished hair. I take special care not to irritate those sensitive eyes and be gentle on skin. I am also free from harmful chemicals like SLS, Parabens, Sulfates, and other such chemicals, ensuring a safe and happy bath time. Also, I come with MadeSafe Certificatio",
+        "pImg1":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/015.jpg",
+        "pImg2":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/016.jpg",
+        "pImg3":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/017.jpg",
+        "pImg4":"",
+        "dImg1":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/015.jpg",
+        "dImg2":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/016.jpg",
+        "dImg3":"https://mmrth-mg-cs.honasa-production.net/pub/media/wysiwyg/017.jpg",
+        "dtitle1":"Natural Cleansers",
+        "dtitle2":"Tear-Free Formula",
+        "dtitle3":"Nourishes The Body",
+        "dDec1":"Aloe Vera Extract moisturizes and nourishes baby’s delicate scalp skin.",
+        "dDec2":"It is Tear-free, gentle yet efficient, with a 5.6 pH level – best suited for baby skin.",
+        "dDec3":"It is enriched with the goodness of Coconut-based cleansers and Jojoba Oil. They help nourish the skin and increase its moisture content."
+  
+     }
+  
+     ],
+  
+    
+  "products":
+  
+  [
+  {
       "id": 1048,
       "brand": "colourpop",
       "name": "Lippie Pencil",
@@ -218,151 +238,154 @@
       "rating": null,
       "category": "pencil",
       "product_type": "lip_liner",
-      "tag_list": ["cruelty free", "Vegan"],
+      "tag_list": [
+          "cruelty free",
+          "Vegan"
+      ],
       "created_at": "2018-07-08T23:45:08.056Z",
       "updated_at": "2018-07-09T00:53:23.301Z",
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1048.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/048/original/open-uri20180708-4-13okqci?1531093614",
       "product_colors": [
-        {
-          "hex_value": "#B28378",
-          "colour_name": "BFF Pencil"
-        },
-        {
-          "hex_value": "#A36B5E",
-          "colour_name": "951 Pencil"
-        },
-        {
-          "hex_value": "#966A60",
-          "colour_name": "Beeper Pencil"
-        },
-        {
-          "hex_value": "#8F5954",
-          "colour_name": "Oh Snap Pencil"
-        },
-        {
-          "hex_value": "#975348",
-          "colour_name": "Curvii Pencil"
-        },
-        {
-          "hex_value": "#865B69",
-          "colour_name": "Lumiere Pencil"
-        },
-        {
-          "hex_value": "#8E474D",
-          "colour_name": "Bumble Pencil"
-        },
-        {
-          "hex_value": "#5F2820",
-          "colour_name": "BFF Pencil 3"
-        },
-        {
-          "hex_value": "#C095BC",
-          "colour_name": "Brills Pencil"
-        },
-        {
-          "hex_value": "#743A6A",
-          "colour_name": "Are N Be Pencil"
-        },
-        {
-          "hex_value": "#965564",
-          "colour_name": "Contempo Pencil"
-        },
-        {
-          "hex_value": "#BF2C7E",
-          "colour_name": "Heart On Pencil"
-        },
-        {
-          "hex_value": "#CE435D",
-          "colour_name": "Trixie Pencil"
-        },
-        {
-          "hex_value": "#DA6952",
-          "colour_name": "Chi Chi Pencil"
-        },
-        {
-          "hex_value": "#A33C37",
-          "colour_name": "Clique Pencil"
-        },
-        {
-          "hex_value": "#C23D3C",
-          "colour_name": "Frenchie Pencil"
-        },
-        {
-          "hex_value": "#AF4051",
-          "colour_name": "Bossy Pencil"
-        },
-        {
-          "hex_value": "#914B4C",
-          "colour_name": "Wild Nothing Pencil"
-        },
-        {
-          "hex_value": "#6D414B",
-          "colour_name": "Dopey Pencil"
-        },
-        {
-          "hex_value": "#4D2D28",
-          "colour_name": "Toolips Pencil"
-        },
-        {
-          "hex_value": "#361927",
-          "colour_name": "Mamacita Pencil"
-        },
-        {
-          "hex_value": "#714B41",
-          "colour_name": "Pitch Pencil"
-        },
-        {
-          "hex_value": "#762F50",
-          "colour_name": "LBB Pencil"
-        },
-        {
-          "hex_value": "#8C4A47",
-          "colour_name": "Love Bug Pencil"
-        },
-        {
-          "hex_value": "#702E2D",
-          "colour_name": "Poison Pencil"
-        },
-        {
-          "hex_value": "#93283C",
-          "colour_name": "Bichette Pencil"
-        },
-        {
-          "hex_value": "#653E44",
-          "colour_name": "Dukes Pencil"
-        },
-        {
-          "hex_value": "#5C3357",
-          "colour_name": "Leather Pencil"
-        },
-        {
-          "hex_value": "#242225",
-          "colour_name": "Bull Chic Pencil"
-        },
-        {
-          "hex_value": "#B5716A",
-          "colour_name": "Brink Pencil"
-        },
-        {
-          "hex_value": "#B0516F",
-          "colour_name": "I Heart This Pencil"
-        },
-        {
-          "hex_value": "#542328",
-          "colour_name": "Ellarie Pencil"
-        },
-        {
-          "hex_value": "#DFAC9B",
-          "colour_name": "Toy Pencil"
-        },
-        {
-          "hex_value": "#AB7164",
-          "colour_name": "BFF Pencil 2"
-        }
+          {
+              "hex_value": "#B28378",
+              "colour_name": "BFF Pencil"
+          },
+          {
+              "hex_value": "#A36B5E",
+              "colour_name": "951 Pencil"
+          },
+          {
+              "hex_value": "#966A60",
+              "colour_name": "Beeper Pencil"
+          },
+          {
+              "hex_value": "#8F5954",
+              "colour_name": "Oh Snap Pencil"
+          },
+          {
+              "hex_value": "#975348",
+              "colour_name": "Curvii Pencil"
+          },
+          {
+              "hex_value": "#865B69",
+              "colour_name": "Lumiere Pencil"
+          },
+          {
+              "hex_value": "#8E474D",
+              "colour_name": "Bumble Pencil"
+          },
+          {
+              "hex_value": "#5F2820",
+              "colour_name": "BFF Pencil 3"
+          },
+          {
+              "hex_value": "#C095BC",
+              "colour_name": "Brills Pencil"
+          },
+          {
+              "hex_value": "#743A6A",
+              "colour_name": "Are N Be Pencil"
+          },
+          {
+              "hex_value": "#965564",
+              "colour_name": "Contempo Pencil"
+          },
+          {
+              "hex_value": "#BF2C7E",
+              "colour_name": "Heart On Pencil"
+          },
+          {
+              "hex_value": "#CE435D",
+              "colour_name": "Trixie Pencil"
+          },
+          {
+              "hex_value": "#DA6952",
+              "colour_name": "Chi Chi Pencil"
+          },
+          {
+              "hex_value": "#A33C37",
+              "colour_name": "Clique Pencil"
+          },
+          {
+              "hex_value": "#C23D3C",
+              "colour_name": "Frenchie Pencil"
+          },
+          {
+              "hex_value": "#AF4051",
+              "colour_name": "Bossy Pencil"
+          },
+          {
+              "hex_value": "#914B4C",
+              "colour_name": "Wild Nothing Pencil"
+          },
+          {
+              "hex_value": "#6D414B",
+              "colour_name": "Dopey Pencil"
+          },
+          {
+              "hex_value": "#4D2D28",
+              "colour_name": "Toolips Pencil"
+          },
+          {
+              "hex_value": "#361927",
+              "colour_name": "Mamacita Pencil"
+          },
+          {
+              "hex_value": "#714B41",
+              "colour_name": "Pitch Pencil"
+          },
+          {
+              "hex_value": "#762F50",
+              "colour_name": "LBB Pencil"
+          },
+          {
+              "hex_value": "#8C4A47",
+              "colour_name": "Love Bug Pencil"
+          },
+          {
+              "hex_value": "#702E2D",
+              "colour_name": "Poison Pencil"
+          },
+          {
+              "hex_value": "#93283C",
+              "colour_name": "Bichette Pencil"
+          },
+          {
+              "hex_value": "#653E44",
+              "colour_name": "Dukes Pencil"
+          },
+          {
+              "hex_value": "#5C3357",
+              "colour_name": "Leather Pencil"
+          },
+          {
+              "hex_value": "#242225",
+              "colour_name": "Bull Chic Pencil"
+          },
+          {
+              "hex_value": "#B5716A",
+              "colour_name": "Brink Pencil"
+          },
+          {
+              "hex_value": "#B0516F",
+              "colour_name": "I Heart This Pencil"
+          },
+          {
+              "hex_value": "#542328",
+              "colour_name": "Ellarie Pencil"
+          },
+          {
+              "hex_value": "#DFAC9B",
+              "colour_name": "Toy Pencil"
+          },
+          {
+              "hex_value": "#AB7164",
+              "colour_name": "BFF Pencil 2"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 1047,
       "brand": "colourpop",
       "name": "Blotted Lip",
@@ -376,43 +399,46 @@
       "rating": null,
       "category": "lipstick",
       "product_type": "lipstick",
-      "tag_list": ["cruelty free", "Vegan"],
+      "tag_list": [
+          "cruelty free",
+          "Vegan"
+      ],
       "created_at": "2018-07-08T22:01:20.178Z",
       "updated_at": "2018-07-09T00:53:23.287Z",
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1047.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/047/original/open-uri20180708-4-e7idod?1531087336",
       "product_colors": [
-        {
-          "hex_value": "#b72227",
-          "colour_name": "Bee's Knees"
-        },
-        {
-          "hex_value": "#BB656B",
-          "colour_name": "Brain Freeze"
-        },
-        {
-          "hex_value": "#8E4140",
-          "colour_name": "Drip"
-        },
-        {
-          "hex_value": "#A12A33",
-          "colour_name": "On a Stick"
-        },
-        {
-          "hex_value": "#904550",
-          "colour_name": "Ice Cube"
-        },
-        {
-          "hex_value": "#452222",
-          "colour_name": "Lolly"
-        },
-        {
-          "hex_value": "#7C3F35",
-          "colour_name": "Candyfloss"
-        }
+          {
+              "hex_value": "#b72227",
+              "colour_name": "Bee's Knees"
+          },
+          {
+              "hex_value": "#BB656B",
+              "colour_name": "Brain Freeze"
+          },
+          {
+              "hex_value": "#8E4140",
+              "colour_name": "Drip"
+          },
+          {
+              "hex_value": "#A12A33",
+              "colour_name": "On a Stick"
+          },
+          {
+              "hex_value": "#904550",
+              "colour_name": "Ice Cube"
+          },
+          {
+              "hex_value": "#452222",
+              "colour_name": "Lolly"
+          },
+          {
+              "hex_value": "#7C3F35",
+              "colour_name": "Candyfloss"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 1046,
       "brand": "colourpop",
       "name": "Lippie Stix",
@@ -426,200 +452,205 @@
       "rating": null,
       "category": "lipstick",
       "product_type": "lipstick",
-      "tag_list": ["cruelty free", "Vegan"],
+      "tag_list": [
+          "cruelty free",
+          "Vegan"
+      ],
       "created_at": "2018-07-08T21:47:49.858Z",
       "updated_at": "2018-07-09T00:53:23.274Z",
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1046.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/046/original/open-uri20180708-4-1f333k1?1531086651",
       "product_colors": [
-        {
-          "hex_value": "#F2DEC3",
-          "colour_name": "Fair 05"
-        },
-        {
-          "hex_value": "#793C36",
-          "colour_name": "Ziggie"
-        },
-        {
-          "hex_value": "#723739",
-          "colour_name": "Goldie"
-        },
-        {
-          "hex_value": "#BF3A30",
-          "colour_name": "Love Life"
-        },
-        {
-          "hex_value": "#94372D",
-          "colour_name": "Who Run this"
-        },
-        {
-          "hex_value": "#9E574D",
-          "colour_name": "Aquarius"
-        },
-        {
-          "hex_value": "#C68176",
-          "colour_name": "Brink"
-        },
-        {
-          "hex_value": "#AA6968",
-          "colour_name": "Cami"
-        },
-        {
-          "hex_value": "#E28474",
-          "colour_name": "Sike"
-        },
-        {
-          "hex_value": "#9A2B24",
-          "colour_name": "Fly-Fi"
-        },
-        {
-          "hex_value": "#B97271",
-          "colour_name": "Goal Digger"
-        },
-        {
-          "hex_value": "#BA7378",
-          "colour_name": "After Shock"
-        },
-        {
-          "hex_value": "#D68B99",
-          "colour_name": "Little Tings"
-        },
-        {
-          "hex_value": "#C07D6B",
-          "colour_name": "Ink Blot"
-        },
-        {
-          "hex_value": "#A3595E",
-          "colour_name": "Candy Paint"
-        },
-        {
-          "hex_value": "#5D2318",
-          "colour_name": "Ellarie"
-        },
-        {
-          "hex_value": "#C17773",
-          "colour_name": "Daydream"
-        },
-        {
-          "hex_value": "#C08892",
-          "colour_name": "Oh Snap"
-        },
-        {
-          "hex_value": "#BC6E6B",
-          "colour_name": "Faded"
-        },
-        {
-          "hex_value": "#CF8D98",
-          "colour_name": "Bound"
-        },
-        {
-          "hex_value": "#762554",
-          "colour_name": "Party Foul"
-        },
-        {
-          "hex_value": "#B67367",
-          "colour_name": "Parker"
-        },
-        {
-          "hex_value": "#852528",
-          "colour_name": "Bichette"
-        },
-        {
-          "hex_value": "#B86A82",
-          "colour_name": "Sauce"
-        },
-        {
-          "hex_value": "#B75E59",
-          "colour_name": "Topanga"
-        },
-        {
-          "hex_value": "#EA5151",
-          "colour_name": "Lullaby"
-        },
-        {
-          "hex_value": "#C08586",
-          "colour_name": "Contempo"
-        },
-        {
-          "hex_value": "#B82485",
-          "colour_name": "Heart on"
-        },
-        {
-          "hex_value": "#C5314F",
-          "colour_name": "I Heart this Lippie"
-        },
-        {
-          "hex_value": "#8F6557",
-          "colour_name": "Tootsi"
-        },
-        {
-          "hex_value": "#AF7564",
-          "colour_name": "Cookie"
-        },
-        {
-          "hex_value": "#AA4E79",
-          "colour_name": "Persuasion"
-        },
-        {
-          "hex_value": "#442A26",
-          "colour_name": "Pitch"
-        },
-        {
-          "hex_value": "#5C4761",
-          "colour_name": "Leather"
-        },
-        {
-          "hex_value": "#D12C35",
-          "colour_name": "Frenchie"
-        },
-        {
-          "hex_value": "#AB3E61",
-          "colour_name": "Mirror, Mirror"
-        },
-        {
-          "hex_value": "#621F20",
-          "colour_name": "Poison"
-        },
-        {
-          "hex_value": "#623343",
-          "colour_name": "LBB"
-        },
-        {
-          "hex_value": "#864740",
-          "colour_name": "Grunge"
-        },
-        {
-          "hex_value": "#C5282D",
-          "colour_name": "Bossy"
-        },
-        {
-          "hex_value": "#DC4A3C",
-          "colour_name": "Chi Chi"
-        },
-        {
-          "hex_value": "#CB2931",
-          "colour_name": "Trust Me"
-        },
-        {
-          "hex_value": "#AB223E",
-          "colour_name": "Poppin'"
-        },
-        {
-          "hex_value": "#A05F6A",
-          "colour_name": "Lumiere"
-        },
-        {
-          "hex_value": "#763A31",
-          "colour_name": "Taurus"
-        },
-        {
-          "hex_value": "#975450",
-          "colour_name": "Kapish"
-        }
+          {
+              "hex_value": "#F2DEC3",
+              "colour_name": "Fair 05"
+          },
+          {
+              "hex_value": "#793C36",
+              "colour_name": "Ziggie"
+          },
+          {
+              "hex_value": "#723739",
+              "colour_name": "Goldie"
+          },
+          {
+              "hex_value": "#BF3A30",
+              "colour_name": "Love Life"
+          },
+          {
+              "hex_value": "#94372D",
+              "colour_name": "Who Run this"
+          },
+          {
+              "hex_value": "#9E574D",
+              "colour_name": "Aquarius"
+          },
+          {
+              "hex_value": "#C68176",
+              "colour_name": "Brink"
+          },
+          {
+              "hex_value": "#AA6968",
+              "colour_name": "Cami"
+          },
+          {
+              "hex_value": "#E28474",
+              "colour_name": "Sike"
+          },
+          {
+              "hex_value": "#9A2B24",
+              "colour_name": "Fly-Fi"
+          },
+          {
+              "hex_value": "#B97271",
+              "colour_name": "Goal Digger"
+          },
+          {
+              "hex_value": "#BA7378",
+              "colour_name": "After Shock"
+          },
+          {
+              "hex_value": "#D68B99",
+              "colour_name": "Little Tings"
+          },
+          {
+              "hex_value": "#C07D6B",
+              "colour_name": "Ink Blot"
+          },
+          {
+              "hex_value": "#A3595E",
+              "colour_name": "Candy Paint"
+          },
+          {
+              "hex_value": "#5D2318",
+              "colour_name": "Ellarie"
+          },
+          {
+              "hex_value": "#C17773",
+              "colour_name": "Daydream"
+          },
+          {
+              "hex_value": "#C08892",
+              "colour_name": "Oh Snap"
+          },
+          {
+              "hex_value": "#BC6E6B",
+              "colour_name": "Faded"
+          },
+          {
+              "hex_value": "#CF8D98",
+              "colour_name": "Bound"
+          },
+          {
+              "hex_value": "#762554",
+              "colour_name": "Party Foul"
+          },
+          {
+              "hex_value": "#B67367",
+              "colour_name": "Parker"
+          },
+          {
+              "hex_value": "#852528",
+              "colour_name": "Bichette"
+          },
+          {
+              "hex_value": "#B86A82",
+              "colour_name": "Sauce"
+          },
+          {
+              "hex_value": "#B75E59",
+              "colour_name": "Topanga"
+          },
+          {
+              "hex_value": "#EA5151",
+              "colour_name": "Lullaby"
+          },
+          {
+              "hex_value": "#C08586",
+              "colour_name": "Contempo"
+          },
+          {
+              "hex_value": "#B82485",
+              "colour_name": "Heart on"
+          },
+          {
+              "hex_value": "#C5314F",
+              "colour_name": "I Heart this Lippie"
+          },
+          {
+              "hex_value": "#8F6557",
+              "colour_name": "Tootsi"
+          },
+          {
+              "hex_value": "#AF7564",
+              "colour_name": "Cookie"
+          },
+          {
+              "hex_value": "#AA4E79",
+              "colour_name": "Persuasion"
+          },
+          {
+              "hex_value": "#442A26",
+              "colour_name": "Pitch"
+          },
+          {
+              "hex_value": "#5C4761",
+              "colour_name": "Leather"
+          },
+          {
+              "hex_value": "#D12C35",
+              "colour_name": "Frenchie"
+          },
+          {
+              "hex_value": "#AB3E61",
+              "colour_name": "Mirror, Mirror"
+          },
+          {
+              "hex_value": "#621F20",
+              "colour_name": "Poison"
+          },
+          {
+              "hex_value": "#623343",
+              "colour_name": "LBB"
+          },
+          {
+              "hex_value": "#864740",
+              "colour_name": "Grunge"
+          },
+          {
+              "hex_value": "#C5282D",
+              "colour_name": "Bossy"
+          },
+          {
+              "hex_value": "#DC4A3C",
+              "colour_name": "Chi Chi"
+          },
+          {
+              "hex_value": "#CB2931",
+              "colour_name": "Trust Me"
+          },
+          {
+              "hex_value": "#AB223E",
+              "colour_name": "Poppin'"
+          },
+          {
+              "hex_value": "#A05F6A",
+              "colour_name": "Lumiere"
+          },
+          {
+              "hex_value": "#763A31",
+              "colour_name": "Taurus"
+          },
+          {
+              "hex_value": "#975450",
+              "colour_name": "Kapish"
+          }
       ]
-    },
-
-    {
+  },
+  
+  
+  
+  {
       "id": 997,
       "brand": "nyx",
       "name": "Propel My Eyes Mascara",
@@ -639,8 +670,8 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/997.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/997/original/data?1514082787",
       "product_colors": []
-    },
-    {
+  },
+  {
       "id": 996,
       "brand": "nyx",
       "name": "Proof It! Waterproof Mascara Top Coat",
@@ -660,8 +691,8 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/996.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/996/original/data?1514082786",
       "product_colors": []
-    },
-    {
+  },
+  {
       "id": 995,
       "brand": "nyx",
       "name": "Big \u0026 Loud Lash Primer",
@@ -681,8 +712,8 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/995.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/995/original/data?1514082785",
       "product_colors": []
-    },
-    {
+  },
+  {
       "id": 994,
       "brand": "nyx",
       "name": "Double Stacked Mascara",
@@ -702,8 +733,8 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/994.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/994/original/open-uri20171224-4-1shcfum?1514082785",
       "product_colors": []
-    },
-    {
+  },
+  {
       "id": 993,
       "brand": "nyx",
       "name": "Doll Eye Mascara",
@@ -723,13 +754,13 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/993.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/993/original/data?1514082784",
       "product_colors": [
-        {
-          "hex_value": "#141414",
-          "colour_name": "Waterproof - Black"
-        }
+          {
+              "hex_value": "#141414",
+              "colour_name": "Waterproof - Black"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 992,
       "brand": "nyx",
       "name": "The Skinny Mascara",
@@ -749,8 +780,8 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/992.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/992/original/data?1514082782",
       "product_colors": []
-    },
-    {
+  },
+  {
       "id": 991,
       "brand": "nyx",
       "name": "Worth the Hype Volumizing \u0026 Lengthening Mascara",
@@ -770,8 +801,8 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/991.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/991/original/data?1514082782",
       "product_colors": []
-    },
-    {
+  },
+  {
       "id": 990,
       "brand": "nyx",
       "name": "Boudoir Mascara Collection",
@@ -791,37 +822,37 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/990.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/990/original/open-uri20171224-4-1xdrjhl?1514082780",
       "product_colors": [
-        {
-          "hex_value": "#131315",
-          "colour_name": "Le Frou Frou"
-        },
-        {
-          "hex_value": "#232323",
-          "colour_name": "Pin-Up Tease"
-        },
-        {
-          "hex_value": "#0D0D0D",
-          "colour_name": "Provocateur"
-        },
-        {
-          "hex_value": "#141414",
-          "colour_name": "Faux Lashes"
-        },
-        {
-          "hex_value": "#151515",
-          "colour_name": "Le Chick Flick"
-        },
-        {
-          "hex_value": "#2B2B2B",
-          "colour_name": "La Amoureux"
-        },
-        {
-          "hex_value": "#121212",
-          "colour_name": "Za Za Zu"
-        }
+          {
+              "hex_value": "#131315",
+              "colour_name": "Le Frou Frou"
+          },
+          {
+              "hex_value": "#232323",
+              "colour_name": "Pin-Up Tease"
+          },
+          {
+              "hex_value": "#0D0D0D",
+              "colour_name": "Provocateur"
+          },
+          {
+              "hex_value": "#141414",
+              "colour_name": "Faux Lashes"
+          },
+          {
+              "hex_value": "#151515",
+              "colour_name": "Le Chick Flick"
+          },
+          {
+              "hex_value": "#2B2B2B",
+              "colour_name": "La Amoureux"
+          },
+          {
+              "hex_value": "#121212",
+              "colour_name": "Za Za Zu"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 989,
       "brand": "nyx",
       "name": "Color Mascara",
@@ -841,41 +872,41 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/989.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/989/original/open-uri20171224-4-1gh72x0?1514082779",
       "product_colors": [
-        {
-          "hex_value": "#FFFAFF",
-          "colour_name": "Purple"
-        },
-        {
-          "hex_value": "#FBFCFF",
-          "colour_name": "Blue"
-        },
-        {
-          "hex_value": "#FFF9F3",
-          "colour_name": "Brown"
-        },
-        {
-          "hex_value": "#FEFBF6",
-          "colour_name": "Perfect Pear"
-        },
-        {
-          "hex_value": "#FBFAF6",
-          "colour_name": "Coral Reef"
-        },
-        {
-          "hex_value": "#F4FAF6",
-          "colour_name": "Mint Julep"
-        },
-        {
-          "hex_value": "#F7F5F8",
-          "colour_name": "Forget Me Not"
-        },
-        {
-          "hex_value": "#F5F3F4",
-          "colour_name": "Pink Petals"
-        }
+          {
+              "hex_value": "#FFFAFF",
+              "colour_name": "Purple"
+          },
+          {
+              "hex_value": "#FBFCFF",
+              "colour_name": "Blue"
+          },
+          {
+              "hex_value": "#FFF9F3",
+              "colour_name": "Brown"
+          },
+          {
+              "hex_value": "#FEFBF6",
+              "colour_name": "Perfect Pear"
+          },
+          {
+              "hex_value": "#FBFAF6",
+              "colour_name": "Coral Reef"
+          },
+          {
+              "hex_value": "#F4FAF6",
+              "colour_name": "Mint Julep"
+          },
+          {
+              "hex_value": "#F7F5F8",
+              "colour_name": "Forget Me Not"
+          },
+          {
+              "hex_value": "#F5F3F4",
+              "colour_name": "Pink Petals"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 988,
       "brand": "nyx",
       "name": "Super Luscious Mascara",
@@ -895,33 +926,33 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/988.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/988/original/open-uri20171224-4-1lbpgue?1514082777",
       "product_colors": [
-        {
-          "hex_value": "#252525",
-          "colour_name": "XXL"
-        },
-        {
-          "hex_value": "#0E0E0E",
-          "colour_name": "Badunkadunk"
-        },
-        {
-          "hex_value": "gray7",
-          "colour_name": "Voluptuous"
-        },
-        {
-          "hex_value": "#373737",
-          "colour_name": "Full Figured"
-        },
-        {
-          "hex_value": "#191919",
-          "colour_name": "Curvaceous"
-        },
-        {
-          "hex_value": "#101010",
-          "colour_name": "More To Love"
-        }
+          {
+              "hex_value": "#252525",
+              "colour_name": "XXL"
+          },
+          {
+              "hex_value": "#0E0E0E",
+              "colour_name": "Badunkadunk"
+          },
+          {
+              "hex_value": "gray7",
+              "colour_name": "Voluptuous"
+          },
+          {
+              "hex_value": "#373737",
+              "colour_name": "Full Figured"
+          },
+          {
+              "hex_value": "#191919",
+              "colour_name": "Curvaceous"
+          },
+          {
+              "hex_value": "#101010",
+              "colour_name": "More To Love"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 987,
       "brand": "nyx",
       "name": "Eyebrow Marker",
@@ -941,17 +972,17 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/987.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/987/original/data?1514082776",
       "product_colors": [
-        {
-          "hex_value": "#8B6534",
-          "colour_name": "Medium"
-        },
-        {
-          "hex_value": "#4D2712",
-          "colour_name": "Deep"
-        }
+          {
+              "hex_value": "#8B6534",
+              "colour_name": "Medium"
+          },
+          {
+              "hex_value": "#4D2712",
+              "colour_name": "Deep"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 986,
       "brand": "nyx",
       "name": "Eyebrow Kit With Stencil",
@@ -971,8 +1002,8 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/986.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/986/original/open-uri20171224-4-14z5x4y?1514082775",
       "product_colors": []
-    },
-    {
+  },
+  {
       "id": 985,
       "brand": "nyx",
       "name": "Eyebrow Push-Up Bra",
@@ -992,8 +1023,8 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/985.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/985/original/data?1514082775",
       "product_colors": []
-    },
-    {
+  },
+  {
       "id": 984,
       "brand": "nyx",
       "name": "3-Dimensional Brow Marker",
@@ -1013,33 +1044,33 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/984.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/984/original/open-uri20171224-4-1uh3nw7?1514082773",
       "product_colors": [
-        {
-          "hex_value": "#B78F69",
-          "colour_name": "Blonde"
-        },
-        {
-          "hex_value": "#99663A",
-          "colour_name": "Auburn"
-        },
-        {
-          "hex_value": "#56382D",
-          "colour_name": "Chocolate Brown"
-        },
-        {
-          "hex_value": "#403028",
-          "colour_name": "Charcoal"
-        },
-        {
-          "hex_value": "#765948",
-          "colour_name": "Brunette"
-        },
-        {
-          "hex_value": "#8A6554",
-          "colour_name": "Soft Brown"
-        }
+          {
+              "hex_value": "#B78F69",
+              "colour_name": "Blonde"
+          },
+          {
+              "hex_value": "#99663A",
+              "colour_name": "Auburn"
+          },
+          {
+              "hex_value": "#56382D",
+              "colour_name": "Chocolate Brown"
+          },
+          {
+              "hex_value": "#403028",
+              "colour_name": "Charcoal"
+          },
+          {
+              "hex_value": "#765948",
+              "colour_name": "Brunette"
+          },
+          {
+              "hex_value": "#8A6554",
+              "colour_name": "Soft Brown"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 983,
       "brand": "nyx",
       "name": "Eyebrow Shaper",
@@ -1059,8 +1090,8 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/983.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/983/original/data?1514082773",
       "product_colors": []
-    },
-    {
+  },
+  {
       "id": 982,
       "brand": "nyx",
       "name": "Build 'Em Up Brow Powder",
@@ -1080,41 +1111,41 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/982.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/982/original/open-uri20171224-4-15afdg3?1514082772",
       "product_colors": [
-        {
-          "hex_value": "#7B5C3F",
-          "colour_name": "Blonde"
-        },
-        {
-          "hex_value": "#5E4C3E",
-          "colour_name": "Taupe"
-        },
-        {
-          "hex_value": "#4C392B",
-          "colour_name": "Soft Brown"
-        },
-        {
-          "hex_value": "#4F2F22",
-          "colour_name": "Auburn"
-        },
-        {
-          "hex_value": "#151419",
-          "colour_name": "Brunette"
-        },
-        {
-          "hex_value": "#0C160E",
-          "colour_name": "Espresso"
-        },
-        {
-          "hex_value": "#0B0D0A",
-          "colour_name": "Ash Brown"
-        },
-        {
-          "hex_value": "gray3",
-          "colour_name": "Black"
-        }
+          {
+              "hex_value": "#7B5C3F",
+              "colour_name": "Blonde"
+          },
+          {
+              "hex_value": "#5E4C3E",
+              "colour_name": "Taupe"
+          },
+          {
+              "hex_value": "#4C392B",
+              "colour_name": "Soft Brown"
+          },
+          {
+              "hex_value": "#4F2F22",
+              "colour_name": "Auburn"
+          },
+          {
+              "hex_value": "#151419",
+              "colour_name": "Brunette"
+          },
+          {
+              "hex_value": "#0C160E",
+              "colour_name": "Espresso"
+          },
+          {
+              "hex_value": "#0B0D0A",
+              "colour_name": "Ash Brown"
+          },
+          {
+              "hex_value": "gray3",
+              "colour_name": "Black"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 981,
       "brand": "nyx",
       "name": "3-in-1 Brow Pencil",
@@ -1134,37 +1165,37 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/981.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/981/original/open-uri20171224-4-1i8mko9?1514082770",
       "product_colors": [
-        {
-          "hex_value": "#FAFBF6",
-          "colour_name": "Blonde"
-        },
-        {
-          "hex_value": "#FFFEFD",
-          "colour_name": "Taupe"
-        },
-        {
-          "hex_value": "#FCFFFF",
-          "colour_name": "Auburn"
-        },
-        {
-          "hex_value": "#FFFEFB",
-          "colour_name": "Brunette"
-        },
-        {
-          "hex_value": "#FFFEFF",
-          "colour_name": "Espresso"
-        },
-        {
-          "hex_value": "#FFFFFD",
-          "colour_name": "Ash Brown"
-        },
-        {
-          "hex_value": "white",
-          "colour_name": "Black"
-        }
+          {
+              "hex_value": "#FAFBF6",
+              "colour_name": "Blonde"
+          },
+          {
+              "hex_value": "#FFFEFD",
+              "colour_name": "Taupe"
+          },
+          {
+              "hex_value": "#FCFFFF",
+              "colour_name": "Auburn"
+          },
+          {
+              "hex_value": "#FFFEFB",
+              "colour_name": "Brunette"
+          },
+          {
+              "hex_value": "#FFFEFF",
+              "colour_name": "Espresso"
+          },
+          {
+              "hex_value": "#FFFFFD",
+              "colour_name": "Ash Brown"
+          },
+          {
+              "hex_value": "white",
+              "colour_name": "Black"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 980,
       "brand": "nyx",
       "name": "Proof It! Waterproof Eyebrow Primer",
@@ -1184,8 +1215,8 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/980.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/980/original/data?1514082769",
       "product_colors": []
-    },
-    {
+  },
+  {
       "id": 979,
       "brand": "nyx",
       "name": "Eyebrow Powder Pencil",
@@ -1205,45 +1236,45 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/979.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/979/original/open-uri20171224-4-1wo69r1?1514082766",
       "product_colors": [
-        {
-          "hex_value": "#FFF0E2",
-          "colour_name": "Blonde"
-        },
-        {
-          "hex_value": "#F7EFE4",
-          "colour_name": "Taupe"
-        },
-        {
-          "hex_value": "#F5EBE2",
-          "colour_name": "Soft Brown"
-        },
-        {
-          "hex_value": "#FBEFE3",
-          "colour_name": "Caramel"
-        },
-        {
-          "hex_value": "#FBEBDB",
-          "colour_name": "Auburn"
-        },
-        {
-          "hex_value": "#F6EDE4",
-          "colour_name": "Brunette"
-        },
-        {
-          "hex_value": "#F6EBE5",
-          "colour_name": "Espresso"
-        },
-        {
-          "hex_value": "#F7EDE4",
-          "colour_name": "Ash Brown"
-        },
-        {
-          "hex_value": "#E1E1E1",
-          "colour_name": "Black"
-        }
+          {
+              "hex_value": "#FFF0E2",
+              "colour_name": "Blonde"
+          },
+          {
+              "hex_value": "#F7EFE4",
+              "colour_name": "Taupe"
+          },
+          {
+              "hex_value": "#F5EBE2",
+              "colour_name": "Soft Brown"
+          },
+          {
+              "hex_value": "#FBEFE3",
+              "colour_name": "Caramel"
+          },
+          {
+              "hex_value": "#FBEBDB",
+              "colour_name": "Auburn"
+          },
+          {
+              "hex_value": "#F6EDE4",
+              "colour_name": "Brunette"
+          },
+          {
+              "hex_value": "#F6EBE5",
+              "colour_name": "Espresso"
+          },
+          {
+              "hex_value": "#F7EDE4",
+              "colour_name": "Ash Brown"
+          },
+          {
+              "hex_value": "#E1E1E1",
+              "colour_name": "Black"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 978,
       "brand": "nyx",
       "name": "Precision Brow Pencil",
@@ -1263,41 +1294,41 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/978.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/978/original/open-uri20171224-4-odtm98?1514082764",
       "product_colors": [
-        {
-          "hex_value": "#C6B7B0",
-          "colour_name": "Blonde"
-        },
-        {
-          "hex_value": "#C2B4A9",
-          "colour_name": "Taupe"
-        },
-        {
-          "hex_value": "#BDB5AA",
-          "colour_name": "Soft Brown"
-        },
-        {
-          "hex_value": "#BBAEA5",
-          "colour_name": "Ash Brown"
-        },
-        {
-          "hex_value": "#A09488",
-          "colour_name": "Espresso"
-        },
-        {
-          "hex_value": "#8D8988",
-          "colour_name": "Black"
-        },
-        {
-          "hex_value": "#A79B9D",
-          "colour_name": "Charcoal"
-        },
-        {
-          "hex_value": "#D5A8AB",
-          "colour_name": "Auburn"
-        }
+          {
+              "hex_value": "#C6B7B0",
+              "colour_name": "Blonde"
+          },
+          {
+              "hex_value": "#C2B4A9",
+              "colour_name": "Taupe"
+          },
+          {
+              "hex_value": "#BDB5AA",
+              "colour_name": "Soft Brown"
+          },
+          {
+              "hex_value": "#BBAEA5",
+              "colour_name": "Ash Brown"
+          },
+          {
+              "hex_value": "#A09488",
+              "colour_name": "Espresso"
+          },
+          {
+              "hex_value": "#8D8988",
+              "colour_name": "Black"
+          },
+          {
+              "hex_value": "#A79B9D",
+              "colour_name": "Charcoal"
+          },
+          {
+              "hex_value": "#D5A8AB",
+              "colour_name": "Auburn"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 977,
       "brand": "nyx",
       "name": "Sculpt \u0026 Highlight Brow Contour",
@@ -1317,41 +1348,41 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/977.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/977/original/open-uri20171224-4-ylht42?1514082762",
       "product_colors": [
-        {
-          "hex_value": "#FFF6E3",
-          "colour_name": "Blonde/Ivory"
-        },
-        {
-          "hex_value": "#FFF8E6",
-          "colour_name": "Taupe/Vanilla"
-        },
-        {
-          "hex_value": "#FFF3E9",
-          "colour_name": "Soft Brown/Rose"
-        },
-        {
-          "hex_value": "#FFF5E8",
-          "colour_name": "Auburn/Soft Pink"
-        },
-        {
-          "hex_value": "#FFF2DF",
-          "colour_name": "Brunette/Cream"
-        },
-        {
-          "hex_value": "#FFF5E2",
-          "colour_name": "Espresso/Light Beige"
-        },
-        {
-          "hex_value": "#FEF1DE",
-          "colour_name": "Ash Brown/Medium Beige"
-        },
-        {
-          "hex_value": "#FFF1E7",
-          "colour_name": "Black/Golden Peach"
-        }
+          {
+              "hex_value": "#FFF6E3",
+              "colour_name": "Blonde/Ivory"
+          },
+          {
+              "hex_value": "#FFF8E6",
+              "colour_name": "Taupe/Vanilla"
+          },
+          {
+              "hex_value": "#FFF3E9",
+              "colour_name": "Soft Brown/Rose"
+          },
+          {
+              "hex_value": "#FFF5E8",
+              "colour_name": "Auburn/Soft Pink"
+          },
+          {
+              "hex_value": "#FFF2DF",
+              "colour_name": "Brunette/Cream"
+          },
+          {
+              "hex_value": "#FFF5E2",
+              "colour_name": "Espresso/Light Beige"
+          },
+          {
+              "hex_value": "#FEF1DE",
+              "colour_name": "Ash Brown/Medium Beige"
+          },
+          {
+              "hex_value": "#FFF1E7",
+              "colour_name": "Black/Golden Peach"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 976,
       "brand": "nyx",
       "name": "Control Freak Eyebrow Gel",
@@ -1371,8 +1402,8 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/976.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/976/original/data?1514082761",
       "product_colors": []
-    },
-    {
+  },
+  {
       "id": 975,
       "brand": "nyx",
       "name": "Eyebrow Cake Powder",
@@ -1392,33 +1423,33 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/975.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/975/original/open-uri20171224-4-1c3376k?1514082760",
       "product_colors": [
-        {
-          "hex_value": "#1C150F",
-          "colour_name": "Black/ Grey"
-        },
-        {
-          "hex_value": "#29170B",
-          "colour_name": "Dark Brown/ Brown"
-        },
-        {
-          "hex_value": "#412D15",
-          "colour_name": "Taupe / Ash"
-        },
-        {
-          "hex_value": "#471C09",
-          "colour_name": "Auburn / Red"
-        },
-        {
-          "hex_value": "#442914",
-          "colour_name": "Brunette"
-        },
-        {
-          "hex_value": "#3C260F",
-          "colour_name": "Blonde"
-        }
+          {
+              "hex_value": "#1C150F",
+              "colour_name": "Black/ Grey"
+          },
+          {
+              "hex_value": "#29170B",
+              "colour_name": "Dark Brown/ Brown"
+          },
+          {
+              "hex_value": "#412D15",
+              "colour_name": "Taupe / Ash"
+          },
+          {
+              "hex_value": "#471C09",
+              "colour_name": "Auburn / Red"
+          },
+          {
+              "hex_value": "#442914",
+              "colour_name": "Brunette"
+          },
+          {
+              "hex_value": "#3C260F",
+              "colour_name": "Blonde"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 974,
       "brand": "nyx",
       "name": "Tinted Brow Mascara",
@@ -1438,29 +1469,29 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/974.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/974/original/open-uri20171224-4-10ft6nl?1514082758",
       "product_colors": [
-        {
-          "hex_value": "#D4B8A0",
-          "colour_name": "Blonde"
-        },
-        {
-          "hex_value": "#A88774",
-          "colour_name": "Chocolate"
-        },
-        {
-          "hex_value": "#AF937E",
-          "colour_name": "Brunette"
-        },
-        {
-          "hex_value": "#7C665B",
-          "colour_name": "Espresso"
-        },
-        {
-          "hex_value": "#64574F",
-          "colour_name": "Black"
-        }
+          {
+              "hex_value": "#D4B8A0",
+              "colour_name": "Blonde"
+          },
+          {
+              "hex_value": "#A88774",
+              "colour_name": "Chocolate"
+          },
+          {
+              "hex_value": "#AF937E",
+              "colour_name": "Brunette"
+          },
+          {
+              "hex_value": "#7C665B",
+              "colour_name": "Espresso"
+          },
+          {
+              "hex_value": "#64574F",
+              "colour_name": "Black"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 973,
       "brand": "nyx",
       "name": "Auto Eyebrow Pencil",
@@ -1480,41 +1511,41 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/973.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/973/original/open-uri20171224-4-13idccu?1514082754",
       "product_colors": [
-        {
-          "hex_value": "#B8957F",
-          "colour_name": "Light Brown"
-        },
-        {
-          "hex_value": "#B3907C",
-          "colour_name": "Auburn"
-        },
-        {
-          "hex_value": "#9E8370",
-          "colour_name": "Medium Brown"
-        },
-        {
-          "hex_value": "#8D725F",
-          "colour_name": "Brown"
-        },
-        {
-          "hex_value": "#826A5E",
-          "colour_name": "Dark Brown"
-        },
-        {
-          "hex_value": "#AD9382",
-          "colour_name": "Taupe"
-        },
-        {
-          "hex_value": "#909090",
-          "colour_name": "Charcoal"
-        },
-        {
-          "hex_value": "#3A3A3A",
-          "colour_name": "Black"
-        }
+          {
+              "hex_value": "#B8957F",
+              "colour_name": "Light Brown"
+          },
+          {
+              "hex_value": "#B3907C",
+              "colour_name": "Auburn"
+          },
+          {
+              "hex_value": "#9E8370",
+              "colour_name": "Medium Brown"
+          },
+          {
+              "hex_value": "#8D725F",
+              "colour_name": "Brown"
+          },
+          {
+              "hex_value": "#826A5E",
+              "colour_name": "Dark Brown"
+          },
+          {
+              "hex_value": "#AD9382",
+              "colour_name": "Taupe"
+          },
+          {
+              "hex_value": "#909090",
+              "colour_name": "Charcoal"
+          },
+          {
+              "hex_value": "#3A3A3A",
+              "colour_name": "Black"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 972,
       "brand": "nyx",
       "name": "Eyebrow Gel",
@@ -1534,29 +1565,29 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/972.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/972/original/open-uri20171224-4-10rp9z1?1514082753",
       "product_colors": [
-        {
-          "hex_value": "#BD9E81",
-          "colour_name": "Blonde"
-        },
-        {
-          "hex_value": "#805741",
-          "colour_name": "Chocolate"
-        },
-        {
-          "hex_value": "#755B44",
-          "colour_name": "Brunette"
-        },
-        {
-          "hex_value": "#5E3F2B",
-          "colour_name": "Espresso"
-        },
-        {
-          "hex_value": "#2E251C",
-          "colour_name": "Black"
-        }
+          {
+              "hex_value": "#BD9E81",
+              "colour_name": "Blonde"
+          },
+          {
+              "hex_value": "#805741",
+              "colour_name": "Chocolate"
+          },
+          {
+              "hex_value": "#755B44",
+              "colour_name": "Brunette"
+          },
+          {
+              "hex_value": "#5E3F2B",
+              "colour_name": "Espresso"
+          },
+          {
+              "hex_value": "#2E251C",
+              "colour_name": "Black"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 971,
       "brand": "nyx",
       "name": "Tame \u0026 Frame Brow Pomade",
@@ -1576,29 +1607,29 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/971.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/971/original/open-uri20171224-4-18gctvx?1514082752",
       "product_colors": [
-        {
-          "hex_value": "#9E8469",
-          "colour_name": "Blonde"
-        },
-        {
-          "hex_value": "#855F4C",
-          "colour_name": "Chocolate"
-        },
-        {
-          "hex_value": "#7F634E",
-          "colour_name": "Brunette"
-        },
-        {
-          "hex_value": "#5B4337",
-          "colour_name": "Espresso"
-        },
-        {
-          "hex_value": "#403730",
-          "colour_name": "Black"
-        }
+          {
+              "hex_value": "#9E8469",
+              "colour_name": "Blonde"
+          },
+          {
+              "hex_value": "#855F4C",
+              "colour_name": "Chocolate"
+          },
+          {
+              "hex_value": "#7F634E",
+              "colour_name": "Brunette"
+          },
+          {
+              "hex_value": "#5B4337",
+              "colour_name": "Espresso"
+          },
+          {
+              "hex_value": "#403730",
+              "colour_name": "Black"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 970,
       "brand": "nyx",
       "name": "Micro Brow Pencil",
@@ -1618,41 +1649,41 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/970.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/970/original/open-uri20171224-4-1jdhvhr?1514082750",
       "product_colors": [
-        {
-          "hex_value": "#AD927F",
-          "colour_name": "Taupe"
-        },
-        {
-          "hex_value": "#BCA28B",
-          "colour_name": "Blonde"
-        },
-        {
-          "hex_value": "#A1856D",
-          "colour_name": "Auburn"
-        },
-        {
-          "hex_value": "#8C7160",
-          "colour_name": "Chocolate"
-        },
-        {
-          "hex_value": "#827262",
-          "colour_name": "Ash Brown"
-        },
-        {
-          "hex_value": "#756158",
-          "colour_name": "Brunette"
-        },
-        {
-          "hex_value": "#584B42",
-          "colour_name": "Espresso"
-        },
-        {
-          "hex_value": "#2C2C2C",
-          "colour_name": "Black"
-        }
+          {
+              "hex_value": "#AD927F",
+              "colour_name": "Taupe"
+          },
+          {
+              "hex_value": "#BCA28B",
+              "colour_name": "Blonde"
+          },
+          {
+              "hex_value": "#A1856D",
+              "colour_name": "Auburn"
+          },
+          {
+              "hex_value": "#8C7160",
+              "colour_name": "Chocolate"
+          },
+          {
+              "hex_value": "#827262",
+              "colour_name": "Ash Brown"
+          },
+          {
+              "hex_value": "#756158",
+              "colour_name": "Brunette"
+          },
+          {
+              "hex_value": "#584B42",
+              "colour_name": "Espresso"
+          },
+          {
+              "hex_value": "#2C2C2C",
+              "colour_name": "Black"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 969,
       "brand": "nyx",
       "name": "Holographic Halo Cream Eyeliner",
@@ -1672,29 +1703,29 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/969.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/969/original/open-uri20171224-4-59b48d?1514082749",
       "product_colors": [
-        {
-          "hex_value": "#E29F8C",
-          "colour_name": "Palisade Paradise"
-        },
-        {
-          "hex_value": "#6CB5AA",
-          "colour_name": "Killing It"
-        },
-        {
-          "hex_value": "#D4AAC0",
-          "colour_name": "Cotton Candy"
-        },
-        {
-          "hex_value": "#DDD5D3",
-          "colour_name": "Frost"
-        },
-        {
-          "hex_value": "#A3ABB6",
-          "colour_name": "Crystal Vault"
-        }
+          {
+              "hex_value": "#E29F8C",
+              "colour_name": "Palisade Paradise"
+          },
+          {
+              "hex_value": "#6CB5AA",
+              "colour_name": "Killing It"
+          },
+          {
+              "hex_value": "#D4AAC0",
+              "colour_name": "Cotton Candy"
+          },
+          {
+              "hex_value": "#DDD5D3",
+              "colour_name": "Frost"
+          },
+          {
+              "hex_value": "#A3ABB6",
+              "colour_name": "Crystal Vault"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 968,
       "brand": "nyx",
       "name": "Cake That! Powder Eyeliner",
@@ -1714,8 +1745,8 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/968.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/968/original/open-uri20171224-4-159mdg6?1514082748",
       "product_colors": []
-    },
-    {
+  },
+  {
       "id": 967,
       "brand": "nyx",
       "name": "Epic Black Mousse Liner",
@@ -1735,8 +1766,8 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/967.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/967/original/data?1514082747",
       "product_colors": []
-    },
-    {
+  },
+  {
       "id": 966,
       "brand": "nyx",
       "name": "Cosmic Gel Liner",
@@ -1756,21 +1787,21 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/966.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/966/original/open-uri20171224-4-kpqxp4?1514082746",
       "product_colors": [
-        {
-          "hex_value": "#D64262",
-          "colour_name": "Interstellar"
-        },
-        {
-          "hex_value": "#06ADE4",
-          "colour_name": "Supernatural"
-        },
-        {
-          "hex_value": "#262B51",
-          "colour_name": "Infinite Star"
-        }
+          {
+              "hex_value": "#D64262",
+              "colour_name": "Interstellar"
+          },
+          {
+              "hex_value": "#06ADE4",
+              "colour_name": "Supernatural"
+          },
+          {
+              "hex_value": "#262B51",
+              "colour_name": "Infinite Star"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 965,
       "brand": "nyx",
       "name": "Gel Liner And Smudger",
@@ -1790,37 +1821,37 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/965.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/965/original/open-uri20171224-4-8mqi9p?1514082745",
       "product_colors": [
-        {
-          "hex_value": "#E8E7E3",
-          "colour_name": "Emma"
-        },
-        {
-          "hex_value": "#444444",
-          "colour_name": "Betty"
-        },
-        {
-          "hex_value": "#725C47",
-          "colour_name": "Charlotte"
-        },
-        {
-          "hex_value": "#03C7B9",
-          "colour_name": "Danielle"
-        },
-        {
-          "hex_value": "#496CBE",
-          "colour_name": "Samantha"
-        },
-        {
-          "hex_value": "#512F16",
-          "colour_name": "Scarlette"
-        },
-        {
-          "hex_value": "#583668",
-          "colour_name": "Annie"
-        }
+          {
+              "hex_value": "#E8E7E3",
+              "colour_name": "Emma"
+          },
+          {
+              "hex_value": "#444444",
+              "colour_name": "Betty"
+          },
+          {
+              "hex_value": "#725C47",
+              "colour_name": "Charlotte"
+          },
+          {
+              "hex_value": "#03C7B9",
+              "colour_name": "Danielle"
+          },
+          {
+              "hex_value": "#496CBE",
+              "colour_name": "Samantha"
+          },
+          {
+              "hex_value": "#512F16",
+              "colour_name": "Scarlette"
+          },
+          {
+              "hex_value": "#583668",
+              "colour_name": "Annie"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 964,
       "brand": "nyx",
       "name": "Metallic Eyeliner",
@@ -1840,33 +1871,33 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/964.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/964/original/open-uri20171224-4-11fb0s4?1514082743",
       "product_colors": [
-        {
-          "hex_value": "#B15A47",
-          "colour_name": "Copper"
-        },
-        {
-          "hex_value": "#99949A",
-          "colour_name": "Silver"
-        },
-        {
-          "hex_value": "#B69A8F",
-          "colour_name": "Rose Gold"
-        },
-        {
-          "hex_value": "#B88B47",
-          "colour_name": "Gold"
-        },
-        {
-          "hex_value": "#2F2F2F",
-          "colour_name": "Gunmetal"
-        },
-        {
-          "hex_value": "#2D2D2D",
-          "colour_name": "Black Metal"
-        }
+          {
+              "hex_value": "#B15A47",
+              "colour_name": "Copper"
+          },
+          {
+              "hex_value": "#99949A",
+              "colour_name": "Silver"
+          },
+          {
+              "hex_value": "#B69A8F",
+              "colour_name": "Rose Gold"
+          },
+          {
+              "hex_value": "#B88B47",
+              "colour_name": "Gold"
+          },
+          {
+              "hex_value": "#2F2F2F",
+              "colour_name": "Gunmetal"
+          },
+          {
+              "hex_value": "#2D2D2D",
+              "colour_name": "Black Metal"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 963,
       "brand": "nyx",
       "name": "Tres Jolie Gel Pencil Liner",
@@ -1886,17 +1917,17 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/963.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/963/original/data?1514082741",
       "product_colors": [
-        {
-          "hex_value": "#191919",
-          "colour_name": "Pitch Black"
-        },
-        {
-          "hex_value": "#43281D",
-          "colour_name": "Brown"
-        }
+          {
+              "hex_value": "#191919",
+              "colour_name": "Pitch Black"
+          },
+          {
+              "hex_value": "#43281D",
+              "colour_name": "Brown"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 962,
       "brand": "nyx",
       "name": "Faux Whites Eye Brightener",
@@ -1916,41 +1947,41 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/962.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/962/original/open-uri20171224-4-gpuczn?1514082740",
       "product_colors": [
-        {
-          "hex_value": "#FFE0E3",
-          "colour_name": "Seashell"
-        },
-        {
-          "hex_value": "#FFE3D8",
-          "colour_name": "Linen"
-        },
-        {
-          "hex_value": "#FCF4CF",
-          "colour_name": "Vanilla"
-        },
-        {
-          "hex_value": "#F0F4D9",
-          "colour_name": "Honeydew"
-        },
-        {
-          "hex_value": "#E3F1E4",
-          "colour_name": "Mint Cream"
-        },
-        {
-          "hex_value": "#D8EBFC",
-          "colour_name": "Baby Powder"
-        },
-        {
-          "hex_value": "#F9E1EE",
-          "colour_name": "Lavender Blush"
-        },
-        {
-          "hex_value": "#E7E3FE",
-          "colour_name": "White Smoke"
-        }
+          {
+              "hex_value": "#FFE0E3",
+              "colour_name": "Seashell"
+          },
+          {
+              "hex_value": "#FFE3D8",
+              "colour_name": "Linen"
+          },
+          {
+              "hex_value": "#FCF4CF",
+              "colour_name": "Vanilla"
+          },
+          {
+              "hex_value": "#F0F4D9",
+              "colour_name": "Honeydew"
+          },
+          {
+              "hex_value": "#E3F1E4",
+              "colour_name": "Mint Cream"
+          },
+          {
+              "hex_value": "#D8EBFC",
+              "colour_name": "Baby Powder"
+          },
+          {
+              "hex_value": "#F9E1EE",
+              "colour_name": "Lavender Blush"
+          },
+          {
+              "hex_value": "#E7E3FE",
+              "colour_name": "White Smoke"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 961,
       "brand": "nyx",
       "name": "Faux Blacks Eyeliner",
@@ -1970,41 +2001,41 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/961.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/961/original/open-uri20171224-4-3q32qt?1514082739",
       "product_colors": [
-        {
-          "hex_value": "#A06362",
-          "colour_name": "Oxblood"
-        },
-        {
-          "hex_value": "#975873",
-          "colour_name": "Burnt Sienna"
-        },
-        {
-          "hex_value": "#7D7C60",
-          "colour_name": "Black Olive"
-        },
-        {
-          "hex_value": "#3C665C",
-          "colour_name": "Onyx"
-        },
-        {
-          "hex_value": "#3C7296",
-          "colour_name": "Midnight"
-        },
-        {
-          "hex_value": "#3B608C",
-          "colour_name": "Obsidian"
-        },
-        {
-          "hex_value": "#956E83",
-          "colour_name": "Blackberry"
-        },
-        {
-          "hex_value": "#766B8B",
-          "colour_name": "Black Hole"
-        }
+          {
+              "hex_value": "#A06362",
+              "colour_name": "Oxblood"
+          },
+          {
+              "hex_value": "#975873",
+              "colour_name": "Burnt Sienna"
+          },
+          {
+              "hex_value": "#7D7C60",
+              "colour_name": "Black Olive"
+          },
+          {
+              "hex_value": "#3C665C",
+              "colour_name": "Onyx"
+          },
+          {
+              "hex_value": "#3C7296",
+              "colour_name": "Midnight"
+          },
+          {
+              "hex_value": "#3B608C",
+              "colour_name": "Obsidian"
+          },
+          {
+              "hex_value": "#956E83",
+              "colour_name": "Blackberry"
+          },
+          {
+              "hex_value": "#766B8B",
+              "colour_name": "Black Hole"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 960,
       "brand": "nyx",
       "name": "Collection Noir",
@@ -2024,33 +2055,33 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/960.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/960/original/open-uri20171224-4-xkjlku?1514082737",
       "product_colors": [
-        {
-          "hex_value": "#363636",
-          "colour_name": "Glossy Black Liner"
-        },
-        {
-          "hex_value": "#161616",
-          "colour_name": "Matte Black Liner"
-        },
-        {
-          "hex_value": "#2F2F2F",
-          "colour_name": "Satin Finish Black Liner"
-        },
-        {
-          "hex_value": "#F2F2F2",
-          "colour_name": "Kohl Kajal Black Liner"
-        },
-        {
-          "hex_value": "#4D4D4D",
-          "colour_name": "Powdery Black Liner"
-        },
-        {
-          "hex_value": "#FFFFFD",
-          "colour_name": "Powdery Brown Liner"
-        }
+          {
+              "hex_value": "#363636",
+              "colour_name": "Glossy Black Liner"
+          },
+          {
+              "hex_value": "#161616",
+              "colour_name": "Matte Black Liner"
+          },
+          {
+              "hex_value": "#2F2F2F",
+              "colour_name": "Satin Finish Black Liner"
+          },
+          {
+              "hex_value": "#F2F2F2",
+              "colour_name": "Kohl Kajal Black Liner"
+          },
+          {
+              "hex_value": "#4D4D4D",
+              "colour_name": "Powdery Black Liner"
+          },
+          {
+              "hex_value": "#FFFFFD",
+              "colour_name": "Powdery Brown Liner"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 959,
       "brand": "nyx",
       "name": "Slim Eye Pencil",
@@ -2070,133 +2101,133 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/959.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/959/original/open-uri20171224-4-o680lz?1514082729",
       "product_colors": [
-        {
-          "hex_value": "#9BC98B",
-          "colour_name": "Green Shimmer"
-        },
-        {
-          "hex_value": "#BBC89D",
-          "colour_name": "Moss"
-        },
-        {
-          "hex_value": "#477E6B",
-          "colour_name": "Emerald City"
-        },
-        {
-          "hex_value": "#ADCEC7",
-          "colour_name": "Seafoam Green"
-        },
-        {
-          "hex_value": "#7ED8B2",
-          "colour_name": "Teal"
-        },
-        {
-          "hex_value": "#7BDBDA",
-          "colour_name": "Aqua Shimmer"
-        },
-        {
-          "hex_value": "#B1E0EA",
-          "colour_name": "Baby Blue"
-        },
-        {
-          "hex_value": "#9ED6E7",
-          "colour_name": "Sky Shimmer"
-        },
-        {
-          "hex_value": "#48B3E1",
-          "colour_name": "Electric Blue"
-        },
-        {
-          "hex_value": "#8DBDE5",
-          "colour_name": "Satin Blue"
-        },
-        {
-          "hex_value": "#5C88AF",
-          "colour_name": "Sapphire"
-        },
-        {
-          "hex_value": "#C094D3",
-          "colour_name": "Purple"
-        },
-        {
-          "hex_value": "#BFB2E7",
-          "colour_name": "Lavender Shimmer"
-        },
-        {
-          "hex_value": "#C69D7F",
-          "colour_name": "Bronze Shimmer"
-        },
-        {
-          "hex_value": "#AB7B64",
-          "colour_name": "Cafe"
-        },
-        {
-          "hex_value": "#AB8369",
-          "colour_name": "Auburn"
-        },
-        {
-          "hex_value": "#A78C71",
-          "colour_name": "Light Brown"
-        },
-        {
-          "hex_value": "#8B7462",
-          "colour_name": "Medium Brown"
-        },
-        {
-          "hex_value": "#8E7356",
-          "colour_name": "Brown"
-        },
-        {
-          "hex_value": "#866D59",
-          "colour_name": "Dark Brown"
-        },
-        {
-          "hex_value": "#BB9B86",
-          "colour_name": "Taupe"
-        },
-        {
-          "hex_value": "#E8BE82",
-          "colour_name": "Gold Shimmer"
-        },
-        {
-          "hex_value": "#DCC3AF",
-          "colour_name": "Velvet"
-        },
-        {
-          "hex_value": "#F9FAF5",
-          "colour_name": "White"
-        },
-        {
-          "hex_value": "#F7F6F2",
-          "colour_name": "White Pearl"
-        },
-        {
-          "hex_value": "#CDCDCD",
-          "colour_name": "Silver"
-        },
-        {
-          "hex_value": "#909090",
-          "colour_name": "Gray"
-        },
-        {
-          "hex_value": "#7F7F7F",
-          "colour_name": "Charcoal"
-        },
-        {
-          "hex_value": "#76685D",
-          "colour_name": "Black Brown"
-        },
-        {
-          "hex_value": "#545454",
-          "colour_name": "Black Shimmer"
-        },
-        {
-          "hex_value": "#575757",
-          "colour_name": "Black"
-        }
+          {
+              "hex_value": "#9BC98B",
+              "colour_name": "Green Shimmer"
+          },
+          {
+              "hex_value": "#BBC89D",
+              "colour_name": "Moss"
+          },
+          {
+              "hex_value": "#477E6B",
+              "colour_name": "Emerald City"
+          },
+          {
+              "hex_value": "#ADCEC7",
+              "colour_name": "Seafoam Green"
+          },
+          {
+              "hex_value": "#7ED8B2",
+              "colour_name": "Teal"
+          },
+          {
+              "hex_value": "#7BDBDA",
+              "colour_name": "Aqua Shimmer"
+          },
+          {
+              "hex_value": "#B1E0EA",
+              "colour_name": "Baby Blue"
+          },
+          {
+              "hex_value": "#9ED6E7",
+              "colour_name": "Sky Shimmer"
+          },
+          {
+              "hex_value": "#48B3E1",
+              "colour_name": "Electric Blue"
+          },
+          {
+              "hex_value": "#8DBDE5",
+              "colour_name": "Satin Blue"
+          },
+          {
+              "hex_value": "#5C88AF",
+              "colour_name": "Sapphire"
+          },
+          {
+              "hex_value": "#C094D3",
+              "colour_name": "Purple"
+          },
+          {
+              "hex_value": "#BFB2E7",
+              "colour_name": "Lavender Shimmer"
+          },
+          {
+              "hex_value": "#C69D7F",
+              "colour_name": "Bronze Shimmer"
+          },
+          {
+              "hex_value": "#AB7B64",
+              "colour_name": "Cafe"
+          },
+          {
+              "hex_value": "#AB8369",
+              "colour_name": "Auburn"
+          },
+          {
+              "hex_value": "#A78C71",
+              "colour_name": "Light Brown"
+          },
+          {
+              "hex_value": "#8B7462",
+              "colour_name": "Medium Brown"
+          },
+          {
+              "hex_value": "#8E7356",
+              "colour_name": "Brown"
+          },
+          {
+              "hex_value": "#866D59",
+              "colour_name": "Dark Brown"
+          },
+          {
+              "hex_value": "#BB9B86",
+              "colour_name": "Taupe"
+          },
+          {
+              "hex_value": "#E8BE82",
+              "colour_name": "Gold Shimmer"
+          },
+          {
+              "hex_value": "#DCC3AF",
+              "colour_name": "Velvet"
+          },
+          {
+              "hex_value": "#F9FAF5",
+              "colour_name": "White"
+          },
+          {
+              "hex_value": "#F7F6F2",
+              "colour_name": "White Pearl"
+          },
+          {
+              "hex_value": "#CDCDCD",
+              "colour_name": "Silver"
+          },
+          {
+              "hex_value": "#909090",
+              "colour_name": "Gray"
+          },
+          {
+              "hex_value": "#7F7F7F",
+              "colour_name": "Charcoal"
+          },
+          {
+              "hex_value": "#76685D",
+              "colour_name": "Black Brown"
+          },
+          {
+              "hex_value": "#545454",
+              "colour_name": "Black Shimmer"
+          },
+          {
+              "hex_value": "#575757",
+              "colour_name": "Black"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 958,
       "brand": "nyx",
       "name": "Retractable Eye Liner",
@@ -2216,61 +2247,61 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/958.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/958/original/open-uri20171224-4-18m7lgt?1514082725",
       "product_colors": [
-        {
-          "hex_value": "#776F26",
-          "colour_name": "Golden Olive"
-        },
-        {
-          "hex_value": "#159C9F",
-          "colour_name": "Aqua Green"
-        },
-        {
-          "hex_value": "#045F71",
-          "colour_name": "Gypsy Blue"
-        },
-        {
-          "hex_value": "#0A466A",
-          "colour_name": "Deep Blue"
-        },
-        {
-          "hex_value": "#4A4480",
-          "colour_name": "Purple"
-        },
-        {
-          "hex_value": "#442F5A",
-          "colour_name": "Deep Purple"
-        },
-        {
-          "hex_value": "#3D2316",
-          "colour_name": "Brown"
-        },
-        {
-          "hex_value": "#5C3C23",
-          "colour_name": "Bronze"
-        },
-        {
-          "hex_value": "#CA8F33",
-          "colour_name": "Gold"
-        },
-        {
-          "hex_value": "#F4F5F0",
-          "colour_name": "White"
-        },
-        {
-          "hex_value": "#C1C1C1",
-          "colour_name": "Silver"
-        },
-        {
-          "hex_value": "#525252",
-          "colour_name": "Gray"
-        },
-        {
-          "hex_value": "#1C1C1C",
-          "colour_name": "Black"
-        }
+          {
+              "hex_value": "#776F26",
+              "colour_name": "Golden Olive"
+          },
+          {
+              "hex_value": "#159C9F",
+              "colour_name": "Aqua Green"
+          },
+          {
+              "hex_value": "#045F71",
+              "colour_name": "Gypsy Blue"
+          },
+          {
+              "hex_value": "#0A466A",
+              "colour_name": "Deep Blue"
+          },
+          {
+              "hex_value": "#4A4480",
+              "colour_name": "Purple"
+          },
+          {
+              "hex_value": "#442F5A",
+              "colour_name": "Deep Purple"
+          },
+          {
+              "hex_value": "#3D2316",
+              "colour_name": "Brown"
+          },
+          {
+              "hex_value": "#5C3C23",
+              "colour_name": "Bronze"
+          },
+          {
+              "hex_value": "#CA8F33",
+              "colour_name": "Gold"
+          },
+          {
+              "hex_value": "#F4F5F0",
+              "colour_name": "White"
+          },
+          {
+              "hex_value": "#C1C1C1",
+              "colour_name": "Silver"
+          },
+          {
+              "hex_value": "#525252",
+              "colour_name": "Gray"
+          },
+          {
+              "hex_value": "#1C1C1C",
+              "colour_name": "Black"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 957,
       "brand": "nyx",
       "name": "Slide On Pencil",
@@ -2290,73 +2321,73 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/957.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/957/original/open-uri20171224-4-1md5yaa?1514082720",
       "product_colors": [
-        {
-          "hex_value": "#A88089",
-          "colour_name": "Jewel"
-        },
-        {
-          "hex_value": "#51A66D",
-          "colour_name": "Esmeralda"
-        },
-        {
-          "hex_value": "#519181",
-          "colour_name": "Tropical Green"
-        },
-        {
-          "hex_value": "#43CCD6",
-          "colour_name": "Azure"
-        },
-        {
-          "hex_value": "#4E99C3",
-          "colour_name": "Sunrise Blue"
-        },
-        {
-          "hex_value": "#A886C2",
-          "colour_name": "Pretty Violet"
-        },
-        {
-          "hex_value": "#9A7EB8",
-          "colour_name": "Purple Blaze"
-        },
-        {
-          "hex_value": "#D6B185",
-          "colour_name": "Glitzy Gold"
-        },
-        {
-          "hex_value": "#A78A62",
-          "colour_name": "Golden Olive"
-        },
-        {
-          "hex_value": "#B07D62",
-          "colour_name": "Golden Bronze"
-        },
-        {
-          "hex_value": "#907761",
-          "colour_name": "Brown Perfection"
-        },
-        {
-          "hex_value": "#F9FAF5",
-          "colour_name": "Pure White"
-        },
-        {
-          "hex_value": "#D5D9D8",
-          "colour_name": "Platinum"
-        },
-        {
-          "hex_value": "#83847F",
-          "colour_name": "Gun Metal"
-        },
-        {
-          "hex_value": "#707271",
-          "colour_name": "Black Sparkle"
-        },
-        {
-          "hex_value": "#626262",
-          "colour_name": "Jet Black"
-        }
+          {
+              "hex_value": "#A88089",
+              "colour_name": "Jewel"
+          },
+          {
+              "hex_value": "#51A66D",
+              "colour_name": "Esmeralda"
+          },
+          {
+              "hex_value": "#519181",
+              "colour_name": "Tropical Green"
+          },
+          {
+              "hex_value": "#43CCD6",
+              "colour_name": "Azure"
+          },
+          {
+              "hex_value": "#4E99C3",
+              "colour_name": "Sunrise Blue"
+          },
+          {
+              "hex_value": "#A886C2",
+              "colour_name": "Pretty Violet"
+          },
+          {
+              "hex_value": "#9A7EB8",
+              "colour_name": "Purple Blaze"
+          },
+          {
+              "hex_value": "#D6B185",
+              "colour_name": "Glitzy Gold"
+          },
+          {
+              "hex_value": "#A78A62",
+              "colour_name": "Golden Olive"
+          },
+          {
+              "hex_value": "#B07D62",
+              "colour_name": "Golden Bronze"
+          },
+          {
+              "hex_value": "#907761",
+              "colour_name": "Brown Perfection"
+          },
+          {
+              "hex_value": "#F9FAF5",
+              "colour_name": "Pure White"
+          },
+          {
+              "hex_value": "#D5D9D8",
+              "colour_name": "Platinum"
+          },
+          {
+              "hex_value": "#83847F",
+              "colour_name": "Gun Metal"
+          },
+          {
+              "hex_value": "#707271",
+              "colour_name": "Black Sparkle"
+          },
+          {
+              "hex_value": "#626262",
+              "colour_name": "Jet Black"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 956,
       "brand": "nyx",
       "name": "Jumbo Eye Pencil",
@@ -2376,137 +2407,137 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/956.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/956/original/open-uri20171224-4-1sgu8lk?1514082713",
       "product_colors": [
-        {
-          "hex_value": "#FFACC1",
-          "colour_name": "Strawberry Milk"
-        },
-        {
-          "hex_value": "#C95254",
-          "colour_name": "Rust"
-        },
-        {
-          "hex_value": "#9CBF00",
-          "colour_name": "Cucumber"
-        },
-        {
-          "hex_value": "#C3D17A",
-          "colour_name": "Lime"
-        },
-        {
-          "hex_value": "#8DDF95",
-          "colour_name": "Horseradish"
-        },
-        {
-          "hex_value": "#04A057",
-          "colour_name": "Rocky Mountain Green"
-        },
-        {
-          "hex_value": "#1B9775",
-          "colour_name": "Sparkle Green"
-        },
-        {
-          "hex_value": "#3ACFED",
-          "colour_name": "Baby Blue"
-        },
-        {
-          "hex_value": "#05A9CE",
-          "colour_name": "Electric Blue"
-        },
-        {
-          "hex_value": "#0096B7",
-          "colour_name": "Peacock"
-        },
-        {
-          "hex_value": "#2C86B8",
-          "colour_name": "Cobalt"
-        },
-        {
-          "hex_value": "#EBB4EE",
-          "colour_name": "Oyster"
-        },
-        {
-          "hex_value": "#EFC2ED",
-          "colour_name": "Lavender"
-        },
-        {
-          "hex_value": "#8F9AD0",
-          "colour_name": "Pacific"
-        },
-        {
-          "hex_value": "#834C8D",
-          "colour_name": "Purple Velvet"
-        },
-        {
-          "hex_value": "#634988",
-          "colour_name": "Purple"
-        },
-        {
-          "hex_value": "#FCCAA7",
-          "colour_name": "Cashmere"
-        },
-        {
-          "hex_value": "#F2A49A",
-          "colour_name": "Yogurt"
-        },
-        {
-          "hex_value": "#F5B695",
-          "colour_name": "Sparkle Nude"
-        },
-        {
-          "hex_value": "#F7AF65",
-          "colour_name": "Pure Gold"
-        },
-        {
-          "hex_value": "#F59E57",
-          "colour_name": "Gold"
-        },
-        {
-          "hex_value": "#CA8B62",
-          "colour_name": "Sparkle Leopard"
-        },
-        {
-          "hex_value": "#D67552",
-          "colour_name": "Bronze"
-        },
-        {
-          "hex_value": "#A96E50",
-          "colour_name": "French Fries"
-        },
-        {
-          "hex_value": "#E1A686",
-          "colour_name": "Iced Mocha"
-        },
-        {
-          "hex_value": "#E2E1DD",
-          "colour_name": "Cottage Cheese"
-        },
-        {
-          "hex_value": "#F5F6F1",
-          "colour_name": "Milk"
-        },
-        {
-          "hex_value": "#BBC4C3",
-          "colour_name": "Pots \u0026 Pans"
-        },
-        {
-          "hex_value": "#5C6063",
-          "colour_name": "Slate"
-        },
-        {
-          "hex_value": "#645C59",
-          "colour_name": "Knight"
-        },
-        {
-          "hex_value": "#613E28",
-          "colour_name": "Dark Brown"
-        },
-        {
-          "hex_value": "#2D2D2D",
-          "colour_name": "Black Bean"
-        }
+          {
+              "hex_value": "#FFACC1",
+              "colour_name": "Strawberry Milk"
+          },
+          {
+              "hex_value": "#C95254",
+              "colour_name": "Rust"
+          },
+          {
+              "hex_value": "#9CBF00",
+              "colour_name": "Cucumber"
+          },
+          {
+              "hex_value": "#C3D17A",
+              "colour_name": "Lime"
+          },
+          {
+              "hex_value": "#8DDF95",
+              "colour_name": "Horseradish"
+          },
+          {
+              "hex_value": "#04A057",
+              "colour_name": "Rocky Mountain Green"
+          },
+          {
+              "hex_value": "#1B9775",
+              "colour_name": "Sparkle Green"
+          },
+          {
+              "hex_value": "#3ACFED",
+              "colour_name": "Baby Blue"
+          },
+          {
+              "hex_value": "#05A9CE",
+              "colour_name": "Electric Blue"
+          },
+          {
+              "hex_value": "#0096B7",
+              "colour_name": "Peacock"
+          },
+          {
+              "hex_value": "#2C86B8",
+              "colour_name": "Cobalt"
+          },
+          {
+              "hex_value": "#EBB4EE",
+              "colour_name": "Oyster"
+          },
+          {
+              "hex_value": "#EFC2ED",
+              "colour_name": "Lavender"
+          },
+          {
+              "hex_value": "#8F9AD0",
+              "colour_name": "Pacific"
+          },
+          {
+              "hex_value": "#834C8D",
+              "colour_name": "Purple Velvet"
+          },
+          {
+              "hex_value": "#634988",
+              "colour_name": "Purple"
+          },
+          {
+              "hex_value": "#FCCAA7",
+              "colour_name": "Cashmere"
+          },
+          {
+              "hex_value": "#F2A49A",
+              "colour_name": "Yogurt"
+          },
+          {
+              "hex_value": "#F5B695",
+              "colour_name": "Sparkle Nude"
+          },
+          {
+              "hex_value": "#F7AF65",
+              "colour_name": "Pure Gold"
+          },
+          {
+              "hex_value": "#F59E57",
+              "colour_name": "Gold"
+          },
+          {
+              "hex_value": "#CA8B62",
+              "colour_name": "Sparkle Leopard"
+          },
+          {
+              "hex_value": "#D67552",
+              "colour_name": "Bronze"
+          },
+          {
+              "hex_value": "#A96E50",
+              "colour_name": "French Fries"
+          },
+          {
+              "hex_value": "#E1A686",
+              "colour_name": "Iced Mocha"
+          },
+          {
+              "hex_value": "#E2E1DD",
+              "colour_name": "Cottage Cheese"
+          },
+          {
+              "hex_value": "#F5F6F1",
+              "colour_name": "Milk"
+          },
+          {
+              "hex_value": "#BBC4C3",
+              "colour_name": "Pots \u0026 Pans"
+          },
+          {
+              "hex_value": "#5C6063",
+              "colour_name": "Slate"
+          },
+          {
+              "hex_value": "#645C59",
+              "colour_name": "Knight"
+          },
+          {
+              "hex_value": "#613E28",
+              "colour_name": "Dark Brown"
+          },
+          {
+              "hex_value": "#2D2D2D",
+              "colour_name": "Black Bean"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 955,
       "brand": "nyx",
       "name": "Two Timer Dual Ended Eyeliner",
@@ -2526,8 +2557,8 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/955.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/955/original/data?1514082711",
       "product_colors": []
-    },
-    {
+  },
+  {
       "id": 954,
       "brand": "nyx",
       "name": "Strictly Vinyl Eyeliner",
@@ -2547,41 +2578,41 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/954.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/954/original/open-uri20171224-4-stg3ec?1514082708",
       "product_colors": [
-        {
-          "hex_value": "#2B3043",
-          "colour_name": "Anchor"
-        },
-        {
-          "hex_value": "#424146",
-          "colour_name": "Dauntless"
-        },
-        {
-          "hex_value": "#443844",
-          "colour_name": "Crone"
-        },
-        {
-          "hex_value": "#32486D",
-          "colour_name": "Visceral"
-        },
-        {
-          "hex_value": "#593E35",
-          "colour_name": "Alliance"
-        },
-        {
-          "hex_value": "#792B29",
-          "colour_name": "Hazy"
-        },
-        {
-          "hex_value": "#493966",
-          "colour_name": "Extra"
-        },
-        {
-          "hex_value": "#31443E",
-          "colour_name": "Savvy"
-        }
+          {
+              "hex_value": "#2B3043",
+              "colour_name": "Anchor"
+          },
+          {
+              "hex_value": "#424146",
+              "colour_name": "Dauntless"
+          },
+          {
+              "hex_value": "#443844",
+              "colour_name": "Crone"
+          },
+          {
+              "hex_value": "#32486D",
+              "colour_name": "Visceral"
+          },
+          {
+              "hex_value": "#593E35",
+              "colour_name": "Alliance"
+          },
+          {
+              "hex_value": "#792B29",
+              "colour_name": "Hazy"
+          },
+          {
+              "hex_value": "#493966",
+              "colour_name": "Extra"
+          },
+          {
+              "hex_value": "#31443E",
+              "colour_name": "Savvy"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 953,
       "brand": "nyx",
       "name": "Collection Chocolate",
@@ -2601,33 +2632,33 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/953.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/953/original/open-uri20171224-4-1xyp0ge?1514082742",
       "product_colors": [
-        {
-          "hex_value": "#3B2C25",
-          "colour_name": "Glossy Brown Liner"
-        },
-        {
-          "hex_value": "#27160F",
-          "colour_name": "Matte Brown Liner"
-        },
-        {
-          "hex_value": "#36251B",
-          "colour_name": "Satin Finish Brown Liner"
-        },
-        {
-          "hex_value": "#E7E7DF",
-          "colour_name": "Kohl Kajal Brown Liner"
-        },
-        {
-          "hex_value": "#281409",
-          "colour_name": "Skinny Brown Liner"
-        },
-        {
-          "hex_value": "#442B24",
-          "colour_name": "Liquid Brown Liner"
-        }
+          {
+              "hex_value": "#3B2C25",
+              "colour_name": "Glossy Brown Liner"
+          },
+          {
+              "hex_value": "#27160F",
+              "colour_name": "Matte Brown Liner"
+          },
+          {
+              "hex_value": "#36251B",
+              "colour_name": "Satin Finish Brown Liner"
+          },
+          {
+              "hex_value": "#E7E7DF",
+              "colour_name": "Kohl Kajal Brown Liner"
+          },
+          {
+              "hex_value": "#281409",
+              "colour_name": "Skinny Brown Liner"
+          },
+          {
+              "hex_value": "#442B24",
+              "colour_name": "Liquid Brown Liner"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 952,
       "brand": "nyx",
       "name": "Super Fat Eye Marker",
@@ -2647,8 +2678,8 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/952.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/952/original/data?1514082706",
       "product_colors": []
-    },
-    {
+  },
+  {
       "id": 951,
       "brand": "nyx",
       "name": "Super Skinny Eye Marker",
@@ -2668,8 +2699,8 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/951.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/951/original/data?1514082705",
       "product_colors": []
-    },
-    {
+  },
+  {
       "id": 950,
       "brand": "nyx",
       "name": "Felt Tip Liner",
@@ -2689,21 +2720,21 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/950.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/950/original/open-uri20171224-4-1tptkdg?1514082704",
       "product_colors": [
-        {
-          "hex_value": "#131313",
-          "colour_name": "Extreme Black"
-        },
-        {
-          "hex_value": "#49201A",
-          "colour_name": "Dark Brown"
-        },
-        {
-          "hex_value": "#202020",
-          "colour_name": "Jet Black"
-        }
+          {
+              "hex_value": "#131313",
+              "colour_name": "Extreme Black"
+          },
+          {
+              "hex_value": "#49201A",
+              "colour_name": "Dark Brown"
+          },
+          {
+              "hex_value": "#202020",
+              "colour_name": "Jet Black"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 949,
       "brand": "nyx",
       "name": "The Curve",
@@ -2723,8 +2754,8 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/949.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/949/original/data?1514082704",
       "product_colors": []
-    },
-    {
+  },
+  {
       "id": 948,
       "brand": "nyx",
       "name": "Colored Felt Tip Liner",
@@ -2744,33 +2775,33 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/948.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/948/original/open-uri20171224-4-1cdu2rb?1514082702",
       "product_colors": [
-        {
-          "hex_value": "#003D37",
-          "colour_name": "Teal"
-        },
-        {
-          "hex_value": "#052363",
-          "colour_name": "Royal Blue"
-        },
-        {
-          "hex_value": "#0B5489",
-          "colour_name": "Cobalt Blue"
-        },
-        {
-          "hex_value": "#F9F9F9",
-          "colour_name": "White"
-        },
-        {
-          "hex_value": "#363636",
-          "colour_name": "Grey"
-        },
-        {
-          "hex_value": "#4E2D1C",
-          "colour_name": "Chocolate Brown"
-        }
+          {
+              "hex_value": "#003D37",
+              "colour_name": "Teal"
+          },
+          {
+              "hex_value": "#052363",
+              "colour_name": "Royal Blue"
+          },
+          {
+              "hex_value": "#0B5489",
+              "colour_name": "Cobalt Blue"
+          },
+          {
+              "hex_value": "#F9F9F9",
+              "colour_name": "White"
+          },
+          {
+              "hex_value": "#363636",
+              "colour_name": "Grey"
+          },
+          {
+              "hex_value": "#4E2D1C",
+              "colour_name": "Chocolate Brown"
+          }
       ]
-    },
-    {
+  },
+  {
       "id": 947,
       "brand": "nyx",
       "name": "Vinyl Liquid Liner",
@@ -2790,6 +2821,12 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/947.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/947/original/data?1514082701",
       "product_colors": []
-    }
+  
+  
+  }
   ]
-}
+  
+  
+  }
+  
+  

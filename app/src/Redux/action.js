@@ -1,8 +1,12 @@
+
+
+
+
+
 //rasheed's
 
 import { FETCH_DATA_REQUEST, FETCH_DATA_SUCCESS, FETCH_DATA_FAILURE, FETCH_MYDATA_REQUEST, FETCH_MYDATA_SUCCESS, FETCH_MYDATA_FAILURE} from "./action.type";
 import axios from "axios"
-
 
 const fetchDataRequest= (payload) => {
     return {
@@ -72,7 +76,9 @@ const fetchData=(payload)=> {
 
 
 
-    //abhishek's
+   
+   
+    //abhishek newProducts
 
 
 export const fetchmyDataRequest= (payload) => {
@@ -83,7 +89,7 @@ export const fetchmyDataRequest= (payload) => {
 }
 
 export const fetchmyDataSuccess=(payload) => {
-   console.log(payload)
+   console.log(payload,"axios")
     return {
         type: FETCH_MYDATA_SUCCESS,
         payload
@@ -111,5 +117,37 @@ export const fetchmyData=(payload)=> {
 
 
     
+   
+    
+//sorting algorithm only
+
+
+
+export const addCityReducer = (payload) =>  (dispatch)  => {
+    
+    axios.get("http://localhost:8082/products").then(
+        (res)=>{     
+        let data 
+        if (payload===1){
+          data=res.data.sort(
+            (a,b)=>{return a.price-b.price}
+          )            
+        }else if(payload===-1){
+            data=res.data.sort(
+                (a,b)=>{return b.price-a.price}
+              )    
+        }
+      dispatch(fetchmyDataSuccess(data))
+
+    }
+    ).catch(
+        (error)=>{console.log(error,"axios")}
+    )
+    
+}
+
+
 
     export {fetchData, fetchDatab,fetchDataC}
+
+    
