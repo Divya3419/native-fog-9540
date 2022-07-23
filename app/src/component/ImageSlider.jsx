@@ -11,7 +11,7 @@ const ImageSlider = ({ slides }) => {
       {slides.map((slide) => {
         return (
 
-          <Link to={slide.link}>
+          
           <Box key={slide.id}>
             
               <Image
@@ -22,7 +22,7 @@ const ImageSlider = ({ slides }) => {
               />
            
           </Box>
-          </Link>
+          
         );
       })}
     </Carousel>
