@@ -39,12 +39,16 @@ const Navbar = () => {
           </Box>
 
           <Box display="flex" gap="10px">
-            
-            <Img
+
+                     <Img
               width="30%"
               height="50%"
               src="https://cdn-icons-png.flaticon.com/512/1946/1946429.png"
-            />  <Link to='/login'>ACCOUNT</Link>
+            />
+          <RouteLink to="/login"> ACCOUNT</RouteLink>
+
+            
+            
           </Box>
           <Box display="flex" gap="10px">
 
@@ -78,7 +82,7 @@ const Navbar = () => {
           <Box><RouteLink to="/newproducts">NEW!</RouteLink></Box>
           <Box><RouteLink to="/brands">BRAND</RouteLink></Box>
           <Box>EXPLORE</Box>
-          <Box>EVENT</Box>
+          <a href="https://bluemercury.com/pages/masterclass">EVENT</a>
           <Box>BLUEREWARDS</Box>
           <Box>BEAUTY ALFRESCO</Box>
         </Box>
