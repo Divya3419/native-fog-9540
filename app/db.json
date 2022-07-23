@@ -830,8 +830,11 @@
       "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/997.json",
       "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/997/original/data?1514082787",
       "product_colors": []
-    },
-    {
+
+  },
+  {
+
+    
       "id": 996,
       "brand": "nyx",
       "name": "Proof It! Waterproof Mascara Top Coat",
