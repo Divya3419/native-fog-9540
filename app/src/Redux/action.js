@@ -36,7 +36,7 @@ const fetchData=(payload)=> {
         dispatch (fetchDataRequest(payload))
     
    
-    axios.get("http://localhost:8082/prod")
+    axios.get("http://localhost:8082/abel")
 
     .then(res=> dispatch(fetchDataSuccess(res.data)))
     .catch (err => dispatch(fetchDataFailure(err.data)))
@@ -50,7 +50,7 @@ const fetchData=(payload)=> {
             dispatch (fetchDataRequest(Baby))
         
         
-        axios.get("http://localhost:8082/prod",
+        axios.get("http://localhost:8082/babyfoot",
        {params:{category:Baby}
         })
         .then(res=> dispatch(fetchDataSuccess(res.data)))
@@ -63,7 +63,7 @@ const fetchData=(payload)=> {
         return(dispatch)=>{
             dispatch(fetchDataRequest(pencil))
 
-            axios.get("http://localhost:8082/prod",
+            axios.get("http://localhost:8082/caudalie",
             {params:{category:pencil}}
             )
             .then(res=>dispatch(fetchDataSuccess(res.data)))
@@ -109,7 +109,7 @@ export const fetchmyData=(payload)=> {
         dispatch (fetchmyDataRequest(payload))
     
    
-    axios.get("http://localhost:8082/products")
+    axios.get("http://localhost:8082/new")
 
     .then(res=> dispatch(fetchmyDataSuccess(res.data)))
     .catch (err => dispatch(fetchmyDataFailure(err.data)))
@@ -125,7 +125,7 @@ export const fetchmyData=(payload)=> {
 
 export const addCityReducer = (payload) =>  (dispatch)  => {
     
-    axios.get("http://localhost:8082/products").then(
+    axios.get("http://localhost:8082/new").then(
         (res)=>{     
         let data 
         if (payload===1){

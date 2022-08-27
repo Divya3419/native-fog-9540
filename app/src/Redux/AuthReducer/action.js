@@ -2,7 +2,7 @@ import * as types from "./actionTypes";
 import axios from "axios";
 
 const register = (payload) => (dispatch) => {
-    //console.log(payload)
+  //console.log(payload)
   dispatch({ type: types.REGISTER_REQUEST });
   return axios
     .post("https://masai-api-mocker.herokuapp.com/auth/register", payload)
