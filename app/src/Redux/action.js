@@ -36,7 +36,7 @@ const fetchData=(payload)=> {
         dispatch (fetchDataRequest(payload))
     
    
-    axios.get("http://localhost:8082/abel")
+    axios.get("https://blueproduct.herokuapp.com/abel")
 
     .then(res=> dispatch(fetchDataSuccess(res.data)))
     .catch (err => dispatch(fetchDataFailure(err.data)))
@@ -50,7 +50,7 @@ const fetchData=(payload)=> {
             dispatch (fetchDataRequest(Baby))
         
         
-        axios.get("http://localhost:8082/babyfoot",
+        axios.get("https://blueproduct.herokuapp.com/babyfoot",
        {params:{category:Baby}
         })
         .then(res=> dispatch(fetchDataSuccess(res.data)))
@@ -63,7 +63,7 @@ const fetchData=(payload)=> {
         return(dispatch)=>{
             dispatch(fetchDataRequest(pencil))
 
-            axios.get("http://localhost:8082/caudalie",
+            axios.get("https://blueproduct.herokuapp.com/caudalie",
             {params:{category:pencil}}
             )
             .then(res=>dispatch(fetchDataSuccess(res.data)))
@@ -109,7 +109,7 @@ export const fetchmyData=(payload)=> {
         dispatch (fetchmyDataRequest(payload))
     
    
-    axios.get("http://localhost:8082/new")
+    axios.get("https://blueproduct.herokuapp.com/new")
 
     .then(res=> dispatch(fetchmyDataSuccess(res.data)))
     .catch (err => dispatch(fetchmyDataFailure(err.data)))
@@ -125,7 +125,7 @@ export const fetchmyData=(payload)=> {
 
 export const addCityReducer = (payload) =>  (dispatch)  => {
     
-    axios.get("http://localhost:8082/new").then(
+    axios.get("https://blueproduct.herokuapp.com/new").then(
         (res)=>{     
         let data 
         if (payload===1){

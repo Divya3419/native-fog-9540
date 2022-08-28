@@ -25,7 +25,7 @@ dispatch(fetchData())
 
   useEffect(()=>{
 if(id){
-  const temp=ProductData.find((ele)=>ele.id===(id))
+  const temp=ProductData.find((ele)=>ele.id===Number(id))
   temp && setcurrProduct(temp)
 }
   },[ProductData,id])
