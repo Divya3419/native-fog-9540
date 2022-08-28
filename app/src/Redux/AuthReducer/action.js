@@ -5,7 +5,7 @@ const register = (payload) => (dispatch) => {
   //console.log(payload)
   dispatch({ type: types.REGISTER_REQUEST });
   return axios
-    .post("https://masai-api-mocker.herokuapp.com/auth/register", payload)
+    .post("https://blueproduct.herokuapp.com/register", payload)
     .then((r) => {
       dispatch({ type: types.REGISTER_SUCCESS, payload: r.data });
       return types.REGISTER_SUCCESS;
@@ -19,7 +19,7 @@ const register = (payload) => (dispatch) => {
 const login = (params) => (dispatch) => {
   dispatch({ type: types.LOGIN_REQUEST });
   return axios
-    .post("https://masai-api-mocker.herokuapp.com/auth/login", params)
+    .get("https://blueproduct.herokuapp.com/register", params)
     .then((r) => {
       dispatch({ type: types.LOGIN_SUCCESS, payload: r.data.token });
       return types.LOGIN_SUCCESS;
