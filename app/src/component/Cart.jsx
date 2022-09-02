@@ -10,7 +10,7 @@ import { fetchData } from '../Redux/action';
 const Cart = () => {
     const[count,setCount]=useState(0)
     const {id}=useParams()
-
+console.log(id)
     const navigate=useNavigate()
     const bagData = useSelector((store)=>{
         return store.data.prod
@@ -42,10 +42,6 @@ const Cart = () => {
 
   return (
 
-//    <Box>
-    // <Heading as="h2" size="xl" textAlign="center">
-    //     YOUR BAG
-    // </Heading>
 
    <Cart_div>
     <div className="cart" >

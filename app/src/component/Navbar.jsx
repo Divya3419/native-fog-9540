@@ -13,15 +13,15 @@ const Navbar = () => {
         marginTop="20px"
       >
         <Box fontSize="12px" color="blue.400">
-          <RouteLink to="/location">
+          {/* <a href="https://bluemercury.com/pages/bluemercury-near-me">
             <Box display="flex" paddingLeft="40px">
               <Img
                 width="6%"
                 src="https://cdn-icons-png.flaticon.com/512/67/67347.png"
               />
-              STORE & SPA LOCATOR
+            STORE & SPA LOCATOR
             </Box>
-          </RouteLink>
+          </a> */}
         </Box>
         <Box></Box>
 

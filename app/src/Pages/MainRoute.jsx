@@ -11,7 +11,7 @@ import BabyFoot from "./BabyFoot";
 import Brands from "./Brands";
 import Caudalie from "./Caudalie";
 import Home from "./Home";
-import Location from "./Location";
+
 import NewProducts from "./NewProducts";
 import Login from "./Login";
 import Register from "./Register";
@@ -27,7 +27,7 @@ const MainRoute = () => {
       <Routes>
         <Route path="/" element={<Home />} />
 
-        <Route path="/location" element={<Location />} />
+        
         <Route path="/login" element={<Login />} />
         <Route path="/register" element={<Register />} />
         <Route path="/abel" element={<Abel />} />
@@ -41,9 +41,9 @@ const MainRoute = () => {
         <Route
           path="/Cart/:id"
           element={
-            <ReqAuth>
+            // <ReqAuth>
               <Cart />
-            </ReqAuth>
+            // </ReqAuth>
           }
         />
         <Route path="/AddressDetails" element={<AddressDetails />} />
