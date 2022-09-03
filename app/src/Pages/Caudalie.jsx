@@ -3,7 +3,7 @@ import React, { useEffect } from 'react'
 import { useDispatch, useSelector } from 'react-redux';
 import { Link, useNavigate } from 'react-router-dom';
 import Navbar from '../component/Navbar';
-import { fetchDataC } from '../Redux/action';
+import { fetchDataC } from '../Redux/AppReducer/action';
 import {Home} from "../Pages/Home"
 const Caudalie = () => {
   const nav=useNavigate()
@@ -13,7 +13,7 @@ const Caudalie = () => {
   }, []);
 
   const ProductData = useSelector((store) => {
-    return store.data.prod;
+    return store.AppReducer.prod;
   });
 
   const handleClick=(id)=>{

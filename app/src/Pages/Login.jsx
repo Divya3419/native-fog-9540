@@ -8,23 +8,25 @@ import { login } from "../Redux/AuthReducer/action";
 import { LOGIN_SUCCESS } from "../Redux/AuthReducer/actionTypes";
 
 const Login = () => {
-  const [username, setUsername] = useState("");
+  const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const isLoading = useSelector((state) => state.AuthReducer.isLoading);
   const navigate = useNavigate();
   const dispatch = useDispatch();
 
   const loginHandler = () => {
-    if (username && password) {
+    if (email && password) {
       const params = {
-        username,
+        email,
         password,
       };
       dispatch(login(params)).then((res) => {
+        console.log(res)
         if (res === LOGIN_SUCCESS) {
-          navigate("/", { replace: true });
+          alert("Login Successfull")
+          navigate("/");
         }else{
-          //errorhandle
+          alert("Invaild Email or Password")
         }
       });
     }
@@ -44,20 +46,20 @@ const Login = () => {
       >
         Please enter your e-mail and password:
       </Box>
-      <FormControl id="username" isRequired>
+      <FormControl id="email" isRequired>
         <Input
          type="text"
-         value={username}
-         onChange={(e) => setUsername(e.target.value)}
+         value={email}
+         onChange={(e) => setEmail(e.target.value)}
           padding={"12px 14px"}
           borderRadius="0"
           border={"1px solid #12284c"}
-          width="100%"
+          width="60%"
           lineHeight={"normal"}
           resize="none"
           transition={"border-color .1s ease-in-out"}
           background="transparent"
-          placeholder="UserName*"
+          placeholder="Email*"
           height={"45px"}
         />
         </FormControl>
@@ -69,7 +71,7 @@ const Login = () => {
            onChange={(e) => setPassword(e.target.value)}
             borderRadius="0"
             border={"1px solid #12284c"}
-            width="100%"
+            width="60%"
             lineHeight={"normal"}
             resize="none"
             transition={"border-color .1s ease-in-out"}
@@ -83,7 +85,7 @@ const Login = () => {
         onClick={loginHandler}
         isLoading={isLoading}
           marginTop={"2rem"}
-          width="100%"
+          width="40%"
           background={"#12284C"}
           color="white"
           borderRadius={"0"}

@@ -4,7 +4,7 @@ import { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { useNavigate, useParams } from 'react-router-dom'
 import BestSellers from '../component/BestSellers';
-import { fetchData } from '../Redux/action';
+import { fetchData } from '../Redux/AppReducer/action';
 
 const ProductDetail = () => {
   const[count,setCount]=useState(0)
@@ -12,7 +12,7 @@ const ProductDetail = () => {
   //console.log(id)
 const navigate=useNavigate()
   const ProductData = useSelector((store) => {
-    return store.data.prod
+    return store.AppReducer.prod
   });
 console.log(ProductData)
   const dispatch=useDispatch()

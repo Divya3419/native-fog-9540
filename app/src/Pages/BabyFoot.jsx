@@ -3,7 +3,7 @@ import React, { useEffect } from 'react'
 import { useDispatch, useSelector } from 'react-redux';
 import { Link, useNavigate } from 'react-router-dom';
 import Navbar from '../component/Navbar';
-import { fetchDatab } from '../Redux/action';
+import { fetchDatab } from '../Redux/AppReducer/action';
 import {Link as RouteLink} from "react-router-dom"
 const BabyFoot = () => {
   const nav=useNavigate()
@@ -13,7 +13,7 @@ const BabyFoot = () => {
   }, []);
 
   const ProductData = useSelector((store) => {
-    return store.data.prod;
+    return store.AppReducer.prod;
   });
 // console.log(ProductData)
   const handleClick=(id)=>{

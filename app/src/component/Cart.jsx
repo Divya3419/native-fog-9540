@@ -4,7 +4,7 @@ import BestSellers from './BestSellers'
 import { Cart_div } from './Cart_style'
 import { Link as RouteLink, useNavigate, useParams } from "react-router-dom";
 import { useDispatch, useSelector } from 'react-redux';
-import { fetchData } from '../Redux/action';
+import { fetchData } from '../Redux/AppReducer/action';
 
 
 const Cart = () => {
@@ -13,7 +13,7 @@ const Cart = () => {
 console.log(id)
     const navigate=useNavigate()
     const bagData = useSelector((store)=>{
-        return store.data.prod
+        return store.AppReducer.prod
     })
     console.log(bagData)
 

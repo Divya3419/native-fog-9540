@@ -4,7 +4,7 @@ import { useNavigate } from 'react-router-dom';
 import Navbar from '../component/Navbar'
 import "./Abel.css";
 import { Link } from 'react-router-dom';
-import {  fetchData  } from "../Redux/action";
+import {  fetchData  } from "../Redux/AppReducer/action";
 import { Stack } from '@chakra-ui/react';
 import {Link as RouteLink} from "react-router-dom"
 
@@ -18,7 +18,7 @@ const Abel = () => {
   }, []);
 
   const ProductData = useSelector((store) => {
-    return store.data.prod;
+    return store.AppReducer.prod;
   });
 
 

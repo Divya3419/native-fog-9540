@@ -40,8 +40,9 @@ const Register = () => {
     };
     dispatch(register(payload)).then((r) => {
       console.log(r);
-      if (r.type === REGISTER_SUCCESS) {
-        navigate("/login", { replace: true });
+      if (r === REGISTER_SUCCESS) {
+        alert("Register Successfull")
+        navigate("/login");
       } else {
         alert("invalid");
       }

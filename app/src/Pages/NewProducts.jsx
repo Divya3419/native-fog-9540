@@ -3,7 +3,7 @@ import { useDispatch } from 'react-redux';
 import { useSelector } from 'react-redux';
 import { useNavigate } from 'react-router-dom';
 import { useEffect } from 'react';
-import {  addCityReducer, fetchmyData } from '../Redux/action.js';
+import {  addCityReducer, fetchmyData } from '../Redux/AppReducer/action.js';
 import {Box, Button,Img} from "@chakra-ui/react"
 import {Link as RouteLink} from "react-router-dom"
 

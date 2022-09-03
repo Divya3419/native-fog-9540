@@ -6,17 +6,17 @@ import Footer from "../component/Footer";
 import Navbar from "../component/Navbar";
 import PaymentPage from "../component/PaymentPage";
 import Success from "../component/Success";
-import Abel from "./Abel";
-import BabyFoot from "./BabyFoot";
-import Brands from "./Brands";
-import Caudalie from "./Caudalie";
-import Home from "./Home";
+import Abel from "../Pages/Abel";
+import BabyFoot from "../Pages/BabyFoot";
+import Brands from "../Pages/Brands";
+import Caudalie from "../Pages/Caudalie";
+import Home from "../Pages/Home";
 
-import NewProducts from "./NewProducts";
-import Login from "./Login";
-import Register from "./Register";
-import ProductDetail from "./ProductDetail";
-import ReqAuth from "../component/ReqAuth";
+import NewProducts from "../Pages/NewProducts";
+import Login from "../Pages/Login";
+import Register from "../Pages/Register";
+import ProductDetail from "../Pages/ProductDetail";
+import ReqAuth from "../hoc/ReqAuth";
 
 const MainRoute = () => {
   const location = useLocation();
@@ -41,9 +41,9 @@ const MainRoute = () => {
         <Route
           path="/Cart/:id"
           element={
-            // <ReqAuth>
+            <ReqAuth>
               <Cart />
-            // </ReqAuth>
+             </ReqAuth>
           }
         />
         <Route path="/AddressDetails" element={<AddressDetails />} />
