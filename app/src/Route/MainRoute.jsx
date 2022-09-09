@@ -41,9 +41,9 @@ const MainRoute = () => {
         <Route
           path="/Cart/:id"
           element={
-            <ReqAuth>
+            // <ReqAuth>
               <Cart />
-             </ReqAuth>
+            //  </ReqAuth>
           }
         />
         <Route path="/AddressDetails" element={<AddressDetails />} />

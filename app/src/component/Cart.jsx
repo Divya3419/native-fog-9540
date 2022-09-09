@@ -27,7 +27,7 @@ console.log(id)
 
     useEffect(()=>{
         if(id){
-            const bag=bagData.find((elem)=>elem.id===(id))
+            const bag=bagData.find((elem)=>elem.id===Number(id))
             bag && setcurrProduct(bag)
         }
     },[bagData,id])
@@ -97,14 +97,14 @@ console.log(id)
       <h3>{currProduct.name}</h3>
       </Box>
       
-      <h3>{"$"+currProduct.price}</h3>
+      <h3>{currProduct.price}</h3>
       <Box>
       <Button onClick={ ()=>setCount(count+1)}>+</Button>
       {count}
        <Button onClick={ ()=>setCount(count-1)}>-</Button>
        </Box>
       
-       <h3>{"$"+currProduct.price}</h3>
+       <h3>{currProduct.price}</h3>
        </Box>
    
       </div>

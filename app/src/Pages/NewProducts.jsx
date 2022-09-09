@@ -34,7 +34,7 @@ const NewProducts = () => {
   }, []);
 
   const ProductData2 = useSelector((store) => {
-    return store.data.product;
+    return store.AppReducer.product;
   });
 
 

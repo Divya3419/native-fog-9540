@@ -46,7 +46,7 @@ if(id){
       <Box marginTop="50px">
       <h3>{currProduct.name}</h3>
       <h3>{currProduct.price}</h3>
-      <Button onClick={()=>handleBag(id)} width="70%"color="white" bg="blue.700">ADD TO BAG</Button>
+      <Button onClick={()=>handleBag(currProduct.id)} width="70%"color="white" bg="blue.700">ADD TO BAG</Button>
 
 <Button onClick={ ()=>setCount(count+1)}>+</Button>
 {count}
