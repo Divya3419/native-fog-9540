@@ -15,13 +15,7 @@ const fetchDataRequest = (payload) => {
   };
 };
 
-const fetchDataSuccess = (payload) => {
-  //  console.log(payload)
-  return {
-    type: FETCH_DATA_SUCCESS,
-    payload,
-  };
-};
+
 
 const fetchDataFailure = (payload) => {
   return {
