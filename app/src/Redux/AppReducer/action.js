@@ -35,7 +35,7 @@ const fetchData = (payload) => {
     dispatch(fetchDataRequest(payload));
 
     axios
-      .get("https://blueproduct.herokuapp.com/abel")
+      .get("https://bluemercury-data.onrender.com/abel")
 
       .then((res) => dispatch(fetchDataSuccess(res.data)))
       .catch((err) => dispatch(fetchDataFailure(err.data)));
@@ -47,7 +47,7 @@ const fetchDatab = (Baby) => {
     dispatch(fetchDataRequest(Baby));
 
     axios
-      .get("https://blueproduct.herokuapp.com/babyfoot", {
+      .get("https://bluemercury-data.onrender.com/babyfoot", {
         params: { category: Baby },
       })
       .then((res) => dispatch(fetchDataSuccess(res.data)))
@@ -62,7 +62,7 @@ const fetchDataC = (caudalie) => {
     dispatch(fetchDataRequest(caudalie));
 
     axios
-      .get("https://blueproduct.herokuapp.com/caudalie", {
+      .get("https://bluemercury-data.onrender.com/caudalie", {
         params: { category: caudalie },
       })
       .then((res) => dispatch(fetchDataSuccess(res.data)))
@@ -99,7 +99,7 @@ export const fetchmyData = (payload) => {
     dispatch(fetchmyDataRequest(payload));
 
     axios
-      .get("https://blueproduct.herokuapp.com/new")
+      .get("https://bluemercury-data.onrender.com/new")
 
       .then((res) => dispatch(fetchmyDataSuccess(res.data)))
       .catch((err) => dispatch(fetchmyDataFailure(err.data)));
@@ -110,7 +110,7 @@ export const fetchmyData = (payload) => {
 
 export const addCityReducer = (payload) => (dispatch) => {
   axios
-    .get("https://blueproduct.herokuapp.com/new")
+    .get("https://bluemercury-data.onrender.com/new")
     .then((res) => {
       let data;
       if (payload === 1) {
